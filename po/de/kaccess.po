@@ -1,0 +1,505 @@
+# Thomas Diehl <thd@kde.org>, 2002.
+# Stephan Johach <hunsum@gmx.de>, 2005.
+# Thomas Reitelbach <tr@erdfunkstelle.de>, 2005, 2006, 2007, 2008, 2009.
+# Panagiotis Papadopoulos <pano_90@gmx.net>, 2010.
+# Burkhard Lück <lueck@hube-lueck.de>, 2015, 2021.
+# Frederik Schwarzer <schwarzer@kde.org>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: kaccess\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-05-11 05:05+0200\n"
+"Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Thomas Diehl,Stephan Johach,Thomas Reitelbach"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "thd@kde.org,hunsum@gmx.de,tr@erdfunkstelle.de"
+
+#: kaccess.cpp:63
+#, kde-format
+msgid ""
+"The Shift key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Umschalt-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:64
+#, kde-format
+msgid "The Shift key is now active."
+msgstr "Die Umschalt-Taste ist nun aktiv."
+
+#: kaccess.cpp:65
+#, kde-format
+msgid "The Shift key is now inactive."
+msgstr "Die Umschalt-Taste ist nun inaktiv."
+
+#: kaccess.cpp:69
+#, kde-format
+msgid ""
+"The Control key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Strg-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:70
+#, kde-format
+msgid "The Control key is now active."
+msgstr "Die Strg-Taste ist nun aktiv."
+
+#: kaccess.cpp:71
+#, kde-format
+msgid "The Control key is now inactive."
+msgstr "Die Strg-Taste ist nun inaktiv."
+
+#: kaccess.cpp:75
+#, kde-format
+msgid ""
+"The Alt key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Alt-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:76
+#, kde-format
+msgid "The Alt key is now active."
+msgstr "Die Alt-Taste ist nun aktiv."
+
+#: kaccess.cpp:77
+#, kde-format
+msgid "The Alt key is now inactive."
+msgstr "Die Alt-Taste ist nun inaktiv."
+
+#: kaccess.cpp:81
+#, kde-format
+msgid ""
+"The Win key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Windows-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:82
+#, kde-format
+msgid "The Win key is now active."
+msgstr "Die Windows-Taste ist nun aktiv."
+
+#: kaccess.cpp:83
+#, kde-format
+msgid "The Win key is now inactive."
+msgstr "Die Windows-Taste ist nun inaktiv."
+
+#: kaccess.cpp:87
+#, kde-format
+msgid ""
+"The Meta key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Meta-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:88
+#, kde-format
+msgid "The Meta key is now active."
+msgstr "Die Meta-Taste ist nun aktiv."
+
+#: kaccess.cpp:89
+#, kde-format
+msgid "The Meta key is now inactive."
+msgstr "Die Meta-Taste ist nun inaktiv."
+
+#: kaccess.cpp:93
+#, kde-format
+msgid ""
+"The Super key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Super-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:94
+#, kde-format
+msgid "The Super key is now active."
+msgstr "Die Super-Taste ist nun aktiv."
+
+#: kaccess.cpp:95
+#, kde-format
+msgid "The Super key is now inactive."
+msgstr "Die Super-Taste ist nun inaktiv."
+
+#: kaccess.cpp:99
+#, kde-format
+msgid ""
+"The Hyper key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Hyper-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:100
+#, kde-format
+msgid "The Hyper key is now active."
+msgstr "Die Hyper-Taste ist nun aktiv."
+
+#: kaccess.cpp:101
+#, kde-format
+msgid "The Hyper key is now inactive."
+msgstr "Die Hyper-Taste ist nun inaktiv."
+
+#: kaccess.cpp:105
+#, kde-format
+msgid ""
+"The Alt Graph key has been locked and is now active for all of the following "
+"keypresses."
+msgstr ""
+"Die Alt Gr-Taste wurde eingerastet und ist nun für alle nachfolgenden "
+"Tastendrücke aktiv."
+
+#: kaccess.cpp:106
+#, kde-format
+msgid "The Alt Graph key is now active."
+msgstr "Die Alt Gr-Taste ist nun aktiv."
+
+#: kaccess.cpp:107
+#, kde-format
+msgid "The Alt Graph key is now inactive."
+msgstr "Die Alt Gr-Taste ist nun inaktiv."
+
+#: kaccess.cpp:108
+#, kde-format
+msgid "The Num Lock key has been activated."
+msgstr "Die Num-Feststelltaste ist nun aktiv."
+
+#: kaccess.cpp:108
+#, kde-format
+msgid "The Num Lock key is now inactive."
+msgstr "Die Num-Feststelltaste ist nun inaktiv."
+
+#: kaccess.cpp:109
+#, kde-format
+msgid "The Caps Lock key has been activated."
+msgstr "Die Feststelltaste ist nun aktiv."
+
+#: kaccess.cpp:109
+#, kde-format
+msgid "The Caps Lock key is now inactive."
+msgstr "Die Feststelltaste ist nun inaktiv."
+
+#: kaccess.cpp:110
+#, kde-format
+msgid "The Scroll Lock key has been activated."
+msgstr "Die Scroll-Feststelltaste ist nun aktiv."
+
+#: kaccess.cpp:110
+#, kde-format
+msgid "The Scroll Lock key is now inactive."
+msgstr "Die Scroll-Feststelltaste ist nun inaktiv."
+
+#: kaccess.cpp:326
+#, kde-format
+msgid "Toggle Screen Reader On and Off"
+msgstr "Screenreader ein-/ausschalten"
+
+#: kaccess.cpp:328
+#, kde-format
+msgctxt "Name for kaccess shortcuts category"
+msgid "Accessibility"
+msgstr "Zugangshilfen"
+
+#: kaccess.cpp:610
+#, kde-format
+msgid "AltGraph"
+msgstr "Alt Gr"
+
+#: kaccess.cpp:612
+#, kde-format
+msgid "Hyper"
+msgstr "Hyper"
+
+#: kaccess.cpp:614
+#, kde-format
+msgid "Super"
+msgstr "Super"
+
+#: kaccess.cpp:616
+#, kde-format
+msgid "Meta"
+msgstr "Meta"
+
+#: kaccess.cpp:633
+#, kde-format
+msgid "Warning"
+msgstr "Warnung"
+
+#: kaccess.cpp:661
+#, kde-format
+msgid "&When a gesture was used:"
+msgstr "&Wenn eine Geste benutzt wurde:"
+
+#: kaccess.cpp:667
+#, kde-format
+msgid "Change Settings Without Asking"
+msgstr "Einstellungen ohne Rückfrage ändern"
+
+#: kaccess.cpp:668
+#, kde-format
+msgid "Show This Confirmation Dialog"
+msgstr "Diesen Bestätigungsdialog anzeigen"
+
+#: kaccess.cpp:669
+#, kde-format
+msgid "Deactivate All AccessX Features & Gestures"
+msgstr "Alle AccessX-Funktionen und Gesten abschalten"
+
+#: kaccess.cpp:712 kaccess.cpp:714
+#, kde-format
+msgid "Slow keys"
+msgstr "Verlangsamte Tasten"
+
+#: kaccess.cpp:717 kaccess.cpp:719
+#, kde-format
+msgid "Bounce keys"
+msgstr "Zurückschnellende Tasten"
+
+#: kaccess.cpp:722 kaccess.cpp:724
+#, kde-format
+msgid "Sticky keys"
+msgstr "Klebende Tasten"
+
+#: kaccess.cpp:727 kaccess.cpp:729
+#, kde-format
+msgid "Mouse keys"
+msgstr "Maustasten"
+
+#: kaccess.cpp:736
+#, kde-format
+msgid "Do you really want to deactivate \"%1\"?"
+msgstr "Möchten Sie „%1“ wirklich deaktivieren?"
+
+#: kaccess.cpp:739
+#, kde-format
+msgid "Do you really want to deactivate \"%1\" and \"%2\"?"
+msgstr "Möchten Sie „%1“ und „%2“ wirklich deaktivieren?"
+
+#: kaccess.cpp:743
+#, kde-format
+msgid "Do you really want to deactivate \"%1\", \"%2\" and \"%3\"?"
+msgstr "Möchten Sie „%1“, „%2“ und „%3“ wirklich deaktivieren?"
+
+#: kaccess.cpp:746
+#, kde-format
+msgid "Do you really want to deactivate \"%1\", \"%2\", \"%3\" and \"%4\"?"
+msgstr "Möchten Sie „%1“, „%2“, „%3“ und „%4“ wirklich deaktivieren?"
+
+#: kaccess.cpp:757
+#, kde-format
+msgid "Do you really want to activate \"%1\"?"
+msgstr "Möchten Sie „%1“ wirklich aktivieren?"
+
+#: kaccess.cpp:760
+#, kde-format
+msgid "Do you really want to activate \"%1\" and to deactivate \"%2\"?"
+msgstr "Möchten Sie „%1“ wirklich aktivieren und „%2“ deaktivieren?"
+
+#: kaccess.cpp:763
+#, kde-format
+msgid ""
+"Do you really want to activate \"%1\" and to deactivate \"%2\" and \"%3\"?"
+msgstr "Möchten Sie „%1“ wirklich aktivieren und „%2“ und „%3“ deaktivieren?"
+
+#: kaccess.cpp:769
+#, kde-format
+msgid ""
+"Do you really want to activate \"%1\" and to deactivate \"%2\", \"%3\" and "
+"\"%4\"?"
+msgstr ""
+"Möchten Sie „%1“ wirklich aktivieren und „%2“, „%3“ und „%4“ deaktivieren?"
+
+#: kaccess.cpp:780
+#, kde-format
+msgid "Do you really want to activate \"%1\" and \"%2\"?"
+msgstr "Möchten Sie wirklich „%1“ und „%2“ aktivieren?"
+
+#: kaccess.cpp:783
+#, kde-format
+msgid ""
+"Do you really want to activate \"%1\" and \"%2\" and to deactivate \"%3\"?"
+msgstr "Möchten Sie wirklich „%1“ und „%2“ aktivieren und „%3“ deaktivieren?"
+
+#: kaccess.cpp:789
+#, kde-format
+msgid ""
+"Do you really want to activate \"%1\", and \"%2\" and to deactivate \"%3\" "
+"and \"%4\"?"
+msgstr ""
+"Möchten Sie wirklich „%1“ und „%2“ aktivieren und „%3“ und „%4“ deaktivieren?"
+
+#: kaccess.cpp:800
+#, kde-format
+msgid "Do you really want to activate \"%1\", \"%2\" and \"%3\"?"
+msgstr "Möchten Sie wirklich „%1“, „%2“ und „%3“ aktivieren?"
+
+#: kaccess.cpp:803
+#, kde-format
+msgid ""
+"Do you really want to activate \"%1\", \"%2\" and \"%3\" and to deactivate "
+"\"%4\"?"
+msgstr ""
+"Möchten Sie wirklich „%1“, „%2“ und „%3“ aktivieren und „%4“ deaktivieren?"
+
+#: kaccess.cpp:812
+#, kde-format
+msgid "Do you really want to activate \"%1\", \"%2\", \"%3\" and \"%4\"?"
+msgstr "Möchten Sie wirklich „%1“, „%2“, „%3“ und „%4“ aktivieren?"
+
+#: kaccess.cpp:821
+#, kde-format
+msgid "An application has requested to change this setting."
+msgstr "Eine Anwendung möchte diese Einstellung ändern."
+
+#: kaccess.cpp:825
+#, kde-format
+msgid ""
+"You held down the Shift key for 8 seconds or an application has requested to "
+"change this setting."
+msgstr ""
+"Sie haben die Umschalt-Taste für 8 Sekunden gedrückt, oder eine Anwendung "
+"möchte diese Einstellung ändern."
+
+#: kaccess.cpp:827
+#, kde-format
+msgid ""
+"You pressed the Shift key 5 consecutive times or an application has "
+"requested to change this setting."
+msgstr ""
+"Sie haben die Umschalt-Taste fünfmal in Folge gedrückt, oder eine Anwendung "
+"möchte diese Einstellung ändern."
+
+#: kaccess.cpp:831
+#, kde-format
+msgid "You pressed %1 or an application has requested to change this setting."
+msgstr ""
+"Sie haben %1 gedrückt, oder eine Anwendung möchte diese Einstellung ändern."
+
+#: kaccess.cpp:836
+#, kde-format
+msgid ""
+"An application has requested to change these settings, or you used a "
+"combination of several keyboard gestures."
+msgstr ""
+"Eine Anwendung möchte diese Einstellungen ändern, oder Sie haben eine "
+"Kombination verschiedener Tastaturgesten benutzt."
+
+#: kaccess.cpp:838
+#, kde-format
+msgid "An application has requested to change these settings."
+msgstr "Eine Anwendung möchte diese Einstellungen ändern."
+
+#: kaccess.cpp:843
+#, kde-format
+msgid ""
+"These AccessX settings are needed for some users with motion impairments and "
+"can be configured in the KDE System Settings. You can also turn them on and "
+"off with standardized keyboard gestures.\n"
+"\n"
+"If you do not need them, you can select \"Deactivate all AccessX features "
+"and gestures\"."
+msgstr ""
+"Die Einstellungen für AccessX sind für Anwender mit beeinträchtigtem "
+"Bewegungsapparat gedacht und können in den KDE-Systemeinstellungen "
+"eingerichtet werden. Diese Einstellung können auch über standardisierte "
+"Tastaturgesten an- oder abgeschaltet werden.\n"
+"\n"
+"Wenn Sie diese Funktionalität nicht benötigen, können Sie die Einstellung "
+"„Alle AccessX-Funktionen und Gesten abschalten“ auswählen."
+
+#: kaccess.cpp:864
+#, kde-format
+msgid ""
+"Slow keys has been enabled. From now on, you need to press each key for a "
+"certain length of time before it gets accepted."
+msgstr ""
+"Langsame Tasten wurden aktiviert. Von nun an müssen Sie jede Taste länger "
+"gedrückt halten, damit sie vom System angenommen wird."
+
+#: kaccess.cpp:866
+#, kde-format
+msgid "Slow keys has been disabled."
+msgstr "Langsame Tasten wurden deaktiviert."
+
+#: kaccess.cpp:870
+#, kde-format
+msgid ""
+"Bounce keys has been enabled. From now on, each key will be blocked for a "
+"certain length of time after it was used."
+msgstr ""
+"Zurückschnellende Tasten wurden aktiviert. Von nun an wird jede bereits "
+"gedrückte Taste nach ihrer letzten Verwendung für eine Weile gesperrt sein."
+
+#: kaccess.cpp:872
+#, kde-format
+msgid "Bounce keys has been disabled."
+msgstr "Zurückschnellende Tasten wurden deaktiviert."
+
+#: kaccess.cpp:876
+#, kde-format
+msgid ""
+"Sticky keys has been enabled. From now on, modifier keys will stay latched "
+"after you have released them."
+msgstr ""
+"Klebende Tasten wurden aktiviert. Von nun an werden Sondertasten nach ihrer "
+"Betätigung aktiv bleiben."
+
+#: kaccess.cpp:878
+#, kde-format
+msgid "Sticky keys has been disabled."
+msgstr "Klebende Tasten wurden deaktiviert."
+
+#: kaccess.cpp:882
+#, kde-format
+msgid ""
+"Mouse keys has been enabled. From now on, you can use the number pad of your "
+"keyboard in order to control the mouse."
+msgstr ""
+"Maustasten wurden aktiviert. Von nun an können Sie das Zahlenfeld auf Ihrer "
+"Tastatur als Mausersatz verwenden."
+
+#: kaccess.cpp:884
+#, kde-format
+msgid "Mouse keys has been disabled."
+msgstr "Maustasten wurden deaktiviert."
+
+#: main.cpp:41
+#, kde-format
+msgid "Accessibility"
+msgstr "Zugangshilfen"
+
+#: main.cpp:41
+#, kde-format
+msgid "(c) 2000, Matthias Hoelzer-Kluepfel"
+msgstr "© 2000, Matthias Hölzer-Klüpfel"
+
+#: main.cpp:43
+#, kde-format
+msgid "Matthias Hoelzer-Kluepfel"
+msgstr "Matthias Hoelzer-Kluepfel"
+
+#: main.cpp:43
+#, kde-format
+msgid "Author"
+msgstr "Autor"

@@ -1,0 +1,494 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2015, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-29 01:47+0000\n"
+"PO-Revision-Date: 2021-07-08 18:08+0200\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#: package/contents/config/config.qml:16
+#, kde-format
+msgid "Location"
+msgstr "Konum"
+
+#: package/contents/config/config.qml:23
+#: package/contents/ui/ConfigIcons.qml:208
+#: package/contents/ui/FolderViewLayer.qml:402
+#, kde-format
+msgid "Icons"
+msgstr "Simgeler"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgid "Filter"
+msgstr "Süzgeç"
+
+#: package/contents/ui/BackButtonItem.qml:103
+#, kde-format
+msgid "Back"
+msgstr "Geri"
+
+#: package/contents/ui/ConfigFilter.qml:63
+#, kde-format
+msgid "Files:"
+msgstr "Dosyalar:"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show all"
+msgstr "Tümünü göster"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show matching"
+msgstr "Eşleşmeyi göster"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Hide matching"
+msgstr "Eşleşenleri gizle"
+
+#: package/contents/ui/ConfigFilter.qml:69
+#, kde-format
+msgid "File name pattern:"
+msgstr "Dosya adı kalıbı:"
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, kde-format
+msgid "File types:"
+msgstr "Dosya türleri:"
+
+#: package/contents/ui/ConfigFilter.qml:78
+#, kde-format
+msgid "Search…"
+msgstr "Ara…"
+
+#: package/contents/ui/ConfigFilter.qml:177
+#, kde-format
+msgid "File type"
+msgstr "Dosya türü"
+
+#: package/contents/ui/ConfigFilter.qml:186
+#, kde-format
+msgid "Description"
+msgstr "Açıklama"
+
+#: package/contents/ui/ConfigFilter.qml:200
+#, kde-format
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Deselect All"
+msgstr "Tümünün Seçimini Kaldır"
+
+#: package/contents/ui/ConfigIcons.qml:63
+#, kde-format
+msgid "Panel button:"
+msgstr "Pano düğmesi:"
+
+#: package/contents/ui/ConfigIcons.qml:69
+#, kde-format
+msgid "Use a custom icon"
+msgstr "Özel simge kullan"
+
+#: package/contents/ui/ConfigIcons.qml:103
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "Seç…"
+
+#: package/contents/ui/ConfigIcons.qml:109
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Simgeyi Temizle"
+
+#: package/contents/ui/ConfigIcons.qml:128
+#, kde-format
+msgid "Arrangement:"
+msgstr "Yerleşim:"
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:62
+#, kde-format
+msgid "Rows"
+msgstr "Satırlar"
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:66
+#, kde-format
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align left"
+msgstr "Sola hizala"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align right"
+msgstr "Sağa hizala"
+
+#: package/contents/ui/ConfigIcons.qml:152
+#, kde-format
+msgid "Lock in place"
+msgstr "Olduğu yere kilitle"
+
+#: package/contents/ui/ConfigIcons.qml:165
+#, kde-format
+msgid "Sorting:"
+msgstr "Sıralama:"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#, kde-format
+msgid "Manual"
+msgstr "El İle"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:26
+#, kde-format
+msgid "Name"
+msgstr "İsim"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:30
+#, kde-format
+msgid "Size"
+msgstr "Boyut"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, kde-format
+msgid "Type"
+msgstr "Tür"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, kde-format
+msgid "Date"
+msgstr "Tarih"
+
+#: package/contents/ui/ConfigIcons.qml:184
+#: plugins/folder/viewpropertiesmenu.cpp:43
+#, kde-format
+msgid "Descending"
+msgstr "Azalan"
+
+#: package/contents/ui/ConfigIcons.qml:192
+#, kde-format
+msgid "Folders first"
+msgstr "Önce dizinler"
+
+#: package/contents/ui/ConfigIcons.qml:206
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr "Görünüm kipi:"
+
+#: package/contents/ui/ConfigIcons.qml:208
+#, kde-format
+msgid "List"
+msgstr "Liste"
+
+#: package/contents/ui/ConfigIcons.qml:219
+#, kde-format
+msgid "Icon size:"
+msgstr "Simge boyutu:"
+
+#: package/contents/ui/ConfigIcons.qml:234
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small"
+msgstr "Küçük"
+
+#: package/contents/ui/ConfigIcons.qml:243
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Large"
+msgstr "Büyük"
+
+#: package/contents/ui/ConfigIcons.qml:252
+#, kde-format
+msgid "Label width:"
+msgstr "Etiket genişliği:"
+
+#: package/contents/ui/ConfigIcons.qml:255
+#, kde-format
+msgid "Narrow"
+msgstr "Dar"
+
+#: package/contents/ui/ConfigIcons.qml:256
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Medium"
+msgstr "Orta"
+
+#: package/contents/ui/ConfigIcons.qml:257
+#, kde-format
+msgid "Wide"
+msgstr "Geniş"
+
+#: package/contents/ui/ConfigIcons.qml:265
+#, kde-format
+msgid "Text lines:"
+msgstr "Metin satırları:"
+
+#: package/contents/ui/ConfigIcons.qml:281
+#, kde-format
+msgid "Features:"
+msgstr "Özellikler:"
+
+#: package/contents/ui/ConfigIcons.qml:283
+#, kde-format
+msgid "Tooltips"
+msgstr "Araç ipuçları"
+
+#: package/contents/ui/ConfigIcons.qml:290
+#, kde-format
+msgid "Selection markers"
+msgstr "Seçim işaretleyicileri"
+
+#: package/contents/ui/ConfigIcons.qml:297
+#, kde-format
+msgid "Rename inline by clicking selected item's text"
+msgstr "Seçili ögenin metnine tıklayarak satır içi yeniden adlandırın"
+
+#: package/contents/ui/ConfigIcons.qml:304
+#, kde-format
+msgid "Folder preview popups"
+msgstr "Klasör önizleme açılan pencereleri"
+
+#: package/contents/ui/ConfigIcons.qml:310
+#, kde-format
+msgid "Preview thumbnails"
+msgstr "Küçük resimleri önizle"
+
+#: package/contents/ui/ConfigIcons.qml:318
+#, kde-format
+msgid "Configure Preview Plugins…"
+msgstr "Önizleme Eklentilerini Yapılandır…"
+
+#: package/contents/ui/ConfigLocation.qml:81
+#, kde-format
+msgid "Show:"
+msgstr "Göster:"
+
+#: package/contents/ui/ConfigLocation.qml:83
+#, kde-format
+msgid "Desktop folder"
+msgstr "Masaüstü klasörü"
+
+#: package/contents/ui/ConfigLocation.qml:90
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr "Mevcut etkinliğe bağlı dosyalar"
+
+#: package/contents/ui/ConfigLocation.qml:97
+#, kde-format
+msgid "Places panel item:"
+msgstr "Yerler paneli ögesi:"
+
+#: package/contents/ui/ConfigLocation.qml:130
+#, kde-format
+msgid "Custom location:"
+msgstr "Özel konum:"
+
+#: package/contents/ui/ConfigLocation.qml:138
+#, kde-format
+msgid "Type path or URL…"
+msgstr "Bir yol ya da adres yazın…"
+
+#: package/contents/ui/ConfigLocation.qml:181
+#, kde-format
+msgid "Title:"
+msgstr "Başlık:"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "None"
+msgstr "Hiçbiri"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Default"
+msgstr "Öntanımlı"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Full path"
+msgstr "Tam yol"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Custom title"
+msgstr "Özel başlık"
+
+#: package/contents/ui/ConfigLocation.qml:198
+#, kde-format
+msgid "Enter custom title…"
+msgstr "Özelleştirilmiş başlık girin…"
+
+#: package/contents/ui/ConfigOverlay.qml:87
+#, kde-format
+msgid "Rotate"
+msgstr "Döndür"
+
+#: package/contents/ui/ConfigOverlay.qml:178
+#, kde-format
+msgid "Open Externally"
+msgstr "Harici Aç"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Hide Background"
+msgstr "Arka Planı Gizle"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Show Background"
+msgstr "Arka Planı Göster"
+
+#: package/contents/ui/ConfigOverlay.qml:238
+#, kde-format
+msgid "Remove"
+msgstr "Kaldır"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:24
+#, kde-format
+msgid "Preview Plugins"
+msgstr "Eklentileri Önizle"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:82
+#, kde-format
+msgid "OK"
+msgstr "Tamam"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:95
+#, kde-format
+msgid "Cancel"
+msgstr "İptal"
+
+#: package/contents/ui/main.qml:346
+#, kde-format
+msgid "Configure Desktop and Wallpaper…"
+msgstr "Masaüstünü Arka Planı Yapılandır…"
+
+#: plugins/folder/directorypicker.cpp:33
+#, kde-format
+msgid "Select Folder"
+msgstr "Klasör Seçin"
+
+#: plugins/folder/foldermodel.cpp:404
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "Masaüstünü &Yenile"
+
+#: plugins/folder/foldermodel.cpp:404 plugins/folder/foldermodel.cpp:1593
+#, kde-format
+msgid "&Refresh View"
+msgstr "&Görünümü Tazele"
+
+#: plugins/folder/foldermodel.cpp:1602
+#, kde-format
+msgid "&Empty Trash"
+msgstr "&Çöp Kutusunu Boşalt"
+
+#: plugins/folder/foldermodel.cpp:1605
+#, kde-format
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr "Geri Yükle"
+
+#: plugins/folder/foldermodel.cpp:1608
+#, kde-format
+msgid "&Open"
+msgstr "&Aç"
+
+#: plugins/folder/foldermodel.cpp:1723
+#, kde-format
+msgid "&Paste"
+msgstr "&Yapıştır"
+
+#: plugins/folder/foldermodel.cpp:1837
+#, kde-format
+msgid "&Properties"
+msgstr "&Özellikler"
+
+#: plugins/folder/viewpropertiesmenu.cpp:19
+#, kde-format
+msgid "Sort By"
+msgstr "Buna Göre Sırala"
+
+#: plugins/folder/viewpropertiesmenu.cpp:22
+#, kde-format
+msgid "Unsorted"
+msgstr "Sıralanmamış"
+
+#: plugins/folder/viewpropertiesmenu.cpp:45
+#, kde-format
+msgid "Folders First"
+msgstr "Önce Dizinler"
+
+#: plugins/folder/viewpropertiesmenu.cpp:48
+#, kde-format
+msgid "Icon Size"
+msgstr "Simge Boyutu"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Tiny"
+msgstr "Ufak"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small Medium"
+msgstr "Küçük"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Huge"
+msgstr "Devasa"
+
+#: plugins/folder/viewpropertiesmenu.cpp:59
+#, kde-format
+msgid "Arrange In"
+msgstr "Şurada Sırala"
+
+#: plugins/folder/viewpropertiesmenu.cpp:71
+#, kde-format
+msgid "Align"
+msgstr "Hizala"
+
+#: plugins/folder/viewpropertiesmenu.cpp:74
+#, kde-format
+msgid "Left"
+msgstr "Sol"
+
+#: plugins/folder/viewpropertiesmenu.cpp:78
+#, kde-format
+msgid "Right"
+msgstr "Sağ"
+
+#: plugins/folder/viewpropertiesmenu.cpp:83
+#, kde-format
+msgid "Show Previews"
+msgstr "Önizlemeleri Göster"
+
+#: plugins/folder/viewpropertiesmenu.cpp:86
+#, kde-format
+msgid "Locked"
+msgstr "Kilitli"

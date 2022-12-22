@@ -1,0 +1,398 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2014, 2015, 2016, 2017, 2019, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-06-06 07:07+0200\n"
+"Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
+"Language-Team: Polish <kde-i18n-doc@kde.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 20.12.1\n"
+
+#: contents/activitymanager/ActivityItem.qml:212
+msgid "Currently being used"
+msgstr "Obecnie używane"
+
+#: contents/activitymanager/ActivityItem.qml:252
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Przenieś do\n"
+"tej aktywności"
+
+#: contents/activitymanager/ActivityItem.qml:282
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Pokaż także\n"
+"w tej aktywności"
+
+#: contents/activitymanager/ActivityItem.qml:342
+msgid "Configure"
+msgstr "Ustawienia"
+
+#: contents/activitymanager/ActivityItem.qml:359
+msgid "Stop activity"
+msgstr "Zatrzymaj aktywność"
+
+#: contents/activitymanager/ActivityList.qml:143
+msgid "Stopped activities:"
+msgstr "Zatrzymane aktywności:"
+
+#: contents/activitymanager/ActivityManager.qml:127
+msgid "Create activity…"
+msgstr "Utwórz aktywność..."
+
+#: contents/activitymanager/Heading.qml:61
+msgid "Activities"
+msgstr "Aktywności"
+
+#: contents/activitymanager/Heading.qml:78
+#: contents/explorer/WidgetExplorer.qml:230
+msgid "Search…"
+msgstr "Szukaj..."
+
+#: contents/activitymanager/StoppedActivityItem.qml:133
+msgid "Configure activity"
+msgstr "Ustawienia aktywności"
+
+#: contents/activitymanager/StoppedActivityItem.qml:148
+msgid "Delete"
+msgstr "Usuń"
+
+#: contents/applet/AppletError.qml:52
+msgid "Sorry! There was an error loading %1."
+msgstr "Wybacz! Wystąpił błąd podczas wczytywania %1."
+
+#: contents/applet/AppletError.qml:60
+msgid "Copy Error Details to Clipboard"
+msgstr "Skopiuj szczegóły błędu do schowka"
+
+#: contents/configuration/AboutPlugin.qml:19
+#: contents/configuration/AppletConfiguration.qml:227
+msgid "About"
+msgstr "O programie"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "Wyślij wiadomość do %1"
+
+#: contents/configuration/AboutPlugin.qml:94
+msgid "Copyright"
+msgstr "Prawa autorskie"
+
+#: contents/configuration/AboutPlugin.qml:114 contents/explorer/Tooltip.qml:93
+msgid "License:"
+msgstr "Licencja:"
+
+#: contents/configuration/AboutPlugin.qml:127
+msgid "Authors"
+msgstr "Autorzy"
+
+#: contents/configuration/AboutPlugin.qml:137
+msgid "Credits"
+msgstr "Zasługi"
+
+#: contents/configuration/AboutPlugin.qml:148
+msgid "Translators"
+msgstr "Tłumacze"
+
+#: contents/configuration/AppletConfiguration.qml:40
+msgid "Keyboard Shortcuts"
+msgstr "Skróty klawiszowe"
+
+#: contents/configuration/AppletConfiguration.qml:275
+msgid "Apply Settings"
+msgstr "Wprowadzanie zmian"
+
+#: contents/configuration/AppletConfiguration.qml:276
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Ustawienia bieżącego modułu uległy zmianie. Zapisać, czy porzucić zmiany?"
+
+#: contents/configuration/AppletConfiguration.qml:301
+msgid "OK"
+msgstr "OK"
+
+#: contents/configuration/AppletConfiguration.qml:309
+msgid "Apply"
+msgstr "Zastosuj"
+
+#: contents/configuration/AppletConfiguration.qml:315
+#: contents/explorer/AppletAlternatives.qml:175
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:29
+msgid "Open configuration page"
+msgstr "Otwórz stronę ustawień"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:19
+msgid "Left-Button"
+msgstr "Lewy przycisk"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:20
+msgid "Right-Button"
+msgstr "Prawy przycisk"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Middle-Button"
+msgstr "Środkowy przycisk"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Back-Button"
+msgstr "Przycisk wstecz"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Forward-Button"
+msgstr "Przycisk wprzód"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Vertical-Scroll"
+msgstr "Przewijanie w pionie"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:26
+msgid "Horizontal-Scroll"
+msgstr "Przewijanie w poziomie"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:29
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:73
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:153
+#: contents/configuration/MouseEventInputButton.qml:15
+msgid "Add Action"
+msgstr "Dodaj działanie"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:26
+msgid "Appearance"
+msgstr "Wygląd"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:68
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "Zmiany układu zostały ograniczone przez administratora systemu"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:83
+msgid "Layout:"
+msgstr "Układ:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:98
+msgid "Wallpaper Type:"
+msgstr "Rodzaj tapety:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:115
+msgid "Get New Plugins…"
+msgstr "Pobierz nową wtyczkę..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:127
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "Zmiany układu należy zastosować przed zastosowaniem kolejnych zmian"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:133
+msgid "Apply now"
+msgstr "Zastosuj teraz"
+
+#: contents/configuration/ConfigurationShortcuts.qml:16
+msgid "Shortcuts"
+msgstr "Skróty"
+
+#: contents/configuration/ConfigurationShortcuts.qml:26
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "Ten skrót włączy aplet, tak jakby został on kliknięty."
+
+#: contents/configuration/ContainmentConfiguration.qml:31
+msgid "Wallpaper"
+msgstr "Tapeta"
+
+#: contents/configuration/ContainmentConfiguration.qml:36
+msgid "Mouse Actions"
+msgstr "Działania myszy"
+
+#: contents/configuration/MouseEventInputButton.qml:22
+msgid "Input Here"
+msgstr "Wprowadź tutaj"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:16
+msgid "Screen Edge"
+msgstr "Krawędź ekranu"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr ""
+"Kliknij i przeciągnij przycisk do krawędzi ekranu, aby przesunąć tam panel."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:34
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:168
+msgid "Remove Panel"
+msgstr "Usuń panel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:41
+msgid "Panel Alignment"
+msgstr "Wyrównanie panelu"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Top"
+msgstr "Do góry"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Left"
+msgstr "Do lewej"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+msgid "Center"
+msgstr "Do środka"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Bottom"
+msgstr "Do dołu"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Right"
+msgstr "Do prawej"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:83
+msgid "Visibility"
+msgstr "Widoczność"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:91
+msgid "Always Visible"
+msgstr "Zawsze widoczny"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:99
+msgid "Auto Hide"
+msgstr "Samoczynnie ukryj"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:107
+msgid "Windows Can Cover"
+msgstr "Okna mogą przykryć"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:115
+msgid "Windows Go Below"
+msgstr "Okna są przykrywane"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:124
+msgid "Opacity"
+msgstr "Nieprzezroczystość"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:134
+msgid "Adaptive"
+msgstr "Dostosowująca się"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+msgid "Opaque"
+msgstr "Nieprzezroczyste"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:150
+msgid "Translucent"
+msgstr "Przezroczysta"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:159
+msgid "Maximize Panel"
+msgstr "Maksymalizuj panel"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:22
+msgid "Add Widgets…"
+msgstr "Dodaj elementy interfejsu..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:23
+msgid "Add Spacer"
+msgstr "Dodaj wypełniacz"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:24
+msgid "More Options…"
+msgstr "Więcej ustawień..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel width:"
+msgstr "Szerokość panelu:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel height:"
+msgstr "Wysokość panelu:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:213
+msgid "Close"
+msgstr "Zamknij"
+
+#: contents/explorer/AppletAlternatives.qml:72
+msgid "Alternative Widgets"
+msgstr "Zamienne elementy interfejsu"
+
+#: contents/explorer/AppletAlternatives.qml:165
+msgid "Switch"
+msgstr "Przełącz"
+
+#: contents/explorer/AppletDelegate.qml:166
+msgid "Undo uninstall"
+msgstr "Wycofaj odinstalowanie"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Uninstall widget"
+msgstr "Usuń element interfejsu"
+
+#: contents/explorer/Tooltip.qml:102
+msgid "Author:"
+msgstr "Autor:"
+
+#: contents/explorer/Tooltip.qml:110
+msgid "Email:"
+msgstr "Adres pocztowy:"
+
+#: contents/explorer/Tooltip.qml:129
+msgid "Uninstall"
+msgstr "Usuń "
+
+#: contents/explorer/WidgetExplorer.qml:129
+#: contents/explorer/WidgetExplorer.qml:245
+msgid "All Widgets"
+msgstr "Wszystkie elementy interfejsu"
+
+#: contents/explorer/WidgetExplorer.qml:204
+msgid "Widgets"
+msgstr "Elementy interfejsu"
+
+#: contents/explorer/WidgetExplorer.qml:212
+msgid "Get New Widgets…"
+msgstr "Pobierz nowe elementy interfejsu..."
+
+#: contents/explorer/WidgetExplorer.qml:244
+msgid "Categories"
+msgstr "Kategorie"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets matched the search terms"
+msgstr "Żaden z elementów interfejsu nie pasuje do wyszukiwanego wyrażenia"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets available"
+msgstr "Brak elementów interfejsu"

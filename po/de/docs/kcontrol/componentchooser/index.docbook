@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.5-Based Variant V1.1//EN"
+"dtd/kdedbx45.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % German "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;" id="default-components">
+<articleinfo>
+
+<title
+>Standard-Komponenten</title>
+<authorgroup>
+<author
+>&Burkhard.Lueck;&Burkhard.Lueck.mail;</author>
+
+<othercredit role="translator"
+><firstname
+>Burkhard</firstname
+><surname
+>Lück</surname
+><affiliation
+><address
+><email
+>lueck@hube-lueck.de</email
+></address
+></affiliation
+><contrib
+>Übersetzung</contrib
+></othercredit
+> 
+</authorgroup>
+
+<date
+>2017-01-10</date>
+<releaseinfo
+>Plasma 5.8</releaseinfo>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>Systemeinstellungen</keyword>
+<keyword
+>Komponente</keyword>
+</keywordset>
+</articleinfo>
+
+<para
+>In this module you can change &kde; default components.</para>
+
+<para
+>Components are programs that handle basic tasks, like the terminal emulator, the text editor and the email client. Different &kde; applications sometimes need to invoke a console emulator, send a mail or display some text.</para
+> 
+
+<para
+>Um die Einheitlichkeit zu wahren, verwenden die Anwendungen dieselben Standardkomponenten. Hier können Sie die Programme für diese Komponenten auswählen.</para>
+
+<para
+>Die Liste auf der linken Seite zeigt alle Arten von Komponenten, die eingerichtet werden können: </para>
+<itemizedlist>
+<listitem>
+<para
+>E-Mail-Programm</para>
+</listitem>
+<listitem>
+<para
+>Dateiverwaltung</para>
+</listitem>
+<listitem>
+<para
+>Terminal-Emulator</para>
+</listitem>
+<listitem>
+<para
+>Webbrowser</para>
+</listitem>
+</itemizedlist>
+
+<para
+>Click the component you want to configure. In the right part of the dialog then all available applications for this service are displayed and you are able to select your favorite terminal emulator, text editor and the email client &etc;</para>
+
+</article>

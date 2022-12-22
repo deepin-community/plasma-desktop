@@ -1,0 +1,186 @@
+# Xuedong Zhang <zxd@bu.edu>, 2000
+# Wang Hui <wanghuilux@yeah.net>, 2002
+# Lie Ex <lilith.ex@gmail.com>, 2008,2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-11-08 12:07\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/plasma-desktop/kcm_smserver.pot\n"
+"X-Crowdin-File-ID: 2566\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE 中国,csslayer,Guo Yun He,Tyson Tan"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-china@kde.org,csslayer@kde.org,i@guoyunhe.me,tysontan@tysontan.com"
+
+#: kcmsmserver.cpp:51
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>会话管理器</h1> 您可以在这里配置会话管理器。这包括注销会话时是否需要确"
+"认、是否在登录时恢复上次的会话以及是否在退出会话后自动关机等选项。"
+
+#: kcmsmserver.cpp:62
+#, kde-format
+msgid "Desktop Session"
+msgstr "桌面会话"
+
+#: kcmsmserver.cpp:64
+#, kde-format
+msgid "Desktop Session Login and Logout"
+msgstr "桌面会话登录和注销"
+
+#: kcmsmserver.cpp:66
+#, kde-format
+msgid "Copyright © 2000–2020 Desktop Session team"
+msgstr "Copyright © 2000–2020 桌面会话团队"
+
+#: kcmsmserver.cpp:68
+#, kde-format
+msgid "Oswald Buddenhagen"
+msgstr "Oswald Buddenhagen"
+
+#: kcmsmserver.cpp:69
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr "请求重新启动到固件设置失败：%1"
+
+#: package/contents/ui/main.qml:26
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr "下次重新启动计算机时，它将进入 UEFI 设置。"
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr "下次重新启动计算机时，它将进入固件设置。"
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Restart Now"
+msgstr "立即重新启动"
+
+#: package/contents/ui/main.qml:38
+#, kde-format
+msgid "General:"
+msgstr "常规："
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#: package/contents/ui/main.qml:39 smserversettings.kcfg:9
+#, kde-format
+msgid "Confirm logout"
+msgstr "确认注销"
+
+#. i18n: ectx: label, entry (offerShutdown), group (General)
+#: package/contents/ui/main.qml:48 smserversettings.kcfg:13
+#, kde-format
+msgid "Offer shutdown options"
+msgstr "提供关机选项"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Default leave option:"
+msgstr "默认离开选项："
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "End current session"
+msgstr "结束当前会话"
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Restart computer"
+msgstr "重启计算机"
+
+#: package/contents/ui/main.qml:86
+#, kde-format
+msgid "Turn off computer"
+msgstr "关闭计算机"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "When logging in:"
+msgstr "登入时："
+
+#: package/contents/ui/main.qml:103
+#, kde-format
+msgid "Restore previous saved session"
+msgstr "恢复先前保存的会话"
+
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgid "Restore manually saved session"
+msgstr "恢复手动保存的会话"
+
+#: package/contents/ui/main.qml:123
+#, kde-format
+msgid "Start with an empty session"
+msgstr "以空会话启动"
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Don't restore these applications:"
+msgstr "不要恢复这些应用程序："
+
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid ""
+"Here you can enter a colon or comma separated list of applications that "
+"should not be saved in sessions, and therefore will not be started when "
+"restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+"您可在此输入用冒号或逗号分隔的应用程序，这些程序将不会被保存到会话中，因此在"
+"恢复会话时也不会启动。例如：“xterm:xconsole”或“xterm,xconsole”。"
+
+#: package/contents/ui/main.qml:156
+#, kde-format
+msgid "Enter firmware setup screen on next restart"
+msgstr "在下次重启时进入固件设置"
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#: smserversettings.kcfg:17
+#, kde-format
+msgid "Default leave option"
+msgstr "默认退出选项"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#: smserversettings.kcfg:26
+#, kde-format
+msgid "On login"
+msgstr "登录时"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#: smserversettings.kcfg:30
+#, kde-format
+msgid "Applications to be excluded from session"
+msgstr "要从会话中排除的应用程序"

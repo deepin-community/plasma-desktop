@@ -1,0 +1,204 @@
+# translation of kcmsmserver.po to Irish
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Séamus Ó Ciardhuáin <seoc@cnds.ucd.ie>, 2002
+# Kevin Scannell <kscanne@gmail.com>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmsmserver\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2004-12-03 14:52-0500\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta1\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
+"3 : 4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: kcmsmserver.cpp:51
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>Bainisteoir an tSeisiúin</h1> Anseo is féidir leat bainisteoir an "
+"tseisiúin a chumrú. Tá roghanna ann lenar féidir leat socrú cé acu an bhfuil "
+"gá le logáil amach a dheimhniú nó nach bhfuil, an cóir an seisiún a "
+"athchóiriú nuair a logálfaidh tú isteach arís nó nach cóir, agus an cóir an "
+"ríomhaire a mhúchadh go huathoibríoch nuair a chuirfidh tú deireadh le "
+"seisiún nó nach cóir."
+
+#: kcmsmserver.cpp:62
+#, fuzzy, kde-format
+#| msgid "Restore &previous session"
+msgid "Desktop Session"
+msgstr "Athchóirigh an seisiún &roimhe seo"
+
+#: kcmsmserver.cpp:64
+#, kde-format
+msgid "Desktop Session Login and Logout"
+msgstr ""
+
+#: kcmsmserver.cpp:66
+#, kde-format
+msgid "Copyright © 2000–2020 Desktop Session team"
+msgstr ""
+
+#: kcmsmserver.cpp:68
+#, kde-format
+msgid "Oswald Buddenhagen"
+msgstr ""
+
+#: kcmsmserver.cpp:69
+#, kde-format
+msgid "Carl Schwan"
+msgstr ""
+
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:26
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr ""
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr ""
+
+#: package/contents/ui/main.qml:32
+#, fuzzy, kde-format
+#| msgid "&Restart computer"
+msgid "Restart Now"
+msgstr "Atosaigh an &Ríomhaire"
+
+#: package/contents/ui/main.qml:38
+#, fuzzy, kde-format
+#| msgid "General"
+msgid "General:"
+msgstr "Ginearálta"
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#: package/contents/ui/main.qml:39 smserversettings.kcfg:9
+#, fuzzy, kde-format
+#| msgid "Conf&irm logout"
+msgid "Confirm logout"
+msgstr "&Deimhnigh Logáil Amach"
+
+#. i18n: ectx: label, entry (offerShutdown), group (General)
+#: package/contents/ui/main.qml:48 smserversettings.kcfg:13
+#, fuzzy, kde-format
+#| msgid "O&ffer shutdown options"
+msgid "Offer shutdown options"
+msgstr "&Taispeáin roghanna múchta"
+
+#: package/contents/ui/main.qml:65
+#, fuzzy, kde-format
+#| msgid "Default Leave Option"
+msgid "Default leave option:"
+msgstr "Rogha Réamhshocraithe Scoir"
+
+#: package/contents/ui/main.qml:66
+#, fuzzy, kde-format
+#| msgid "&End current session"
+msgid "End current session"
+msgstr "&Cuir Deireadh leis an Seisiún Reatha"
+
+#: package/contents/ui/main.qml:76
+#, fuzzy, kde-format
+#| msgid "&Restart computer"
+msgid "Restart computer"
+msgstr "Atosaigh an &Ríomhaire"
+
+#: package/contents/ui/main.qml:86
+#, fuzzy, kde-format
+#| msgid "&Turn off computer"
+msgid "Turn off computer"
+msgstr "&Múch an Ríomhaire"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "When logging in:"
+msgstr ""
+
+#: package/contents/ui/main.qml:103
+#, fuzzy, kde-format
+#| msgid "Restore &manually saved session"
+msgid "Restore previous saved session"
+msgstr "Athchóirigh seisiún a bhí &sábháilte de láimh"
+
+#: package/contents/ui/main.qml:113
+#, fuzzy, kde-format
+#| msgid "Restore &manually saved session"
+msgid "Restore manually saved session"
+msgstr "Athchóirigh seisiún a bhí &sábháilte de láimh"
+
+#: package/contents/ui/main.qml:123
+#, fuzzy, kde-format
+#| msgid "Start with an empty &session"
+msgid "Start with an empty session"
+msgstr "Tosaigh le &seisiún folamh"
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Don't restore these applications:"
+msgstr ""
+
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid ""
+"Here you can enter a colon or comma separated list of applications that "
+"should not be saved in sessions, and therefore will not be started when "
+"restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+"Anseo is féidir leat liosta d'fheidhmchlár nach cóir iad a shábháil i "
+"seisiúin a iontráil, scartha ag camóga nó idirstadanna.  Ní thosófar iad seo "
+"nuair a athchóireofar seisiún. Mar shampla, 'xterm:konsole' nó 'xterm,"
+"konsole'."
+
+#: package/contents/ui/main.qml:156
+#, kde-format
+msgid "Enter firmware setup screen on next restart"
+msgstr ""
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#: smserversettings.kcfg:17
+#, fuzzy, kde-format
+#| msgid "Default Leave Option"
+msgid "Default leave option"
+msgstr "Rogha Réamhshocraithe Scoir"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#: smserversettings.kcfg:26
+#, fuzzy, kde-format
+#| msgid "On Login"
+msgid "On login"
+msgstr "Ag Am Logála Isteach"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#: smserversettings.kcfg:30
+#, fuzzy, kde-format
+#| msgid "Applications to be e&xcluded from sessions:"
+msgid "Applications to be excluded from session"
+msgstr "Feidhmchláir le hei&siamh ó sheisiúin:"

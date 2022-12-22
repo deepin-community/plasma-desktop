@@ -1,0 +1,501 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Weng Xuetian <wengxt@gmail.com>, 2014, 2015, 2016.
+# Chao Feng <chaofeng111@gmail.com>, 2016.
+# Guo Yunhe <guoyunhebrave@gmail.com>, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-29 01:47+0000\n"
+"PO-Revision-Date: 2021-11-08 12:07\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/plasma-desktop/plasma_applet_org.kde."
+"desktopcontainment.pot\n"
+"X-Crowdin-File-ID: 2326\n"
+
+#: package/contents/config/config.qml:16
+#, kde-format
+msgid "Location"
+msgstr "位置"
+
+#: package/contents/config/config.qml:23
+#: package/contents/ui/ConfigIcons.qml:208
+#: package/contents/ui/FolderViewLayer.qml:402
+#, kde-format
+msgid "Icons"
+msgstr "图标"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgid "Filter"
+msgstr "筛选"
+
+#: package/contents/ui/BackButtonItem.qml:103
+#, kde-format
+msgid "Back"
+msgstr "返回"
+
+#: package/contents/ui/ConfigFilter.qml:63
+#, kde-format
+msgid "Files:"
+msgstr "文件："
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show all"
+msgstr "显示全部"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show matching"
+msgstr "显示匹配"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Hide matching"
+msgstr "隐藏匹配"
+
+#: package/contents/ui/ConfigFilter.qml:69
+#, kde-format
+msgid "File name pattern:"
+msgstr "文件名模式："
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, kde-format
+msgid "File types:"
+msgstr "文件类型："
+
+#: package/contents/ui/ConfigFilter.qml:78
+#, kde-format
+msgid "Search…"
+msgstr "搜索…"
+
+#: package/contents/ui/ConfigFilter.qml:177
+#, kde-format
+msgid "File type"
+msgstr "文件类型"
+
+#: package/contents/ui/ConfigFilter.qml:186
+#, kde-format
+msgid "Description"
+msgstr "描述"
+
+#: package/contents/ui/ConfigFilter.qml:200
+#, kde-format
+msgid "Select All"
+msgstr "全部选中"
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Deselect All"
+msgstr "取消选择"
+
+#: package/contents/ui/ConfigIcons.qml:63
+#, kde-format
+msgid "Panel button:"
+msgstr "面板按钮："
+
+#: package/contents/ui/ConfigIcons.qml:69
+#, kde-format
+msgid "Use a custom icon"
+msgstr "使用自定义图标"
+
+#: package/contents/ui/ConfigIcons.qml:103
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "选择…"
+
+#: package/contents/ui/ConfigIcons.qml:109
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "清除图标"
+
+#: package/contents/ui/ConfigIcons.qml:128
+#, kde-format
+msgid "Arrangement:"
+msgstr "布局："
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:62
+#, kde-format
+msgid "Rows"
+msgstr "行"
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:66
+#, kde-format
+msgid "Columns"
+msgstr "列"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align left"
+msgstr "左对齐"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align right"
+msgstr "右对齐"
+
+#: package/contents/ui/ConfigIcons.qml:152
+#, kde-format
+msgid "Lock in place"
+msgstr "锁定位置"
+
+#: package/contents/ui/ConfigIcons.qml:165
+#, kde-format
+msgid "Sorting:"
+msgstr "排序："
+
+#: package/contents/ui/ConfigIcons.qml:173
+#, kde-format
+msgid "Manual"
+msgstr "手动"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:26
+#, kde-format
+msgid "Name"
+msgstr "名称"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:30
+#, kde-format
+msgid "Size"
+msgstr "大小"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, kde-format
+msgid "Type"
+msgstr "类型"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, kde-format
+msgid "Date"
+msgstr "日期"
+
+#: package/contents/ui/ConfigIcons.qml:184
+#: plugins/folder/viewpropertiesmenu.cpp:43
+#, kde-format
+msgid "Descending"
+msgstr "降序"
+
+#: package/contents/ui/ConfigIcons.qml:192
+#, kde-format
+msgid "Folders first"
+msgstr "文件夹靠前"
+
+#: package/contents/ui/ConfigIcons.qml:206
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr "视图模式："
+
+#: package/contents/ui/ConfigIcons.qml:208
+#, kde-format
+msgid "List"
+msgstr "列表"
+
+#: package/contents/ui/ConfigIcons.qml:219
+#, kde-format
+msgid "Icon size:"
+msgstr "图标大小："
+
+#: package/contents/ui/ConfigIcons.qml:234
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small"
+msgstr "小"
+
+#: package/contents/ui/ConfigIcons.qml:243
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Large"
+msgstr "大"
+
+#: package/contents/ui/ConfigIcons.qml:252
+#, kde-format
+msgid "Label width:"
+msgstr "标签宽度："
+
+#: package/contents/ui/ConfigIcons.qml:255
+#, kde-format
+msgid "Narrow"
+msgstr "窄"
+
+#: package/contents/ui/ConfigIcons.qml:256
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Medium"
+msgstr "中"
+
+#: package/contents/ui/ConfigIcons.qml:257
+#, kde-format
+msgid "Wide"
+msgstr "宽"
+
+#: package/contents/ui/ConfigIcons.qml:265
+#, kde-format
+msgid "Text lines:"
+msgstr "文本行数："
+
+#: package/contents/ui/ConfigIcons.qml:281
+#, kde-format
+msgid "Features:"
+msgstr "功能："
+
+#: package/contents/ui/ConfigIcons.qml:283
+#, kde-format
+msgid "Tooltips"
+msgstr "工具提示"
+
+#: package/contents/ui/ConfigIcons.qml:290
+#, kde-format
+msgid "Selection markers"
+msgstr "选择标记"
+
+#: package/contents/ui/ConfigIcons.qml:297
+#, kde-format
+msgid "Rename inline by clicking selected item's text"
+msgstr "点击已选项目的文字以直接重命名"
+
+#: package/contents/ui/ConfigIcons.qml:304
+#, kde-format
+msgid "Folder preview popups"
+msgstr "文件夹预览弹窗"
+
+#: package/contents/ui/ConfigIcons.qml:310
+#, kde-format
+msgid "Preview thumbnails"
+msgstr "预览缩略图"
+
+#: package/contents/ui/ConfigIcons.qml:318
+#, kde-format
+msgid "Configure Preview Plugins…"
+msgstr "配置预览插件…"
+
+#: package/contents/ui/ConfigLocation.qml:81
+#, kde-format
+msgid "Show:"
+msgstr "显示："
+
+#: package/contents/ui/ConfigLocation.qml:83
+#, kde-format
+msgid "Desktop folder"
+msgstr "桌面文件夹"
+
+#: package/contents/ui/ConfigLocation.qml:90
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr "链接到当前活动的文件"
+
+#: package/contents/ui/ConfigLocation.qml:97
+#, kde-format
+msgid "Places panel item:"
+msgstr "常用面板项目："
+
+#: package/contents/ui/ConfigLocation.qml:130
+#, kde-format
+msgid "Custom location:"
+msgstr "自定义位置："
+
+#: package/contents/ui/ConfigLocation.qml:138
+#, kde-format
+msgid "Type path or URL…"
+msgstr "输入路径或 URL…"
+
+#: package/contents/ui/ConfigLocation.qml:181
+#, kde-format
+msgid "Title:"
+msgstr "标题："
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "None"
+msgstr "无"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Default"
+msgstr "默认"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Full path"
+msgstr "完整路径"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Custom title"
+msgstr "自定义标题"
+
+#: package/contents/ui/ConfigLocation.qml:198
+#, kde-format
+msgid "Enter custom title…"
+msgstr "输入自定义标题…"
+
+#: package/contents/ui/ConfigOverlay.qml:87
+#, kde-format
+msgid "Rotate"
+msgstr "旋转"
+
+#: package/contents/ui/ConfigOverlay.qml:178
+#, kde-format
+msgid "Open Externally"
+msgstr "外部打开"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Hide Background"
+msgstr "隐藏背景"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Show Background"
+msgstr "显示背景"
+
+#: package/contents/ui/ConfigOverlay.qml:238
+#, kde-format
+msgid "Remove"
+msgstr "移除"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:24
+#, kde-format
+msgid "Preview Plugins"
+msgstr "预览插件"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:82
+#, kde-format
+msgid "OK"
+msgstr "确定"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:95
+#, kde-format
+msgid "Cancel"
+msgstr "取消"
+
+#: package/contents/ui/main.qml:346
+#, kde-format
+msgid "Configure Desktop and Wallpaper…"
+msgstr "配置桌面和壁纸…"
+
+#: plugins/folder/directorypicker.cpp:33
+#, kde-format
+msgid "Select Folder"
+msgstr "选择文件夹"
+
+#: plugins/folder/foldermodel.cpp:404
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "刷新桌面(&R)"
+
+#: plugins/folder/foldermodel.cpp:404 plugins/folder/foldermodel.cpp:1593
+#, kde-format
+msgid "&Refresh View"
+msgstr "刷新视图(&R)"
+
+#: plugins/folder/foldermodel.cpp:1602
+#, kde-format
+msgid "&Empty Trash"
+msgstr "清空回收站(&E)"
+
+#: plugins/folder/foldermodel.cpp:1605
+#, kde-format
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr "恢复"
+
+#: plugins/folder/foldermodel.cpp:1608
+#, kde-format
+msgid "&Open"
+msgstr "打开(&O)"
+
+#: plugins/folder/foldermodel.cpp:1723
+#, kde-format
+msgid "&Paste"
+msgstr "粘贴(&P)"
+
+#: plugins/folder/foldermodel.cpp:1837
+#, kde-format
+msgid "&Properties"
+msgstr "属性(&P)"
+
+#: plugins/folder/viewpropertiesmenu.cpp:19
+#, kde-format
+msgid "Sort By"
+msgstr "排序方式"
+
+#: plugins/folder/viewpropertiesmenu.cpp:22
+#, kde-format
+msgid "Unsorted"
+msgstr "不排序"
+
+#: plugins/folder/viewpropertiesmenu.cpp:45
+#, kde-format
+msgid "Folders First"
+msgstr "文件夹靠前"
+
+#: plugins/folder/viewpropertiesmenu.cpp:48
+#, kde-format
+msgid "Icon Size"
+msgstr "图标大小"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Tiny"
+msgstr "超小"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small Medium"
+msgstr "中小"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Huge"
+msgstr "超大"
+
+#: plugins/folder/viewpropertiesmenu.cpp:59
+#, kde-format
+msgid "Arrange In"
+msgstr "布局方式"
+
+#: plugins/folder/viewpropertiesmenu.cpp:71
+#, kde-format
+msgid "Align"
+msgstr "对齐"
+
+#: plugins/folder/viewpropertiesmenu.cpp:74
+#, kde-format
+msgid "Left"
+msgstr "左对齐"
+
+#: plugins/folder/viewpropertiesmenu.cpp:78
+#, kde-format
+msgid "Right"
+msgstr "右对齐"
+
+#: plugins/folder/viewpropertiesmenu.cpp:83
+#, kde-format
+msgid "Show Previews"
+msgstr "显示预览"
+
+#: plugins/folder/viewpropertiesmenu.cpp:86
+#, kde-format
+msgid "Locked"
+msgstr "已锁定"

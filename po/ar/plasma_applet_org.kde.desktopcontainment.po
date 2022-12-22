@@ -1,0 +1,496 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Safa Alfulaij <safa1996alfulaij@gmail.com>, 2014, ٢٠١٦, 2017.
+# Zayed Al-Saidi <zayed.alsaidi@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-29 01:47+0000\n"
+"PO-Revision-Date: 2021-06-26 21:37+0400\n"
+"Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
+"Language-Team: ar\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Lokalize 21.07.70\n"
+
+#: package/contents/config/config.qml:16
+#, kde-format
+msgid "Location"
+msgstr "المكان"
+
+#: package/contents/config/config.qml:23
+#: package/contents/ui/ConfigIcons.qml:208
+#: package/contents/ui/FolderViewLayer.qml:402
+#, kde-format
+msgid "Icons"
+msgstr "الأيقونات"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgid "Filter"
+msgstr "التّرشيح"
+
+#: package/contents/ui/BackButtonItem.qml:103
+#, kde-format
+msgid "Back"
+msgstr "عُد"
+
+#: package/contents/ui/ConfigFilter.qml:63
+#, kde-format
+msgid "Files:"
+msgstr "الملفات:"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show all"
+msgstr "أظهر الكلّ"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show matching"
+msgstr "أظهر المتطابقة"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Hide matching"
+msgstr "أخفِ المتطابقة"
+
+#: package/contents/ui/ConfigFilter.qml:69
+#, kde-format
+msgid "File name pattern:"
+msgstr "نمط اسم الملفّ:"
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, kde-format
+msgid "File types:"
+msgstr "أنواع الملفّات:"
+
+#: package/contents/ui/ConfigFilter.qml:78
+#, kde-format
+msgid "Search…"
+msgstr "ابحث..."
+
+#: package/contents/ui/ConfigFilter.qml:177
+#, kde-format
+msgid "File type"
+msgstr "نوع الملفّات"
+
+#: package/contents/ui/ConfigFilter.qml:186
+#, kde-format
+msgid "Description"
+msgstr "الوصف"
+
+#: package/contents/ui/ConfigFilter.qml:200
+#, kde-format
+msgid "Select All"
+msgstr "حدّد الكلّ"
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Deselect All"
+msgstr "ألغِ تحديد الكلّ"
+
+#: package/contents/ui/ConfigIcons.qml:63
+#, kde-format
+msgid "Panel button:"
+msgstr "زرّ اللوحة:"
+
+#: package/contents/ui/ConfigIcons.qml:69
+#, kde-format
+msgid "Use a custom icon"
+msgstr "استخدم أيقونة مخصّصة"
+
+#: package/contents/ui/ConfigIcons.qml:103
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "اختر..."
+
+#: package/contents/ui/ConfigIcons.qml:109
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "امسح الأيقونة"
+
+#: package/contents/ui/ConfigIcons.qml:128
+#, kde-format
+msgid "Arrangement:"
+msgstr "التّرتيب:"
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:62
+#, kde-format
+msgid "Rows"
+msgstr "صفوف"
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:66
+#, kde-format
+msgid "Columns"
+msgstr "أعمدة"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align left"
+msgstr "حاذِ يسارًا"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align right"
+msgstr "حاذِ يمينًا"
+
+#: package/contents/ui/ConfigIcons.qml:152
+#, kde-format
+msgid "Lock in place"
+msgstr "اقفل في المكان"
+
+#: package/contents/ui/ConfigIcons.qml:165
+#, kde-format
+msgid "Sorting:"
+msgstr "الفرز:"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#, kde-format
+msgid "Manual"
+msgstr "يدويّ"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:26
+#, kde-format
+msgid "Name"
+msgstr "الاسم"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:30
+#, kde-format
+msgid "Size"
+msgstr "الحجم"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, kde-format
+msgid "Type"
+msgstr "النوع"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, kde-format
+msgid "Date"
+msgstr "التاريخ"
+
+#: package/contents/ui/ConfigIcons.qml:184
+#: plugins/folder/viewpropertiesmenu.cpp:43
+#, kde-format
+msgid "Descending"
+msgstr "تنازليًا"
+
+#: package/contents/ui/ConfigIcons.qml:192
+#, kde-format
+msgid "Folders first"
+msgstr "المجلدات أولًا"
+
+#: package/contents/ui/ConfigIcons.qml:206
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr "وضع العرض:"
+
+#: package/contents/ui/ConfigIcons.qml:208
+#, kde-format
+msgid "List"
+msgstr "قائمة"
+
+#: package/contents/ui/ConfigIcons.qml:219
+#, kde-format
+msgid "Icon size:"
+msgstr "حجم الأيقونة:"
+
+#: package/contents/ui/ConfigIcons.qml:234
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small"
+msgstr "صغيرة"
+
+#: package/contents/ui/ConfigIcons.qml:243
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Large"
+msgstr "كبيرة"
+
+#: package/contents/ui/ConfigIcons.qml:252
+#, kde-format
+msgid "Label width:"
+msgstr "عرض اللصيقة:"
+
+#: package/contents/ui/ConfigIcons.qml:255
+#, kde-format
+msgid "Narrow"
+msgstr "ضيق"
+
+#: package/contents/ui/ConfigIcons.qml:256
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Medium"
+msgstr "متوسّط"
+
+#: package/contents/ui/ConfigIcons.qml:257
+#, kde-format
+msgid "Wide"
+msgstr "عريض"
+
+#: package/contents/ui/ConfigIcons.qml:265
+#, kde-format
+msgid "Text lines:"
+msgstr "أسطر النصّ:"
+
+#: package/contents/ui/ConfigIcons.qml:281
+#, kde-format
+msgid "Features:"
+msgstr "الميزات:"
+
+#: package/contents/ui/ConfigIcons.qml:283
+#, kde-format
+msgid "Tooltips"
+msgstr "التّلميحات"
+
+#: package/contents/ui/ConfigIcons.qml:290
+#, kde-format
+msgid "Selection markers"
+msgstr "علامات التّحديد"
+
+#: package/contents/ui/ConfigIcons.qml:297
+#, kde-format
+msgid "Rename inline by clicking selected item's text"
+msgstr "أعد التسمية في نفس السطر بالنقر على نص العنصر المختار"
+
+#: package/contents/ui/ConfigIcons.qml:304
+#, kde-format
+msgid "Folder preview popups"
+msgstr "منبثقات معاينة المجلّدات"
+
+#: package/contents/ui/ConfigIcons.qml:310
+#, kde-format
+msgid "Preview thumbnails"
+msgstr "مصغّرات المعاينة"
+
+#: package/contents/ui/ConfigIcons.qml:318
+#, kde-format
+msgid "Configure Preview Plugins…"
+msgstr "اضبط الملحقات المعاينة…"
+
+#: package/contents/ui/ConfigLocation.qml:81
+#, kde-format
+msgid "Show:"
+msgstr "أظهر:"
+
+#: package/contents/ui/ConfigLocation.qml:83
+#, kde-format
+msgid "Desktop folder"
+msgstr "مجلّد سطح المكتب"
+
+#: package/contents/ui/ConfigLocation.qml:90
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr "الملفّات المرتبطة بالنّشاط الحاليّ"
+
+#: package/contents/ui/ConfigLocation.qml:97
+#, kde-format
+msgid "Places panel item:"
+msgstr "عنصر لوحة الأماكن:"
+
+#: package/contents/ui/ConfigLocation.qml:130
+#, kde-format
+msgid "Custom location:"
+msgstr "مكان مُخصّص:"
+
+#: package/contents/ui/ConfigLocation.qml:138
+#, kde-format
+msgid "Type path or URL…"
+msgstr "اكتب مسارًا أو وصلةً هنا"
+
+#: package/contents/ui/ConfigLocation.qml:181
+#, kde-format
+msgid "Title:"
+msgstr "العنوان:"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "None"
+msgstr "بلا"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Default"
+msgstr "الافتراضي"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Full path"
+msgstr "المسار كاملًا"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Custom title"
+msgstr "عنوان مخصّص"
+
+#: package/contents/ui/ConfigLocation.qml:198
+#, kde-format
+msgid "Enter custom title…"
+msgstr "أدخِل عنوان المخصّص"
+
+#: package/contents/ui/ConfigOverlay.qml:87
+#, kde-format
+msgid "Rotate"
+msgstr "دوّر"
+
+#: package/contents/ui/ConfigOverlay.qml:178
+#, kde-format
+msgid "Open Externally"
+msgstr "افتحه خارجيا"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Hide Background"
+msgstr "أخف الخلفية"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Show Background"
+msgstr "أظهر الخلفية"
+
+#: package/contents/ui/ConfigOverlay.qml:238
+#, kde-format
+msgid "Remove"
+msgstr "أزل"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:24
+#, kde-format
+msgid "Preview Plugins"
+msgstr "عاين الملحقات"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:82
+#, kde-format
+msgid "OK"
+msgstr "حسنًا"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:95
+#, kde-format
+msgid "Cancel"
+msgstr "ألغِ"
+
+#: package/contents/ui/main.qml:346
+#, kde-format
+msgid "Configure Desktop and Wallpaper…"
+msgstr "اضبط سطح المكتب والخلفية"
+
+#: plugins/folder/directorypicker.cpp:33
+#, kde-format
+msgid "Select Folder"
+msgstr "اختر مجلدًا"
+
+#: plugins/folder/foldermodel.cpp:404
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "أ&نعش سطح المكتب"
+
+#: plugins/folder/foldermodel.cpp:404 plugins/folder/foldermodel.cpp:1593
+#, kde-format
+msgid "&Refresh View"
+msgstr "أ&نعش العرض"
+
+#: plugins/folder/foldermodel.cpp:1602
+#, kde-format
+msgid "&Empty Trash"
+msgstr "أ&فرغ المهملات"
+
+#: plugins/folder/foldermodel.cpp:1605
+#, kde-format
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr "استعد"
+
+#: plugins/folder/foldermodel.cpp:1608
+#, kde-format
+msgid "&Open"
+msgstr "ا&فتح"
+
+#: plugins/folder/foldermodel.cpp:1723
+#, kde-format
+msgid "&Paste"
+msgstr "أل&صق"
+
+#: plugins/folder/foldermodel.cpp:1837
+#, kde-format
+msgid "&Properties"
+msgstr "&خصائص"
+
+#: plugins/folder/viewpropertiesmenu.cpp:19
+#, kde-format
+msgid "Sort By"
+msgstr "افرز حسب"
+
+#: plugins/folder/viewpropertiesmenu.cpp:22
+#, kde-format
+msgid "Unsorted"
+msgstr "بلا فرز"
+
+#: plugins/folder/viewpropertiesmenu.cpp:45
+#, kde-format
+msgid "Folders First"
+msgstr "المجلّدات أوّلًا"
+
+#: plugins/folder/viewpropertiesmenu.cpp:48
+#, kde-format
+msgid "Icon Size"
+msgstr "حجم الأيقونات"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Tiny"
+msgstr "صغيرة"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small Medium"
+msgstr "متوسّطة الصّغر"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Huge"
+msgstr "كبيرة"
+
+#: plugins/folder/viewpropertiesmenu.cpp:59
+#, kde-format
+msgid "Arrange In"
+msgstr "رتّب في"
+
+#: plugins/folder/viewpropertiesmenu.cpp:71
+#, kde-format
+msgid "Align"
+msgstr "حاذِ إلى"
+
+#: plugins/folder/viewpropertiesmenu.cpp:74
+#, kde-format
+msgid "Left"
+msgstr "اليسار"
+
+#: plugins/folder/viewpropertiesmenu.cpp:78
+#, kde-format
+msgid "Right"
+msgstr "اليمين"
+
+#: plugins/folder/viewpropertiesmenu.cpp:83
+#, kde-format
+msgid "Show Previews"
+msgstr "اعرض المعاينات"
+
+#: plugins/folder/viewpropertiesmenu.cpp:86
+#, kde-format
+msgid "Locked"
+msgstr "مقفل"

@@ -1,0 +1,178 @@
+# translation of kcmkonq.po to Cymraeg
+# Translation of kcmkonq.po to Cymraeg
+# Bwrdd Gwaith yn Gymraeg.
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# www.kyfieithu.co.uk<kyfieithu@dotmon.com>, www.gyfieithu.co.uk<kyfieithu@dotmon.com>, 2003.
+# KGyfieithu <kyfieithu@dotmon.com>, 2003.
+# KD at KGyfieithu <kyfieithu@dotmon.com>, 2003, 2004.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2004-07-03 17:50+0100\n"
+"Last-Translator: KD at KGyfieithu <kyfieithu@dotmon.com>\n"
+"Language-Team: Cymraeg <cy@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"www.gyfieithu.co.uk<kyfieithu@dotmon.com>\n"
+"X-Generator: KBabel 1.2\n"
+"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: desktoppathssettings.cpp:156
+#, kde-format
+msgid "Desktop"
+msgstr "Penbwrdd"
+
+#: desktoppathssettings.cpp:171
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Documents"
+msgstr "Llwybr do&gfennau:"
+
+#: desktoppathssettings.cpp:186
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Downloads"
+msgstr "Llwybr do&gfennau:"
+
+#: desktoppathssettings.cpp:201
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Music"
+msgstr "Llwybr do&gfennau:"
+
+#: desktoppathssettings.cpp:216
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Pictures"
+msgstr "Llwybr do&gfennau:"
+
+#: desktoppathssettings.cpp:231
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Videos"
+msgstr "Llwybr do&gfennau:"
+
+#: globalpaths.cpp:32
+#, fuzzy, kde-format
+msgid ""
+"<h1>Paths</h1>\n"
+"This module allows you to choose where in the filesystem the files on your "
+"desktop should be stored.\n"
+"Use the \"Whats This?\" (Shift+F1) to get help on specific options."
+msgstr ""
+"<h1>Llwybrau</h1>\n"
+" Galluoga'r modiwl yma i chi ddewis ble yn y gysawd ffeiliau y dylir cadw'r "
+"ffeiliau ar eich penbwrdd.\n"
+" Defnyddiwch \"Beth yw hyn?\" (Shift+F1) i gael cymorth ar ddewisiadau "
+"penodol."
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: globalpaths.ui:17
+#, fuzzy, kde-format
+#| msgid "Des&ktop path:"
+msgid "Desktop path:"
+msgstr "Llwybr pen&bwrdd"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_desktopLocation)
+#: globalpaths.ui:24
+#, kde-format
+msgid ""
+"This folder contains all the files which you see on your desktop. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+"Mae'r blygell yma'n cynnwys yr holl ffeiliau gallwch weld ar eich penbwrdd. "
+"Gallwch newid lleoliad y blygell yma os hoffech, ac fe symuda'r cynnwys i'r "
+"lleoliad newydd hefyd yn ymysgogol."
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: globalpaths.ui:34
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Documents path:"
+msgstr "Llwybr do&gfennau:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_documentsLocation)
+#: globalpaths.ui:41
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save documents from or to."
+msgstr ""
+"Defnyddir y blygell yma yn ragosod i lwytho dogfennau ohono, neu i gadw "
+"dogfennau ynddo."
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: globalpaths.ui:51
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Downloads path:"
+msgstr "Llwybr do&gfennau:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_downloadsLocation)
+#: globalpaths.ui:58
+#, fuzzy, kde-format
+#| msgid ""
+#| "This folder will be used by default to load or save documents from or to."
+msgid "This folder will be used by default to save your downloaded items."
+msgstr ""
+"Defnyddir y blygell yma yn ragosod i lwytho dogfennau ohono, neu i gadw "
+"dogfennau ynddo."
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: globalpaths.ui:68
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Videos path:"
+msgstr "Llwybr do&gfennau:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_videosLocation)
+#: globalpaths.ui:75
+#, fuzzy, kde-format
+#| msgid ""
+#| "This folder will be used by default to load or save documents from or to."
+msgid "This folder will be used by default to load or save movies from or to."
+msgstr ""
+"Defnyddir y blygell yma yn ragosod i lwytho dogfennau ohono, neu i gadw "
+"dogfennau ynddo."
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: globalpaths.ui:85
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Pictures path:"
+msgstr "Llwybr do&gfennau:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_picturesLocation)
+#: globalpaths.ui:92
+#, fuzzy, kde-format
+#| msgid ""
+#| "This folder will be used by default to load or save documents from or to."
+msgid ""
+"This folder will be used by default to load or save pictures from or to."
+msgstr ""
+"Defnyddir y blygell yma yn ragosod i lwytho dogfennau ohono, neu i gadw "
+"dogfennau ynddo."
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: globalpaths.ui:102
+#, fuzzy, kde-format
+#| msgid "D&ocuments path:"
+msgid "Music path:"
+msgstr "Llwybr do&gfennau:"
+
+#. i18n: ectx: property (whatsThis), widget (KUrlRequester, kcfg_musicLocation)
+#: globalpaths.ui:109
+#, fuzzy, kde-format
+#| msgid ""
+#| "This folder will be used by default to load or save documents from or to."
+msgid "This folder will be used by default to load or save music from or to."
+msgstr ""
+"Defnyddir y blygell yma yn ragosod i lwytho dogfennau ohono, neu i gadw "
+"dogfennau ynddo."

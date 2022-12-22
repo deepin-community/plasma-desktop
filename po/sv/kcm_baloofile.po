@@ -1,0 +1,172 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2019, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-05-27 18:53+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Stefan Asserhäll"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stefan.asserhall@bredband.net"
+
+#: kcm.cpp:56
+#, kde-format
+msgid "File Search"
+msgstr "Filsökning"
+
+#: kcm.cpp:60
+#, kde-format
+msgid "Copyright 2007-2010 Sebastian Trüg"
+msgstr "Copyright 2007-2010 Sebastian Trüg"
+
+#: kcm.cpp:62
+#, kde-format
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: kcm.cpp:63
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:64
+#, kde-format
+msgid "Tomaz Canabrava"
+msgstr "Tomaz Canabrava"
+
+#: package/contents/ui/main.qml:21
+#, kde-format
+msgid ""
+"This module lets you configure the file indexer and search functionality."
+msgstr "Modulen låter dig anpassa filindexering och sökfunktioner."
+
+#: package/contents/ui/main.qml:53
+#, kde-format
+msgid ""
+"This will disable file searching in KRunner and launcher menus, and remove "
+"extended metadata display from all KDE applications."
+msgstr ""
+"Inaktiverar filsökning i Kör program och startmenyer, och tar bort visning "
+"av utökad metadata från alla KDE-program."
+
+#: package/contents/ui/main.qml:61
+#, kde-format
+msgid ""
+"Do you want to delete the saved index data? %1 of space will be freed, but "
+"if indexing is re-enabled later, the entire index will have to be re-created "
+"from scratch. This may take some time, depending on how many files you have."
+msgstr ""
+"Vill du ta bort sparad indexerad data? Utrymmet %1 kommer att frigöras, men "
+"om indexering aktiveras igen senare, måste hela indexet skapas om från "
+"början. Det kan ta en stund, beroende på hur många filer du har."
+
+#: package/contents/ui/main.qml:64
+#, kde-format
+msgid "Delete Index Data"
+msgstr "Ta bort indexerad data"
+
+#: package/contents/ui/main.qml:75
+#, kde-format
+msgid ""
+"File Search helps you quickly locate all your files based on their content."
+msgstr ""
+"Filsökning hjälper dig att snabbt lokalisera alla dina filer baserat på "
+"innehåll."
+
+#: package/contents/ui/main.qml:80
+#, kde-format
+msgid "Enable File Search"
+msgstr "Aktivera filsökning"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "Also index file content"
+msgstr "Indexera också filinnehåll"
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Index hidden files and folders"
+msgstr "Indexera dolda filer och kataloger"
+
+#: package/contents/ui/main.qml:141
+#, kde-format
+msgid "Status: %1, %2% complete"
+msgstr "Status: %1, %2% färdiga"
+
+#: package/contents/ui/main.qml:145
+#, kde-format
+msgid "Pause Indexer"
+msgstr "Pausa indexering"
+
+#: package/contents/ui/main.qml:145
+#, kde-format
+msgid "Resume Indexer"
+msgstr "Återuppta indexering"
+
+#: package/contents/ui/main.qml:158
+#, kde-format
+msgid "Currently indexing: %1"
+msgstr "Indexerar för närvarande: %1"
+
+#: package/contents/ui/main.qml:163
+#, kde-format
+msgid "Folder specific configuration:"
+msgstr "Katalogspecifik inställning:"
+
+#: package/contents/ui/main.qml:192
+#, kde-format
+msgid "Add folder configuration…"
+msgstr "Lägg till kataloginställning…"
+
+#: package/contents/ui/main.qml:217
+#, kde-format
+msgid "Start indexing a folder…"
+msgstr "Starta indexering av en katalog…"
+
+#: package/contents/ui/main.qml:226
+#, kde-format
+msgid "Stop indexing a folder…"
+msgstr "Stoppa indexering av en katalog…"
+
+#: package/contents/ui/main.qml:277
+#, kde-format
+msgid "Not indexed"
+msgstr "Inte indexerad"
+
+#: package/contents/ui/main.qml:278
+#, kde-format
+msgid "Indexed"
+msgstr "Indexerad"
+
+#: package/contents/ui/main.qml:308
+#, kde-format
+msgid "Delete entry"
+msgstr "Ta bort post"
+
+#: package/contents/ui/main.qml:323
+#, kde-format
+msgid "Select a folder to include"
+msgstr "Välj en katalog att inkludera"
+
+#: package/contents/ui/main.qml:323
+#, kde-format
+msgid "Select a folder to exclude"
+msgstr "Välj en katalog att undanta"

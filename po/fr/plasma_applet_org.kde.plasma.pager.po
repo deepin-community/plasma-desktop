@@ -1,0 +1,163 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Bruno Patri <bruno.patri@gmail.com>, 2013.
+# Thomas Vergnaud <thomas.vergnaud@gmx.fr>, 2014, 2015, 2016.
+# Sebastien Renard <renard@kde.org>, 2014.
+# Vincent Pinon <vpinon@kde.org>, 2017.
+# Simon Depiets <sdepiets@gmail.com>, 2019.
+# Xavier Besnard <xavier.besnard@neuf.fr>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-05 00:18+0000\n"
+"PO-Revision-Date: 2021-05-27 14:36+0200\n"
+"Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.04.1\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgid "General"
+msgstr "Général"
+
+#: package/contents/ui/configGeneral.qml:72
+#, kde-format
+msgid "General:"
+msgstr "Général :"
+
+#: package/contents/ui/configGeneral.qml:74
+#, kde-format
+msgid "Show application icons on window outlines"
+msgstr "Afficher les icônes des applications dans les contours des fenêtres"
+
+#: package/contents/ui/configGeneral.qml:79
+#, kde-format
+msgid "Show only current screen"
+msgstr "Afficher uniquement l'écran actuel"
+
+#: package/contents/ui/configGeneral.qml:84
+#, kde-format
+msgid "Navigation wraps around"
+msgstr "Navigation circulaire entre les bureaux"
+
+#: package/contents/ui/configGeneral.qml:96
+#, kde-format
+msgid "Layout:"
+msgstr "Disposition :"
+
+#: package/contents/ui/configGeneral.qml:98
+#, kde-format
+msgctxt "The pager layout"
+msgid "Default"
+msgstr "Défaut"
+
+#: package/contents/ui/configGeneral.qml:98
+#, kde-format
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: package/contents/ui/configGeneral.qml:98
+#, kde-format
+msgid "Vertical"
+msgstr "Vertical"
+
+#: package/contents/ui/configGeneral.qml:112
+#, kde-format
+msgid "Text display:"
+msgstr "Affichage du texte : "
+
+#: package/contents/ui/configGeneral.qml:115
+#, kde-format
+msgid "No text"
+msgstr "aucun texte"
+
+#: package/contents/ui/configGeneral.qml:121
+#, kde-format
+msgid "Activity number"
+msgstr "Numéro de l'activité"
+
+#: package/contents/ui/configGeneral.qml:121
+#, kde-format
+msgid "Desktop number"
+msgstr "Numéro du bureau"
+
+#: package/contents/ui/configGeneral.qml:127
+#, kde-format
+msgid "Activity name"
+msgstr "Nom de l'activité"
+
+#: package/contents/ui/configGeneral.qml:127
+#, kde-format
+msgid "Desktop name"
+msgstr "Nom du bureau"
+
+#: package/contents/ui/configGeneral.qml:140
+#, kde-format
+msgid "Selecting current Activity:"
+msgstr "Sélection de l'activité actuelle :"
+
+#: package/contents/ui/configGeneral.qml:140
+#, kde-format
+msgid "Selecting current virtual desktop:"
+msgstr "Sélection du bureau virtuel actuel :"
+
+#: package/contents/ui/configGeneral.qml:143
+#, kde-format
+msgid "Does nothing"
+msgstr "Ne fait rien"
+
+#: package/contents/ui/configGeneral.qml:149
+#, kde-format
+msgid "Shows the desktop"
+msgstr "Affiche le bureau"
+
+#: package/contents/ui/main.qml:309
+#, kde-format
+msgid "…and %1 other window"
+msgid_plural "…and %1 other windows"
+msgstr[0] "et %1 autre fenêtre"
+msgstr[1] "et %1 autres fenêtres"
+
+#: package/contents/ui/main.qml:333
+#, kde-format
+msgid "%1 Window:"
+msgid_plural "%1 Windows:"
+msgstr[0] "%1 fenêtre:"
+msgstr[1] "%1 fenêtres:"
+
+#: package/contents/ui/main.qml:342
+#, kde-format
+msgid "%1 Minimized Window:"
+msgid_plural "%1 Minimized Windows:"
+msgstr[0] "%1 fenêtre minimisée:"
+msgstr[1] "%1 fenêtres minimisées:"
+
+#: package/contents/ui/main.qml:517
+#, kde-format
+msgid "Show Activity Manager…"
+msgstr "Afficher le gestionnaire d'activités…"
+
+#: package/contents/ui/main.qml:520
+#, kde-format
+msgid "Add Virtual Desktop"
+msgstr "Ajouter un bureau virtuel"
+
+#: package/contents/ui/main.qml:521
+#, kde-format
+msgid "Remove Virtual Desktop"
+msgstr "Supprimer un bureau virtuel"
+
+#: package/contents/ui/main.qml:526
+#, kde-format
+msgid "Configure Virtual Desktops…"
+msgstr "Configurer les bureaux virtuels..."

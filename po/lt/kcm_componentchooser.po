@@ -1,0 +1,100 @@
+# translation of kcmcomponentchooser.po to Lithuanian
+# Donatas Glodenis <dgvirtual@akl.lt>, 2004-2009.
+# Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-06-10 12:30+0300\n"
+"Last-Translator: Moo\n"
+"Language-Team: lt <kde-i18n-lt@kde.org>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
+"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Ričardas Čepas, Donatas Glodenis, Moo"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "rch@richard.eu.org, dgvirtual@akl.lt, <>"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr "Numatytoji saityno naršyklė"
+
+#: componentchooser.cpp:73 componentchooserterminal.cpp:74
+#, kde-format
+msgid "Other…"
+msgstr "Kita…"
+
+#: componentchooserbrowser.cpp:18
+#, kde-format
+msgid "Select default browser"
+msgstr "Pasirinkti numatytąją naršyklę"
+
+#: componentchooseremail.cpp:19
+#, kde-format
+msgid "Select default e-mail client"
+msgstr "Pasirinkti numatytąją pašto kliento programą"
+
+#: componentchooserfilemanager.cpp:14
+#, kde-format
+msgid "Select default file manager"
+msgstr "Pasirinkti numatytąją failų tvarkytuvę"
+
+#: componentchooserterminal.cpp:24
+#, kde-format
+msgid "Select default terminal emulator"
+msgstr "Pasirinkti numatytąjį terminalo emuliatorių"
+
+#: kcm_componentchooser.cpp:27
+#, kde-format
+msgctxt "@title"
+msgid "Default Applications"
+msgstr "Numatytosios programos"
+
+#: kcm_componentchooser.cpp:32
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:33
+#, kde-format
+msgid "Méven Car"
+msgstr "Méven Car"
+
+#: kcm_componentchooser.cpp:34
+#, kde-format
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+#: package/contents/ui/main.qml:16
+#, kde-format
+msgid "Web browser:"
+msgstr "Saityno naršyklė:"
+
+#: package/contents/ui/main.qml:24
+#, kde-format
+msgid "File manager:"
+msgstr "Failų tvarkytuvė:"
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Email client:"
+msgstr "El. pašto kliento programa:"
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid "Terminal emulator:"
+msgstr "Terminalo emuliatorius:"

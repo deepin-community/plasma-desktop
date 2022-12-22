@@ -1,0 +1,338 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-02 00:19+0000\n"
+"PO-Revision-Date: 2021-05-27 08:09+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Matjaž Jeran"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "matjaz.jeran@amis.net"
+
+#: package/contents/ui/ChangePassword.qml:26
+#: package/contents/ui/UserDetailsPage.qml:168
+#, kde-format
+msgid "Change Password"
+msgstr "Spremeni geslo"
+
+#: package/contents/ui/ChangePassword.qml:41
+#, kde-format
+msgid "Password"
+msgstr "Geslo"
+
+#: package/contents/ui/ChangePassword.qml:55
+#, kde-format
+msgid "Confirm password"
+msgstr "Potrdi geslo"
+
+#: package/contents/ui/ChangePassword.qml:68
+#: package/contents/ui/CreateUser.qml:66
+#, kde-format
+msgid "Passwords must match"
+msgstr "Gesli se morata ujemati"
+
+#: package/contents/ui/ChangePassword.qml:73
+#, kde-format
+msgid "Set Password"
+msgstr "Nastavi geslo"
+
+#: package/contents/ui/ChangeWalletPassword.qml:17
+#, kde-format
+msgid "Change Wallet Password?"
+msgstr "Spremenim geslo listnice?"
+
+#: package/contents/ui/ChangeWalletPassword.qml:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Now that you have changed your login password, you may also want to change "
+"the password on your default KWallet to match it."
+msgstr ""
+"Zdaj, ko ste spremenili svoje geslo za prijavo, boste morda želeli tudi "
+"spremeniti geslo za vašo privzeto listnico (KWallet), da se ujemata."
+
+#: package/contents/ui/ChangeWalletPassword.qml:31
+#, kde-format
+msgid "What is KWallet?"
+msgstr "Kaj je KWallet (listnica)?"
+
+#: package/contents/ui/ChangeWalletPassword.qml:41
+#, kde-format
+msgid ""
+"KWallet is a password manager that stores your passwords for wireless "
+"networks and other encrypted resources. It is locked with its own password "
+"which differs from your login password. If the two passwords match, it can "
+"be unlocked at login automatically so you don't have to enter the KWallet "
+"password yourself."
+msgstr ""
+"KWallet je upravitelj gesel, ki hrani vaša gesla za dostop do brezžičnega "
+"omrežja in druge šifrirane vire. Zaklenjen je z lastnim geslom, ki se "
+"razlikuje od vašega gesla za prijavo. Če se gesli ujemata, se lahko "
+"samodejno odklene ob prijavi, tako da vam ni treba vnašati gesla za KWallet."
+
+#: package/contents/ui/ChangeWalletPassword.qml:57
+#, kde-format
+msgid "Change Wallet Password"
+msgstr "Spremeni geslo listnice (KWallet)"
+
+#: package/contents/ui/ChangeWalletPassword.qml:66
+#, kde-format
+msgid "Leave Unchanged"
+msgstr "Pusti nespremenjeno"
+
+#: package/contents/ui/CreateUser.qml:16
+#, kde-format
+msgid "Create User"
+msgstr "Ustvari uporabnika"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Name:"
+msgstr "Ime:"
+
+#: package/contents/ui/CreateUser.qml:35
+#: package/contents/ui/UserDetailsPage.qml:142
+#, kde-format
+msgid "Username:"
+msgstr "Uporabniško ime:"
+
+#: package/contents/ui/CreateUser.qml:45
+#: package/contents/ui/UserDetailsPage.qml:150
+#, kde-format
+msgid "Standard"
+msgstr "Standardno"
+
+#: package/contents/ui/CreateUser.qml:46
+#: package/contents/ui/UserDetailsPage.qml:151
+#, kde-format
+msgid "Administrator"
+msgstr "Skrbnik"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:154
+#, kde-format
+msgid "Account type:"
+msgstr "Vrsta računa:"
+
+#: package/contents/ui/CreateUser.qml:54
+#, kde-format
+msgid "Password:"
+msgstr "Geslo:"
+
+#: package/contents/ui/CreateUser.qml:59
+#, kde-format
+msgid "Confirm password:"
+msgstr "Potrdi geslo:"
+
+#: package/contents/ui/CreateUser.qml:70
+#, kde-format
+msgid "Create"
+msgstr "Ustvari"
+
+#: package/contents/ui/main.qml:22
+#, kde-format
+msgid "Manage Users"
+msgstr "Upravljaj uporabnike"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Add New User"
+msgstr "Dodaj novega uporabnika"
+
+#: package/contents/ui/UserDetailsPage.qml:89
+#, kde-format
+msgid "Choose a picture"
+msgstr "Izberi sliko"
+
+#: package/contents/ui/UserDetailsPage.qml:122
+#, kde-format
+msgid "Change avatar"
+msgstr "Zamenjaj avatarja"
+
+#: package/contents/ui/UserDetailsPage.qml:134
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "Janez Novak"
+
+#: package/contents/ui/UserDetailsPage.qml:163
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "janez.novak@kde.org"
+
+#: package/contents/ui/UserDetailsPage.qml:164
+#, kde-format
+msgid "Email address:"
+msgstr "Naslov e-pošte:"
+
+#: package/contents/ui/UserDetailsPage.qml:188
+#, kde-format
+msgid "Delete files"
+msgstr "Zbriši datoteke"
+
+#: package/contents/ui/UserDetailsPage.qml:197
+#, kde-format
+msgid "Keep files"
+msgstr "Ohrani datoteke"
+
+#: package/contents/ui/UserDetailsPage.qml:206
+#, kde-format
+msgid "Delete User…"
+msgstr "Zbriši uporabnika…"
+
+#: package/contents/ui/UserDetailsPage.qml:216
+#, kde-format
+msgid "Change Avatar"
+msgstr "Spremeni avatarja"
+
+#: package/contents/ui/UserDetailsPage.qml:259
+#, kde-format
+msgid "Choose File…"
+msgstr "Izberi datoteko…"
+
+#: package/contents/ui/UserDetailsPage.qml:364
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr "Feisty Flamingo"
+
+#: package/contents/ui/UserDetailsPage.qml:365
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr "Dragon's Fruit"
+
+#: package/contents/ui/UserDetailsPage.qml:366
+#, kde-format
+msgid "Sweet Potato"
+msgstr "Sweet Potato"
+
+#: package/contents/ui/UserDetailsPage.qml:367
+#, kde-format
+msgid "Ambient Amber"
+msgstr "Ambient Amber"
+
+#: package/contents/ui/UserDetailsPage.qml:368
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr "Sparkle Sunbeam"
+
+#: package/contents/ui/UserDetailsPage.qml:369
+#, kde-format
+msgid "Lemon-Lime"
+msgstr "Lemon-Lime"
+
+#: package/contents/ui/UserDetailsPage.qml:370
+#, kde-format
+msgid "Verdant Charm"
+msgstr "Verdant Charm"
+
+#: package/contents/ui/UserDetailsPage.qml:371
+#, kde-format
+msgid "Mellow Meadow"
+msgstr "Mellow Meadow"
+
+#: package/contents/ui/UserDetailsPage.qml:372
+#, kde-format
+msgid "Tepid Teal"
+msgstr "Tepid Teal"
+
+#: package/contents/ui/UserDetailsPage.qml:373
+#, kde-format
+msgid "Plasma Blue"
+msgstr "Plasma Blue"
+
+#: package/contents/ui/UserDetailsPage.qml:374
+#, kde-format
+msgid "Pon Purple"
+msgstr "Pon Purple"
+
+#: package/contents/ui/UserDetailsPage.qml:375
+#, kde-format
+msgid "Bajo Purple"
+msgstr "Bajo Purple"
+
+#: package/contents/ui/UserDetailsPage.qml:376
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr "Burnt Charcoal"
+
+#: package/contents/ui/UserDetailsPage.qml:377
+#, kde-format
+msgid "Paper Perfection"
+msgstr "Paper Perfection"
+
+#: package/contents/ui/UserDetailsPage.qml:378
+#, kde-format
+msgid "Cafétera Brown"
+msgstr "Cafétera Brown"
+
+#: package/contents/ui/UserDetailsPage.qml:379
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "Rich Hardwood"
+
+#: src/kcm.cpp:40
+#, kde-format
+msgid "Manage user accounts"
+msgstr "Upravljaj z računi uporabnikov"
+
+#: src/kcm.cpp:41
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:42
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:239
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr "Ni bilo mogoče dobiti dovoljenja za shranjevanje uporabnika %1"
+
+#: src/user.cpp:244
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr "Prišlo je do napake pri shranjevanju sprememb"
+
+#: src/user.cpp:319 src/user.cpp:320
+#, kde-format
+msgid "Failed to resize image: opening temp file failed"
+msgstr ""
+"Sprememba velikosti slike ni uspela: odpiranje začasne datoteke ni uspelo"
+
+#: src/user.cpp:327 src/user.cpp:328
+#, kde-format
+msgid "Failed to resize image: writing to temp file failed"
+msgstr ""
+"Sprememba velikosti slike ni uspela: pisanje na začasno datoteko ni uspelo"
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Your Account"
+msgstr "Vaš račun"
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Other Accounts"
+msgstr "Ostali računi"

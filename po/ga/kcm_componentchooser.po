@@ -1,0 +1,104 @@
+# Irish translation of kcmcomponentchooser
+# Copyright (C) 2009 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kcmcomponentchooser package.
+# Kevin Scannell <kscanne@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase/kcmcomponentchooser.po\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2004-12-03 14:52-0500\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
+"3 : 4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Séamus Ó Ciardhuáin,Kevin Scannell"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "seoc@iolfree.ie,kscanne@gmail.com"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr ""
+
+#: componentchooser.cpp:73 componentchooserterminal.cpp:74
+#, kde-format
+msgid "Other…"
+msgstr ""
+
+#: componentchooserbrowser.cpp:18
+#, kde-format
+msgid "Select default browser"
+msgstr ""
+
+#: componentchooseremail.cpp:19
+#, fuzzy, kde-format
+#| msgid "Use a different &email client:"
+msgid "Select default e-mail client"
+msgstr "Úsáid cliant ríomhphoist &eile:"
+
+#: componentchooserfilemanager.cpp:14
+#, fuzzy, kde-format
+#| msgid "Select preferred email client:"
+msgid "Select default file manager"
+msgstr "Roghnaigh an cliant ríomhphoist is ansa leat:"
+
+#: componentchooserterminal.cpp:24
+#, fuzzy, kde-format
+#| msgid "Select preferred terminal application:"
+msgid "Select default terminal emulator"
+msgstr "Roghnaigh an feidhmchlár teirminéil is ansa leat:"
+
+#: kcm_componentchooser.cpp:27
+#, kde-format
+msgctxt "@title"
+msgid "Default Applications"
+msgstr ""
+
+#: kcm_componentchooser.cpp:32
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:33
+#, kde-format
+msgid "Méven Car"
+msgstr ""
+
+#: kcm_componentchooser.cpp:34
+#, kde-format
+msgid "Tobias Fella"
+msgstr ""
+
+#: package/contents/ui/main.qml:16
+#, kde-format
+msgid "Web browser:"
+msgstr ""
+
+#: package/contents/ui/main.qml:24
+#, kde-format
+msgid "File manager:"
+msgstr ""
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Email client:"
+msgstr ""
+
+#: package/contents/ui/main.qml:40
+#, fuzzy, kde-format
+#| msgid "Select preferred terminal application:"
+msgid "Terminal emulator:"
+msgstr "Roghnaigh an feidhmchlár teirminéil is ansa leat:"

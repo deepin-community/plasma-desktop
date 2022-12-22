@@ -1,0 +1,314 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-13 00:19+0000\n"
+"PO-Revision-Date: 2021-10-27 11:31+0200\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sezer Bozkır, Mesut Öztürk"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "natgho@hotmail.com, doktormesut@gmail.com"
+
+#: kcm.cpp:47
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Arama Çubuğunu Yapılandır"
+
+#: kcm.cpp:51
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:68
+#, kde-format
+msgid "Enable or disable plugins (used in KRunner and Application Launcher)"
+msgstr ""
+"Eklentileri etkinleştirin veya devre dışı bırakın (KRunner ve Uygulama "
+"Başlatıcısı'nda kullanılanlar)"
+
+#: kcm.cpp:82
+#, kde-format
+msgid "Top"
+msgstr "Üst"
+
+#: kcm.cpp:84
+#, kde-format
+msgid "Center"
+msgstr "Orta"
+
+#: kcm.cpp:88
+#, kde-format
+msgid "Position on screen:"
+msgstr "Ekrandaki konumu:"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: kcm.cpp:93
+#, kde-format
+msgid "History:"
+msgstr "Geçmiş:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Önceki aramayı sakla"
+
+#: kcm.cpp:98
+#, kde-format
+msgid "Activity aware (previous search and history)"
+msgstr "Etkinliğe duyarlı (önceki arama ve geçmiş)"
+
+#: kcm.cpp:134
+#, kde-format
+msgid "Get New Plugins…"
+msgstr "Yeni Eklentiler Al…"
+
+#: kcm.cpp:140 kcm.cpp:171
+#, kde-format
+msgid "Available Plugins"
+msgstr "Kullanılabilir Eklentiler"
+
+#: kcm.cpp:229
+#, kde-format
+msgctxt "delete history for all activities"
+msgid "For all activities"
+msgstr "Bütün etkinlikler için"
+
+#: kcm.cpp:243
+#, kde-format
+msgctxt "delete history for this activity"
+msgid "For activity \"%1\""
+msgstr "\"%1\" etkinliği için"
+
+#: kcm.cpp:249
+#, kde-format
+msgid "Clear History…"
+msgstr "Geçmişi Temizle…"
+
+#: kcm.cpp:253
+#, kde-format
+msgid "Clear History"
+msgstr "Geçmişi Temizle"
+
+#: plugininstaller/AbstractJob.cpp:18
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Failed to run install script in terminal <message>%1</message>"
+msgstr "Terminalde kurulum betiği çalıştırılamadı <message>%1</message>"
+
+#: plugininstaller/AbstractJob.cpp:29
+#, kde-format
+msgctxt "@info"
+msgid "Installation executed successfully, you may now close this window"
+msgstr "Kurulum başarıyla yürütüldü, şimdi bu pencereyi kapatabilirsiniz"
+
+#: plugininstaller/AbstractJob.cpp:31
+#, kde-format
+msgctxt "@info"
+msgid "Uninstallation executed successfully, you may now close this window"
+msgstr "Kaldırma başarıyla yürütüldü, şimdi bu pencereyi kapatabilirsiniz"
+
+#: plugininstaller/main.cpp:31
+#, kde-format
+msgctxt "@info"
+msgid "KRunner plugin installation failed"
+msgstr "KRunner eklentisi kurulumu başarısız oldu"
+
+#: plugininstaller/main.cpp:43
+#, kde-format
+msgctxt "@info:shell"
+msgid "Command to execute: install or uninstall."
+msgstr "Yürütülecek komut: yükle veya kaldır."
+
+#: plugininstaller/main.cpp:44
+#, kde-format
+msgctxt "@info:shell"
+msgid "Path to archive."
+msgstr "Arşiv yolu."
+
+#: plugininstaller/main.cpp:84
+#, kde-format
+msgctxt "@info"
+msgid "No PackageKit support"
+msgstr "PackageKit desteği yok"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:23
+#: plugininstaller/ScriptConfirmationDialog.h:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirm Installation"
+msgstr "Kurulumu Onayla"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You are about to install a binary package. You should only install these "
+"from a trusted author/packager."
+msgstr ""
+"Bir ikili paket kurmak üzeresiniz. Bunları yalnızca güvenilir bir yazar/"
+"paketleyiciden yüklemelisiniz."
+
+#: plugininstaller/PackageKitConfirmationDialog.h:33
+#: plugininstaller/ScriptConfirmationDialog.h:79
+#, kde-format
+msgctxt "@action:button"
+msgid "Accept Risk And Continue"
+msgstr "Riski Kabul Et Ve Devam Et"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:37
+#, kde-format
+msgctxt "@action:button"
+msgid "View File"
+msgstr "Dosyayı Görüntüle"
+
+#: plugininstaller/PackageKitJob.cpp:24
+#, kde-format
+msgctxt "@info"
+msgid "The mime type %1 is not supported by the packagekit backend"
+msgstr "%1 mime tipi, packagekit arka ucu tarafından desteklenmiyor"
+
+#: plugininstaller/ScriptConfirmationDialog.h:32
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an uninstallation script. Please contact the "
+"author. You can try to uninstall the plugin manually.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Bu eklenti bir kaldırma komut dosyası sağlamıyor. Lütfen yazarla iletişime "
+"geçin. Eklentiyi elle kaldırmayı deneyebilirsiniz.<nl/>Bu konuda yeterli "
+"veya rahat hissetmiyorsanız <interface>İptal</interface>'i tıklayın."
+
+#: plugininstaller/ScriptConfirmationDialog.h:37
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an uninstallation script. Please contact the "
+"author. You can try to uninstall the plugin manually. Please have a look at "
+"the README for instructions from the author.<nl/>If you do not feel capable "
+"or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Bu eklenti bir kaldırma komut dosyası sağlamıyor. Lütfen yazarla iletişime "
+"geçin. Eklentiyi elle kaldırmayı deneyebilirsiniz. Yazarın talimatları için "
+"lütfen README dosyasına bakın<nl/>Bu konuda yeterli veya rahat "
+"hissetmiyorsanız <interface>İptal</interface>'i tıklayın."
+
+#: plugininstaller/ScriptConfirmationDialog.h:43
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an installation script. Please contact the "
+"author. You can try to install the plugin manually.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Bu eklenti bir kurulum komut dosyası sağlamıyor. Lütfen yazarla iletişime "
+"geçin. Eklentiyi elle yüklemeyi deneyebilirsiniz.<nl/>Bu konuda yeterli veya "
+"rahat hissetmiyorsanız, Şimdi <interface>İptal</interface>'i tıklayın."
+
+#: plugininstaller/ScriptConfirmationDialog.h:48
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an installation script. Please contact the "
+"author. You can try to install the plugin manually. Please have a look at "
+"the README for instructions from the author.<nl/>If you do not feel capable "
+"or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Bu eklenti bir kurulum komut dosyası sağlamıyor. Lütfen yazarla iletişime "
+"geçin. Eklentiyi manuel olarak yüklemeyi deneyebilirsiniz. Yazarın "
+"talimatları için lütfen README dosyasına bakın.<nl/>Bu konuda yeterli veya "
+"rahat hissetmiyorsanız, Şimdi <interface>İptal</interface>'i tıklayın."
+
+#: plugininstaller/ScriptConfirmationDialog.h:54
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin uses a script for installation which can pose a security risk. "
+"Please examine the entire plugin's contents before installing, or at least "
+"read the script's source code.<nl/>If you do not feel capable or comfortable "
+"with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Bu eklenti, kurulum için güvenlik riski oluşturabilecek bir komut dosyası "
+"kullanıyor. Lütfen yüklemeden önce eklentinin tüm içeriğini inceleyin veya "
+"en azından betiğin kaynak kodunu okuyun.<nl/>Bu konuda yeterli veya rahat "
+"hissetmiyorsanız, Şimdi <interface>İptal</interface>'i tıklayın."
+
+#: plugininstaller/ScriptConfirmationDialog.h:60
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin uses a script for installation which can pose a security risk. "
+"Please examine the entire plugin's contents before installing, or at least "
+"read the README file and the script's source code.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Bu eklenti, kurulum için güvenlik riski oluşturabilecek bir komut dosyası "
+"kullanıyor. Lütfen yüklemeden önce eklentinin tüm içeriğini inceleyin veya "
+"en azından README dosyasını ve komut dosyasının kaynak kodunu okuyun.<nl/>Bu "
+"konuda yeterli veya rahat hissetmiyorsanız, Şimdi <interface>İptal</"
+"interface>'i tıklayın."
+
+#: plugininstaller/ScriptConfirmationDialog.h:75
+#, kde-format
+msgctxt "@action:button"
+msgid "Mark entry as uninstalled"
+msgstr "Girdiyi kaldırılmış olarak işaretle"
+
+#: plugininstaller/ScriptConfirmationDialog.h:77
+#, kde-format
+msgctxt "@action:button"
+msgid "Mark entry as installed"
+msgstr "Girdiyi yüklenmiş olarak işaretle"
+
+#: plugininstaller/ScriptConfirmationDialog.h:85
+#, kde-format
+msgctxt "@action:button"
+msgid "View Script"
+msgstr "Betiği Görüntüle"
+
+#: plugininstaller/ScriptConfirmationDialog.h:91
+#, kde-format
+msgctxt "@action:button"
+msgid "View Source Directory"
+msgstr "Kaynak Dizini Görüntüle"
+
+#: plugininstaller/ScriptConfirmationDialog.h:102
+#, kde-format
+msgctxt "@action:button"
+msgid "View %1"
+msgstr "Göster: %1"
+
+#: plugininstaller/ZypperRPMJob.cpp:30
+#, kde-format
+msgctxt "@info"
+msgid "Could not resolve package name of %1"
+msgstr "%1 paketinin adı çözülemedi"
+
+#: plugininstaller/ZypperRPMJob.cpp:37
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Failed to run install command: <message>%1</message>"
+msgstr "Yükleme komutu çalıştırılamadı: <message>%1</message>"

@@ -1,0 +1,397 @@
+# Language  translations for KDE package.
+# Copyright (C) 2014 This_file_is_part_of_KDE
+# This file is distributed under the same license as the KDE package.
+# Safa Alfulaij <safa1996alfulaij@gmail.com>, 2014, ٢٠١٥, ٢٠١٦.
+# Zayed Al-Saidi <zayed.alsaidi@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 5\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-06-26 21:57+0400\n"
+"Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
+"Language-Team: ar\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.07.70\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: contents/activitymanager/ActivityItem.qml:212
+msgid "Currently being used"
+msgstr "مُستخدم حاليًّا"
+
+#: contents/activitymanager/ActivityItem.qml:252
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"انقل إلى\n"
+"هذا النشاط"
+
+#: contents/activitymanager/ActivityItem.qml:282
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"أظهر أيضا\n"
+"في هذه النشاط"
+
+#: contents/activitymanager/ActivityItem.qml:342
+msgid "Configure"
+msgstr "اضبط"
+
+#: contents/activitymanager/ActivityItem.qml:359
+msgid "Stop activity"
+msgstr "أوقف النّشاط"
+
+#: contents/activitymanager/ActivityList.qml:143
+msgid "Stopped activities:"
+msgstr "الأنشطة الموقفة:"
+
+#: contents/activitymanager/ActivityManager.qml:127
+msgid "Create activity…"
+msgstr "أنشئ نشاطًا..."
+
+#: contents/activitymanager/Heading.qml:61
+msgid "Activities"
+msgstr "الأنشطة"
+
+#: contents/activitymanager/Heading.qml:78
+#: contents/explorer/WidgetExplorer.qml:230
+msgid "Search…"
+msgstr "ابحث..."
+
+#: contents/activitymanager/StoppedActivityItem.qml:133
+msgid "Configure activity"
+msgstr "اضبط النّشاط"
+
+#: contents/activitymanager/StoppedActivityItem.qml:148
+msgid "Delete"
+msgstr "احذف"
+
+#: contents/applet/AppletError.qml:52
+msgid "Sorry! There was an error loading %1."
+msgstr "للأسف! حصل خطأ أثناء تحميل %1."
+
+#: contents/applet/AppletError.qml:60
+msgid "Copy Error Details to Clipboard"
+msgstr "انسخ تفاصيل الخطأ إلى الحافظة"
+
+#: contents/configuration/AboutPlugin.qml:19
+#: contents/configuration/AppletConfiguration.qml:227
+msgid "About"
+msgstr "عن"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "أرسِل بريد الإلكتروني إلى %1"
+
+#: contents/configuration/AboutPlugin.qml:94
+msgid "Copyright"
+msgstr "حقوق النسخ"
+
+#: contents/configuration/AboutPlugin.qml:114 contents/explorer/Tooltip.qml:93
+msgid "License:"
+msgstr "الرّخصة:"
+
+#: contents/configuration/AboutPlugin.qml:127
+msgid "Authors"
+msgstr "المؤلفين"
+
+#: contents/configuration/AboutPlugin.qml:137
+msgid "Credits"
+msgstr "الإشادات"
+
+#: contents/configuration/AboutPlugin.qml:148
+msgid "Translators"
+msgstr "المترجمون"
+
+#: contents/configuration/AppletConfiguration.qml:40
+msgid "Keyboard Shortcuts"
+msgstr "اختصارات لوحة المفاتيح"
+
+#: contents/configuration/AppletConfiguration.qml:275
+msgid "Apply Settings"
+msgstr "طبّق الإعدادات"
+
+#: contents/configuration/AppletConfiguration.qml:276
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr "تغيّرت إعدادات الوحدة الحاليّة. أتريد تطبيق الإعدادات أو رفضها؟"
+
+#: contents/configuration/AppletConfiguration.qml:301
+msgid "OK"
+msgstr "حسنًا."
+
+#: contents/configuration/AppletConfiguration.qml:309
+msgid "Apply"
+msgstr "طبّق"
+
+#: contents/configuration/AppletConfiguration.qml:315
+#: contents/explorer/AppletAlternatives.qml:175
+msgid "Cancel"
+msgstr "ألغ"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:29
+msgid "Open configuration page"
+msgstr "افتح صفح الضبط"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:19
+msgid "Left-Button"
+msgstr "الزّرّ الأيسر"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:20
+msgid "Right-Button"
+msgstr "الزّرّ الأيمن"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Middle-Button"
+msgstr "الزّرّ الأوسط"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Back-Button"
+msgstr "زرّ العودة"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Forward-Button"
+msgstr "زرّ التّقدّم"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Vertical-Scroll"
+msgstr "التّمرير الرّأسيّ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:26
+msgid "Horizontal-Scroll"
+msgstr "التّمرير الأفقيّ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:29
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:73
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:153
+#: contents/configuration/MouseEventInputButton.qml:15
+msgid "Add Action"
+msgstr "أضف إجراءً"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:26
+msgid "Appearance"
+msgstr "المظهر"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:68
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "قُيد تغييرات التخطيط من قبل مسؤول النظام "
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:83
+msgid "Layout:"
+msgstr "التّخطيط:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:98
+msgid "Wallpaper Type:"
+msgstr "نوع الخلفيّة:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:115
+msgid "Get New Plugins…"
+msgstr "احصل على ملحقات جديدة..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:127
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "يجب تطبيق تغييرات التخطيط قبل إجراء تغييرات أخرى"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:133
+msgid "Apply now"
+msgstr "طبّق الآن"
+
+#: contents/configuration/ConfigurationShortcuts.qml:16
+msgid "Shortcuts"
+msgstr "الاختصارات"
+
+#: contents/configuration/ConfigurationShortcuts.qml:26
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "سيؤدي هذا الاختصار إلى تنشيط التطبيق الصغير كما لو تم النقر عليه."
+
+#: contents/configuration/ContainmentConfiguration.qml:31
+msgid "Wallpaper"
+msgstr "الخلفيّة"
+
+#: contents/configuration/ContainmentConfiguration.qml:36
+msgid "Mouse Actions"
+msgstr "إجراءات الفأرة"
+
+#: contents/configuration/MouseEventInputButton.qml:22
+msgid "Input Here"
+msgstr "أدخل هنا"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:16
+msgid "Screen Edge"
+msgstr "حافّة الشّاشة"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr "انقر واسحب الزر إلى حافة الشاشة لتحريك اللوحة هناك."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:34
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:168
+msgid "Remove Panel"
+msgstr "أزل اللوحة"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:41
+msgid "Panel Alignment"
+msgstr "محاذاة اللوحة"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Top"
+msgstr "الأعلى"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Left"
+msgstr "اليسار"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+msgid "Center"
+msgstr "الوسط"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Bottom"
+msgstr "الأسفل"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Right"
+msgstr "اليمين"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:83
+msgid "Visibility"
+msgstr "الرّؤية"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:91
+msgid "Always Visible"
+msgstr "أظهر دائمًا"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:99
+msgid "Auto Hide"
+msgstr "أخف آليًّا"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:107
+msgid "Windows Can Cover"
+msgstr "يمكن للنّوافذ تغطيتها"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:115
+msgid "Windows Go Below"
+msgstr "النّوافذ تذهب تحتها"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:124
+msgid "Opacity"
+msgstr "العتمة"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:134
+msgid "Adaptive"
+msgstr "متكيف"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+msgid "Opaque"
+msgstr "معتم"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:150
+msgid "Translucent"
+msgstr "شفاف"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:159
+msgid "Maximize Panel"
+msgstr "كبّر اللوحة"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:22
+msgid "Add Widgets…"
+msgstr "أضف ودجات..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:23
+msgid "Add Spacer"
+msgstr "أضف مُباعد"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:24
+msgid "More Options…"
+msgstr "خيارات أكثر..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel width:"
+msgstr "عرضة اللوحة:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel height:"
+msgstr "ارتفاع اللوحة:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:213
+msgid "Close"
+msgstr "أغلق"
+
+#: contents/explorer/AppletAlternatives.qml:72
+msgid "Alternative Widgets"
+msgstr "ودجات بديلة"
+
+#: contents/explorer/AppletAlternatives.qml:165
+msgid "Switch"
+msgstr "بدّل"
+
+#: contents/explorer/AppletDelegate.qml:166
+msgid "Undo uninstall"
+msgstr "تراجع عن إزالة التّثبيت"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Uninstall widget"
+msgstr "أزل تثبيت الودجة"
+
+#: contents/explorer/Tooltip.qml:102
+msgid "Author:"
+msgstr "المؤلّف:"
+
+#: contents/explorer/Tooltip.qml:110
+msgid "Email:"
+msgstr "البريد الإلكترونيّ:"
+
+#: contents/explorer/Tooltip.qml:129
+msgid "Uninstall"
+msgstr "أزل التّثبيت"
+
+#: contents/explorer/WidgetExplorer.qml:129
+#: contents/explorer/WidgetExplorer.qml:245
+msgid "All Widgets"
+msgstr "كلّ الودجات"
+
+#: contents/explorer/WidgetExplorer.qml:204
+msgid "Widgets"
+msgstr "الودجات"
+
+#: contents/explorer/WidgetExplorer.qml:212
+msgid "Get New Widgets…"
+msgstr "اجلب ودجات جديدة..."
+
+#: contents/explorer/WidgetExplorer.qml:244
+msgid "Categories"
+msgstr "الفئات"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets matched the search terms"
+msgstr "لا توجد ودجات مطابقة لشروط البحث"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets available"
+msgstr "لا تتوفر ودجات"

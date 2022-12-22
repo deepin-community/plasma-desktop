@@ -1,0 +1,497 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrej Mernik <andrejm@ubuntu.si>, 2014, 2015, 2016, 2017, 2018.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-29 01:47+0000\n"
+"PO-Revision-Date: 2021-05-27 08:13+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Poedit 2.4.3\n"
+
+#: package/contents/config/config.qml:16
+#, kde-format
+msgid "Location"
+msgstr "Mesto"
+
+#: package/contents/config/config.qml:23
+#: package/contents/ui/ConfigIcons.qml:208
+#: package/contents/ui/FolderViewLayer.qml:402
+#, kde-format
+msgid "Icons"
+msgstr "Ikone"
+
+#: package/contents/config/config.qml:30
+#, kde-format
+msgid "Filter"
+msgstr "Filter"
+
+#: package/contents/ui/BackButtonItem.qml:103
+#, kde-format
+msgid "Back"
+msgstr "Nazaj"
+
+#: package/contents/ui/ConfigFilter.qml:63
+#, kde-format
+msgid "Files:"
+msgstr "Datoteke:"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show all"
+msgstr "Pokaži vse"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Show matching"
+msgstr "Pokaži ujemanja"
+
+#: package/contents/ui/ConfigFilter.qml:64
+#, kde-format
+msgid "Hide matching"
+msgstr "Skrij ujemanja"
+
+#: package/contents/ui/ConfigFilter.qml:69
+#, kde-format
+msgid "File name pattern:"
+msgstr "Vzorec imena datoteke:"
+
+#: package/contents/ui/ConfigFilter.qml:76
+#, kde-format
+msgid "File types:"
+msgstr "Vrste datotek:"
+
+#: package/contents/ui/ConfigFilter.qml:78
+#, kde-format
+msgid "Search…"
+msgstr "Poišči…"
+
+#: package/contents/ui/ConfigFilter.qml:177
+#, kde-format
+msgid "File type"
+msgstr "Vrsta datoteke"
+
+#: package/contents/ui/ConfigFilter.qml:186
+#, kde-format
+msgid "Description"
+msgstr "Opis"
+
+#: package/contents/ui/ConfigFilter.qml:200
+#, kde-format
+msgid "Select All"
+msgstr "Izberi vse"
+
+#: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
+msgid "Deselect All"
+msgstr "Odstrani izbiro"
+
+#: package/contents/ui/ConfigIcons.qml:63
+#, kde-format
+msgid "Panel button:"
+msgstr "Gumb pulta:"
+
+#: package/contents/ui/ConfigIcons.qml:69
+#, kde-format
+msgid "Use a custom icon"
+msgstr "Uporabi ikono po meri"
+
+#: package/contents/ui/ConfigIcons.qml:103
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "Izberi…"
+
+#: package/contents/ui/ConfigIcons.qml:109
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Počisti ikono"
+
+#: package/contents/ui/ConfigIcons.qml:128
+#, kde-format
+msgid "Arrangement:"
+msgstr "Razporeditev:"
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:62
+#, kde-format
+msgid "Rows"
+msgstr "Vrstice"
+
+#: package/contents/ui/ConfigIcons.qml:130
+#: plugins/folder/viewpropertiesmenu.cpp:66
+#, kde-format
+msgid "Columns"
+msgstr "Stolpci"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align left"
+msgstr "Poravnaj levo"
+
+#: package/contents/ui/ConfigIcons.qml:137
+#, kde-format
+msgid "Align right"
+msgstr "Poravnaj desno"
+
+#: package/contents/ui/ConfigIcons.qml:152
+#, kde-format
+msgid "Lock in place"
+msgstr "Zakleni položaj"
+
+#: package/contents/ui/ConfigIcons.qml:165
+#, kde-format
+msgid "Sorting:"
+msgstr "Razvrščanje:"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#, kde-format
+msgid "Manual"
+msgstr "Ročno"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:26
+#, kde-format
+msgid "Name"
+msgstr "Ime"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:30
+#, kde-format
+msgid "Size"
+msgstr "Velikost"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:34
+#, kde-format
+msgid "Type"
+msgstr "Vrsta"
+
+#: package/contents/ui/ConfigIcons.qml:173
+#: plugins/folder/viewpropertiesmenu.cpp:38
+#, kde-format
+msgid "Date"
+msgstr "Datum"
+
+#: package/contents/ui/ConfigIcons.qml:184
+#: plugins/folder/viewpropertiesmenu.cpp:43
+#, kde-format
+msgid "Descending"
+msgstr "Padajoče"
+
+#: package/contents/ui/ConfigIcons.qml:192
+#, kde-format
+msgid "Folders first"
+msgstr "Najprej mape"
+
+#: package/contents/ui/ConfigIcons.qml:206
+#, kde-format
+msgctxt "whether to use icon or list view"
+msgid "View mode:"
+msgstr "Način prikaza:"
+
+#: package/contents/ui/ConfigIcons.qml:208
+#, kde-format
+msgid "List"
+msgstr "Seznam"
+
+#: package/contents/ui/ConfigIcons.qml:219
+#, kde-format
+msgid "Icon size:"
+msgstr "Velikost ikon:"
+
+#: package/contents/ui/ConfigIcons.qml:234
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small"
+msgstr "Majhna"
+
+#: package/contents/ui/ConfigIcons.qml:243
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Large"
+msgstr "Velika"
+
+#: package/contents/ui/ConfigIcons.qml:252
+#, kde-format
+msgid "Label width:"
+msgstr "Širina značke:"
+
+#: package/contents/ui/ConfigIcons.qml:255
+#, kde-format
+msgid "Narrow"
+msgstr "Ozka"
+
+#: package/contents/ui/ConfigIcons.qml:256
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Medium"
+msgstr "Srednja"
+
+#: package/contents/ui/ConfigIcons.qml:257
+#, kde-format
+msgid "Wide"
+msgstr "Široka"
+
+#: package/contents/ui/ConfigIcons.qml:265
+#, kde-format
+msgid "Text lines:"
+msgstr "Vrstice besedila:"
+
+#: package/contents/ui/ConfigIcons.qml:281
+#, kde-format
+msgid "Features:"
+msgstr "Zmožnosti:"
+
+#: package/contents/ui/ConfigIcons.qml:283
+#, kde-format
+msgid "Tooltips"
+msgstr "Orodni namigi"
+
+#: package/contents/ui/ConfigIcons.qml:290
+#, kde-format
+msgid "Selection markers"
+msgstr "Označevalniki izbora"
+
+#: package/contents/ui/ConfigIcons.qml:297
+#, kde-format
+msgid "Rename inline by clicking selected item's text"
+msgstr "Preimenuj znotraj vrstice s klikom na izbrano besedilo postavke"
+
+#: package/contents/ui/ConfigIcons.qml:304
+#, kde-format
+msgid "Folder preview popups"
+msgstr "Pojavna okna s predogledom map"
+
+#: package/contents/ui/ConfigIcons.qml:310
+#, kde-format
+msgid "Preview thumbnails"
+msgstr "Predogledne sličice"
+
+#: package/contents/ui/ConfigIcons.qml:318
+#, kde-format
+msgid "Configure Preview Plugins…"
+msgstr "Nastavi vtičnike za predoglede…"
+
+#: package/contents/ui/ConfigLocation.qml:81
+#, kde-format
+msgid "Show:"
+msgstr "Prikaži:"
+
+#: package/contents/ui/ConfigLocation.qml:83
+#, kde-format
+msgid "Desktop folder"
+msgstr "Mapa Namizja"
+
+#: package/contents/ui/ConfigLocation.qml:90
+#, kde-format
+msgid "Files linked to the current activity"
+msgstr "Datoteke povezane s trenutno dejavnostjo"
+
+#: package/contents/ui/ConfigLocation.qml:97
+#, kde-format
+msgid "Places panel item:"
+msgstr "Predmet panela mest:"
+
+#: package/contents/ui/ConfigLocation.qml:130
+#, kde-format
+msgid "Custom location:"
+msgstr "Mesta po meri:"
+
+#: package/contents/ui/ConfigLocation.qml:138
+#, kde-format
+msgid "Type path or URL…"
+msgstr "Vnesite pot ali naslov URL…"
+
+#: package/contents/ui/ConfigLocation.qml:181
+#, kde-format
+msgid "Title:"
+msgstr "Naslov:"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "None"
+msgstr "Brez"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Default"
+msgstr "Privzeto"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Full path"
+msgstr "Polna pot"
+
+#: package/contents/ui/ConfigLocation.qml:183
+#, kde-format
+msgid "Custom title"
+msgstr "Naslov po meri"
+
+#: package/contents/ui/ConfigLocation.qml:198
+#, kde-format
+msgid "Enter custom title…"
+msgstr "Vnesite naslov po meri…"
+
+#: package/contents/ui/ConfigOverlay.qml:87
+#, kde-format
+msgid "Rotate"
+msgstr "Zavrti"
+
+#: package/contents/ui/ConfigOverlay.qml:178
+#, kde-format
+msgid "Open Externally"
+msgstr "Odpri od zunaj"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Hide Background"
+msgstr "Skrij ozadje"
+
+#: package/contents/ui/ConfigOverlay.qml:190
+#, kde-format
+msgid "Show Background"
+msgstr "Prikaži ozadje"
+
+#: package/contents/ui/ConfigOverlay.qml:238
+#, kde-format
+msgid "Remove"
+msgstr "Odstrani"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:24
+#, kde-format
+msgid "Preview Plugins"
+msgstr "Vstavki za predogled"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:82
+#, kde-format
+msgid "OK"
+msgstr "OK"
+
+#: package/contents/ui/FolderItemPreviewPluginsDialog.qml:95
+#, kde-format
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: package/contents/ui/main.qml:346
+#, kde-format
+msgid "Configure Desktop and Wallpaper…"
+msgstr "Nastavi namizje in ozadje…"
+
+#: plugins/folder/directorypicker.cpp:33
+#, kde-format
+msgid "Select Folder"
+msgstr "Izberi mapo"
+
+#: plugins/folder/foldermodel.cpp:404
+#, kde-format
+msgid "&Refresh Desktop"
+msgstr "Osveži namizje"
+
+#: plugins/folder/foldermodel.cpp:404 plugins/folder/foldermodel.cpp:1593
+#, kde-format
+msgid "&Refresh View"
+msgstr "Osveži prikaz"
+
+#: plugins/folder/foldermodel.cpp:1602
+#, kde-format
+msgid "&Empty Trash"
+msgstr "Izprazni Sm&eti"
+
+#: plugins/folder/foldermodel.cpp:1605
+#, kde-format
+msgctxt "Restore from trash"
+msgid "Restore"
+msgstr "Obnovi"
+
+#: plugins/folder/foldermodel.cpp:1608
+#, kde-format
+msgid "&Open"
+msgstr "&Odpri"
+
+#: plugins/folder/foldermodel.cpp:1723
+#, kde-format
+msgid "&Paste"
+msgstr "&Prilepi"
+
+#: plugins/folder/foldermodel.cpp:1837
+#, kde-format
+msgid "&Properties"
+msgstr "Lastnosti"
+
+#: plugins/folder/viewpropertiesmenu.cpp:19
+#, kde-format
+msgid "Sort By"
+msgstr "Razvrsti po"
+
+#: plugins/folder/viewpropertiesmenu.cpp:22
+#, kde-format
+msgid "Unsorted"
+msgstr "Ni razvrščeno"
+
+#: plugins/folder/viewpropertiesmenu.cpp:45
+#, kde-format
+msgid "Folders First"
+msgstr "Najprej mape"
+
+#: plugins/folder/viewpropertiesmenu.cpp:48
+#, kde-format
+msgid "Icon Size"
+msgstr "Velikost ikon"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Tiny"
+msgstr "Zelo majhna"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Small Medium"
+msgstr "Majhna Srednja"
+
+#: plugins/folder/viewpropertiesmenu.cpp:51
+#, kde-format
+msgid "Huge"
+msgstr "Ogromna"
+
+#: plugins/folder/viewpropertiesmenu.cpp:59
+#, kde-format
+msgid "Arrange In"
+msgstr "Razporedi v"
+
+#: plugins/folder/viewpropertiesmenu.cpp:71
+#, kde-format
+msgid "Align"
+msgstr "Poravnaj"
+
+#: plugins/folder/viewpropertiesmenu.cpp:74
+#, kde-format
+msgid "Left"
+msgstr "Levo"
+
+#: plugins/folder/viewpropertiesmenu.cpp:78
+#, kde-format
+msgid "Right"
+msgstr "Desno"
+
+#: plugins/folder/viewpropertiesmenu.cpp:83
+#, kde-format
+msgid "Show Previews"
+msgstr "Pokaži predoglede"
+
+#: plugins/folder/viewpropertiesmenu.cpp:86
+#, kde-format
+msgid "Locked"
+msgstr "Zaklenjeno"

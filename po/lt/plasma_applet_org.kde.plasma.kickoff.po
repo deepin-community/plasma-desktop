@@ -1,0 +1,202 @@
+# Lithuanian translations for l package.
+# Copyright (C) 2014 This_file_is_part_of_KDE
+# This file is distributed under the same license as the l package.
+#
+# Automatically generated, 2014.
+# Liudas Ališauskas <liudas@aksioma.lt>, 2014, 2015.
+# Mindaugas Baranauskas <opensuse.lietuviu.kalba@gmail.com>, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: l 10n\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-08-21 12:55+0300\n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian <kde-i18n-lt@kde.org>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
+"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+"X-Generator: Poedit 3.0\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgid "General"
+msgstr "Bendri"
+
+#: package/contents/ui/code/tools.js:42
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Pašalinti iš žymelių"
+
+#: package/contents/ui/code/tools.js:46
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Įtraukti į žymeles"
+
+#: package/contents/ui/code/tools.js:70
+#, kde-format
+msgid "On All Activities"
+msgstr "Visose veiklose"
+
+#: package/contents/ui/code/tools.js:120
+#, kde-format
+msgid "On the Current Activity"
+msgstr "Dabartinėje veikloje"
+
+#: package/contents/ui/code/tools.js:134
+#, kde-format
+msgid "Show in Favorites"
+msgstr "Rodyti žymelėse"
+
+#: package/contents/ui/ConfigGeneral.qml:30
+#, kde-format
+msgid "Icon:"
+msgstr "Piktograma:"
+
+#: package/contents/ui/ConfigGeneral.qml:65
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "Pasirinkti…"
+
+#: package/contents/ui/ConfigGeneral.qml:70
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Išvalyti piktogramą"
+
+#: package/contents/ui/ConfigGeneral.qml:83
+#, kde-format
+msgid "Always sort applications alphabetically"
+msgstr "Visada rikiuoti programas pagal abėcėlę"
+
+#: package/contents/ui/ConfigGeneral.qml:88
+#, kde-format
+msgid "Configure enabled search plugins"
+msgstr "Konfigūruoti įjungtus paieškos papildinius"
+
+#: package/contents/ui/ConfigGeneral.qml:98
+#, kde-format
+msgid "Show favorites:"
+msgstr "Rodyti žymeles:"
+
+#: package/contents/ui/ConfigGeneral.qml:99
+#, kde-format
+msgctxt "Part of a sentence: 'Show favorites in a grid'"
+msgid "In a grid"
+msgstr "Tinkleliu"
+
+#: package/contents/ui/ConfigGeneral.qml:107
+#, kde-format
+msgctxt "Part of a sentence: 'Show favorites in a list'"
+msgid "In a list"
+msgstr "Sąrašu"
+
+#: package/contents/ui/ConfigGeneral.qml:115
+#, kde-format
+msgid "Show other applications:"
+msgstr "Rodyti kitas programas:"
+
+#: package/contents/ui/ConfigGeneral.qml:116
+#, kde-format
+msgctxt "Part of a sentence: 'Show other applications in a grid'"
+msgid "In a grid"
+msgstr "Tinkleliu"
+
+#: package/contents/ui/ConfigGeneral.qml:124
+#, kde-format
+msgctxt "Part of a sentence: 'Show other applications in a list'"
+msgid "In a list"
+msgstr "Sąrašu"
+
+#: package/contents/ui/ConfigGeneral.qml:136
+#, kde-format
+msgid "Show buttons for:"
+msgstr "Rodyti mygtukus į kuriuos įeina:"
+
+#: package/contents/ui/ConfigGeneral.qml:137
+#: package/contents/ui/LeaveButtons.qml:74
+#, kde-format
+msgid "Power"
+msgstr "Maitinimas"
+
+#: package/contents/ui/ConfigGeneral.qml:146
+#, kde-format
+msgid "Session"
+msgstr "Seansas"
+
+#: package/contents/ui/ConfigGeneral.qml:155
+#, kde-format
+msgid "Power and session"
+msgstr "Maitinimas ir seansas"
+
+#: package/contents/ui/ConfigGeneral.qml:164
+#, kde-format
+msgid "Show action button captions"
+msgstr "Rodyti veiksmų mygtukų paaiškinimus"
+
+#: package/contents/ui/Footer.qml:109
+#, kde-format
+msgid "Applications"
+msgstr "Programos"
+
+#: package/contents/ui/Footer.qml:122
+#, kde-format
+msgid "Places"
+msgstr "Vietos"
+
+#: package/contents/ui/Header.qml:63
+#, kde-format
+msgid "Go to user settings"
+msgstr "Eiti į naudotojo nuostatas"
+
+#: package/contents/ui/Header.qml:171
+#, kde-format
+msgid "Search…"
+msgstr "Ieškoti…"
+
+#: package/contents/ui/Header.qml:248
+#, kde-format
+msgid "Keep Open"
+msgstr "Palikti atvertą"
+
+#: package/contents/ui/Kickoff.qml:156
+#, kde-format
+msgid "Edit Applications…"
+msgstr "Taisyti programas…"
+
+#: package/contents/ui/KickoffGridView.qml:80
+#, kde-format
+msgid "Grid with %1 rows, %2 columns"
+msgstr "Tinklelis, kuriame eilučių: %1, stulpelių: %2"
+
+#: package/contents/ui/LeaveButtons.qml:74
+#, kde-format
+msgid "Leave"
+msgstr "Išeiti"
+
+#: package/contents/ui/LeaveButtons.qml:74
+#, kde-format
+msgid "More"
+msgstr "Daugiau"
+
+#: package/contents/ui/PlacesPage.qml:51
+#, kde-format
+msgctxt "category in Places sidebar"
+msgid "Computer"
+msgstr "Kompiuteris"
+
+#: package/contents/ui/PlacesPage.qml:52
+#, kde-format
+msgctxt "category in Places sidebar"
+msgid "History"
+msgstr "Istorija"
+
+#: package/contents/ui/PlacesPage.qml:53
+#, kde-format
+msgctxt "category in Places sidebar"
+msgid "Frequently Used"
+msgstr "Dažniausiai naudojami"

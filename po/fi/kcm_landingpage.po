@@ -1,0 +1,192 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# Tommi Nieminen <translator@legisign.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-07-22 13:32+0300\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Tommi Nieminen"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "translator@legisign.org"
+
+#: landingpage.cpp:173
+#, kde-format
+msgid "Quick Settings"
+msgstr "Pika-asetukset"
+
+#: landingpage.cpp:175
+#, kde-format
+msgid "Landing page with some basic settings."
+msgstr "Aloitussivu, jolla voi asettaa joitakin perusasetuksia."
+
+#: landingpage.cpp:178
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#. i18n: ectx: label, entry (colorScheme), group (General)
+#: landingpage_kdeglobalssettings.kcfg:9
+#, kde-format
+msgid "Color scheme name"
+msgstr "Väriteeman nimi"
+
+#. i18n: ectx: label, entry (singleClick), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:15
+#, kde-format
+msgid "Single click to open files"
+msgstr "Avaa tiedostot kertanapsautuksella"
+
+#. i18n: ectx: label, entry (lookAndFeelPackage), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:19
+#, kde-format
+msgid "Global Look and Feel package"
+msgstr "Yleisulkoasun ja -tuntuman paketti"
+
+#. i18n: ectx: label, entry (defaultLightLookAndFeel), group (KDE)
+#. i18n: ectx: label, entry (defaultDarkLookAndFeel), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:23
+#: landingpage_kdeglobalssettings.kcfg:27
+#, kde-format
+msgid "Global Look and Feel package, alternate"
+msgstr "Yleisulkoasun ja -tuntuman paketti, vaihtoehtoinen"
+
+#. i18n: ectx: label, entry (animationDurationFactor), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:31
+#, kde-format
+msgid "Animation speed"
+msgstr "Animointinopeus"
+
+#: package/contents/ui/FeedbackControls.qml:62
+#, kde-format
+msgid "Plasma"
+msgstr "Plasma"
+
+#: package/contents/ui/FeedbackControls.qml:67
+#, kde-format
+msgid ""
+"You can help KDE improve Plasma by contributing information on how you use "
+"it, so we can focus on things that matter to you.<nl/><nl/>Contributing this "
+"information is optional and entirely anonymous. We never collect your "
+"personal data, files you use, websites you visit, or information that could "
+"identify you."
+msgstr ""
+"Voit auttaa KDE:ta Plasman kehityksessä lahjotitamalla tietoa siitä, miten "
+"käytät sitä, jotta voimme keskittyä asioihin, joilla on sinulle väliä.<nl/"
+"><nl/>Tiedon lahjoittaminen on vapaaehtoista ja tapahtuu täysin "
+"nimettömästi. Emme koskaan kerää henkilökohtaisia tietojasi, käyttämiäsi "
+"tiedostoja, sivustoja joilla käyt tai muuta tietoa, josta sinut voisi "
+"tunnistaa."
+
+#: package/contents/ui/FeedbackControls.qml:70
+#, kde-format
+msgid "No data will be sent."
+msgstr "Tietoja ei lähetetä."
+
+#: package/contents/ui/FeedbackControls.qml:72
+#, kde-format
+msgid "The following information will be sent:"
+msgstr "Lähetetään seuraavat tiedot:"
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid "Light Theme"
+msgstr "Vaalea  teema"
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid "Dark Theme"
+msgstr "Tumma teema"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "Animation speed:"
+msgstr "Animointinopeus:"
+
+#: package/contents/ui/main.qml:100
+#, kde-format
+msgctxt "Animation speed"
+msgid "Slow"
+msgstr "Hidas"
+
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgctxt "Animation speed"
+msgid "Instant"
+msgstr "Välitön"
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Change Wallpaper…"
+msgstr "Vaihda taustakuva…"
+
+#: package/contents/ui/main.qml:120
+#, kde-format
+msgid "More Appearance Settings…"
+msgstr "Lisää ulkoasuasetuksia…"
+
+#: package/contents/ui/main.qml:143
+#, kde-format
+msgctxt ""
+"part of a sentence: 'Clicking files or folders [opens them/selects them]'"
+msgid "Clicking files or folders:"
+msgstr "Tiedostojen ja kansioiden napsauttaminen:"
+
+#: package/contents/ui/main.qml:144
+#, kde-format
+msgctxt "part of a sentence: 'Clicking files or folders opens them'"
+msgid "Opens them"
+msgstr "avaa ne"
+
+#: package/contents/ui/main.qml:157
+#, kde-format
+msgctxt "part of a sentence: 'Clicking files or folders selects them'"
+msgid "Selects them"
+msgstr "valitsee ne"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Select by clicking on item's selection marker"
+msgstr "Valitse napsauttamalla tietueen valintamerkkiä"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Open by double-clicking instead"
+msgstr "Avaaminen tapahtuu kaksoisnapsautuksella"
+
+#: package/contents/ui/main.qml:187
+#, kde-format
+msgid "Send User Feedback:"
+msgstr "Lähetä käyttäjäpalautetta:"
+
+#: package/contents/ui/main.qml:194
+#, kde-format
+msgid "More Behavior Settings…"
+msgstr "Lisää toiminta-asetuksia…"
+
+#: package/contents/ui/main.qml:213
+#, kde-format
+msgid "Most Used Settings"
+msgstr "Käytetyimmät asetukset"
+
+#: package/contents/ui/MostUsedIcon.qml:29
+#, kde-format
+msgid "Most used module number %1"
+msgstr "Käytetyimmän moduulin numero %1"

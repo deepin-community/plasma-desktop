@@ -1,0 +1,337 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Giovanni Sora <g.sora@tiscali.it>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-02 00:19+0000\n"
+"PO-Revision-Date: 2021-08-04 22:03+0200\n"
+"Last-Translator: giovanni <g.sora@tiscali.it>\n"
+"Language-Team: Interlingua <kde-i18n-doc@kde.org>\n"
+"Language: ia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.04.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Giovanni Sora"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "g.sora@tiscali.it"
+
+#: package/contents/ui/ChangePassword.qml:26
+#: package/contents/ui/UserDetailsPage.qml:168
+#, kde-format
+msgid "Change Password"
+msgstr "Modifica contrasigno"
+
+#: package/contents/ui/ChangePassword.qml:41
+#, kde-format
+msgid "Password"
+msgstr "Contrasigno"
+
+#: package/contents/ui/ChangePassword.qml:55
+#, kde-format
+msgid "Confirm password"
+msgstr "Confirma contrasigno"
+
+#: package/contents/ui/ChangePassword.qml:68
+#: package/contents/ui/CreateUser.qml:66
+#, kde-format
+msgid "Passwords must match"
+msgstr "Contrasigno debe coincider"
+
+#: package/contents/ui/ChangePassword.qml:73
+#, kde-format
+msgid "Set Password"
+msgstr "Fixa contrasigno"
+
+#: package/contents/ui/ChangeWalletPassword.qml:17
+#, kde-format
+msgid "Change Wallet Password?"
+msgstr "Modifica contrasigno de Portafolio?"
+
+#: package/contents/ui/ChangeWalletPassword.qml:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Now that you have changed your login password, you may also want to change "
+"the password on your default KWallet to match it."
+msgstr ""
+"Ora que tu ha cambiate tu contrasigno de accesso, tu pote anque voler "
+"cambiar le contrasigno su tu portafolio predefinte de Kwallet pro facer lo "
+"coincidere."
+
+#: package/contents/ui/ChangeWalletPassword.qml:31
+#, kde-format
+msgid "What is KWallet?"
+msgstr "Esque es KWallet?"
+
+#: package/contents/ui/ChangeWalletPassword.qml:41
+#, kde-format
+msgid ""
+"KWallet is a password manager that stores your passwords for wireless "
+"networks and other encrypted resources. It is locked with its own password "
+"which differs from your login password. If the two passwords match, it can "
+"be unlocked at login automatically so you don't have to enter the KWallet "
+"password yourself."
+msgstr ""
+"Kwallet es un gestor de contrasigno que immagazina tu contrasignos per retes "
+"sin cablos e altere ressources cryptate. Ilo els blocate con su proprie "
+"contrasigno que differe ab tu contrasigno de accesso. si le duo contrasigno "
+"coincide, illo pote esser disblocate automaticamente al accesso assi que tu "
+"non deve insertar per te mesem le contrasigno de KWallet."
+
+#: package/contents/ui/ChangeWalletPassword.qml:57
+#, kde-format
+msgid "Change Wallet Password"
+msgstr "Modifica contrasigno de Portafolio"
+
+#: package/contents/ui/ChangeWalletPassword.qml:66
+#, kde-format
+msgid "Leave Unchanged"
+msgstr "Lassa sin modificationes"
+
+#: package/contents/ui/CreateUser.qml:16
+#, kde-format
+msgid "Create User"
+msgstr "Crea usator"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Name:"
+msgstr "Nomine:"
+
+#: package/contents/ui/CreateUser.qml:35
+#: package/contents/ui/UserDetailsPage.qml:142
+#, kde-format
+msgid "Username:"
+msgstr "Nomine de usator:"
+
+#: package/contents/ui/CreateUser.qml:45
+#: package/contents/ui/UserDetailsPage.qml:150
+#, kde-format
+msgid "Standard"
+msgstr "Standard"
+
+#: package/contents/ui/CreateUser.qml:46
+#: package/contents/ui/UserDetailsPage.qml:151
+#, kde-format
+msgid "Administrator"
+msgstr "Administrator"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:154
+#, kde-format
+msgid "Account type:"
+msgstr "Typo de conto:"
+
+#: package/contents/ui/CreateUser.qml:54
+#, kde-format
+msgid "Password:"
+msgstr "Contrasigno:"
+
+#: package/contents/ui/CreateUser.qml:59
+#, kde-format
+msgid "Confirm password:"
+msgstr "Confirma contrasigno"
+
+#: package/contents/ui/CreateUser.qml:70
+#, kde-format
+msgid "Create"
+msgstr "Crea"
+
+#: package/contents/ui/main.qml:22
+#, kde-format
+msgid "Manage Users"
+msgstr "Gere usatores"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Add New User"
+msgstr "Adde nove usator"
+
+#: package/contents/ui/UserDetailsPage.qml:89
+#, kde-format
+msgid "Choose a picture"
+msgstr "Selige un pictura"
+
+#: package/contents/ui/UserDetailsPage.qml:122
+#, kde-format
+msgid "Change avatar"
+msgstr "Cambia Avatar"
+
+#: package/contents/ui/UserDetailsPage.qml:134
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "John Doe"
+
+#: package/contents/ui/UserDetailsPage.qml:163
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "john.doe@kde.org"
+
+#: package/contents/ui/UserDetailsPage.qml:164
+#, kde-format
+msgid "Email address:"
+msgstr "Adresse de E-Posta:"
+
+#: package/contents/ui/UserDetailsPage.qml:188
+#, kde-format
+msgid "Delete files"
+msgstr "Dele files"
+
+#: package/contents/ui/UserDetailsPage.qml:197
+#, kde-format
+msgid "Keep files"
+msgstr "Mantene files"
+
+#: package/contents/ui/UserDetailsPage.qml:206
+#, kde-format
+msgid "Delete User…"
+msgstr "Dele usator..."
+
+#: package/contents/ui/UserDetailsPage.qml:216
+#, kde-format
+msgid "Change Avatar"
+msgstr "Cambia Avatar"
+
+#: package/contents/ui/UserDetailsPage.qml:259
+#, kde-format
+msgid "Choose File…"
+msgstr "Selige file..."
+
+#: package/contents/ui/UserDetailsPage.qml:364
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr "Feisty Flamingo"
+
+#: package/contents/ui/UserDetailsPage.qml:365
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr "Dragon's Fruit"
+
+#: package/contents/ui/UserDetailsPage.qml:366
+#, kde-format
+msgid "Sweet Potato"
+msgstr "Sweet Potato"
+
+#: package/contents/ui/UserDetailsPage.qml:367
+#, kde-format
+msgid "Ambient Amber"
+msgstr "Ambient Amber"
+
+#: package/contents/ui/UserDetailsPage.qml:368
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr "Sparkle Sunbeam"
+
+#: package/contents/ui/UserDetailsPage.qml:369
+#, kde-format
+msgid "Lemon-Lime"
+msgstr "Lemon-Lime"
+
+#: package/contents/ui/UserDetailsPage.qml:370
+#, kde-format
+msgid "Verdant Charm"
+msgstr "Verdant Charm"
+
+#: package/contents/ui/UserDetailsPage.qml:371
+#, kde-format
+msgid "Mellow Meadow"
+msgstr "Mellow Meadow"
+
+#: package/contents/ui/UserDetailsPage.qml:372
+#, kde-format
+msgid "Tepid Teal"
+msgstr "Tepid Teal"
+
+#: package/contents/ui/UserDetailsPage.qml:373
+#, kde-format
+msgid "Plasma Blue"
+msgstr "Plasma Blue"
+
+#: package/contents/ui/UserDetailsPage.qml:374
+#, kde-format
+msgid "Pon Purple"
+msgstr "Pon Purple"
+
+#: package/contents/ui/UserDetailsPage.qml:375
+#, kde-format
+msgid "Bajo Purple"
+msgstr "Bajo Purple"
+
+#: package/contents/ui/UserDetailsPage.qml:376
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr "Burnt Charcoal"
+
+#: package/contents/ui/UserDetailsPage.qml:377
+#, kde-format
+msgid "Paper Perfection"
+msgstr "Paper Perfection"
+
+#: package/contents/ui/UserDetailsPage.qml:378
+#, kde-format
+msgid "Cafétera Brown"
+msgstr "Cafétera Brown"
+
+#: package/contents/ui/UserDetailsPage.qml:379
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "Rich Hardwood"
+
+#: src/kcm.cpp:40
+#, kde-format
+msgid "Manage user accounts"
+msgstr "Gere contos de usator"
+
+#: src/kcm.cpp:41
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:42
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:239
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr "Non poteva otener permission a salveguardar usator %1"
+
+#: src/user.cpp:244
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr "Il habeva un error durante que il salvegurdava cambiamentos"
+
+#: src/user.cpp:319 src/user.cpp:320
+#, kde-format
+msgid "Failed to resize image: opening temp file failed"
+msgstr "Falleva a redimensionar image. il falleva a aperir file temp"
+
+#: src/user.cpp:327 src/user.cpp:328
+#, kde-format
+msgid "Failed to resize image: writing to temp file failed"
+msgstr "Falleva a redimensionar image. il falleva a scriber in file temp"
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Your Account"
+msgstr "Tu conto"
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Other Accounts"
+msgstr "Altere contos"

@@ -1,0 +1,325 @@
+# Spanish translations for kcm_search.po package.
+# Copyright (C) 2014 This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Automatically generated, 2014.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2014, 2015, 2016, 2017, 2019, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_search\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-13 00:19+0000\n"
+"PO-Revision-Date: 2021-07-14 19:29+0200\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.04.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Eloy Cuadra"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ecuadra@eloihr.net"
+
+#: kcm.cpp:47
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Configurar la barra de búsqueda"
+
+#: kcm.cpp:51
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:68
+#, kde-format
+msgid "Enable or disable plugins (used in KRunner and Application Launcher)"
+msgstr ""
+"Activar o desactivar complementos (usado en KRunner y el lanzador de "
+"aplicaciones)"
+
+#: kcm.cpp:82
+#, kde-format
+msgid "Top"
+msgstr "Arriba"
+
+#: kcm.cpp:84
+#, kde-format
+msgid "Center"
+msgstr "Centro"
+
+#: kcm.cpp:88
+#, kde-format
+msgid "Position on screen:"
+msgstr "Posición en la pantalla:"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Activar"
+
+#: kcm.cpp:93
+#, kde-format
+msgid "History:"
+msgstr "Historial:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Retener la búsqueda anterior"
+
+#: kcm.cpp:98
+#, kde-format
+msgid "Activity aware (previous search and history)"
+msgstr "Tener en cuenta la actividad (búsqueda anterior e historial)"
+
+#: kcm.cpp:134
+#, kde-format
+msgid "Get New Plugins…"
+msgstr "Obtener nuevos complementos..."
+
+#: kcm.cpp:140 kcm.cpp:171
+#, kde-format
+msgid "Available Plugins"
+msgstr "Complementos disponibles"
+
+#: kcm.cpp:229
+#, kde-format
+msgctxt "delete history for all activities"
+msgid "For all activities"
+msgstr "Para todas las actividades"
+
+#: kcm.cpp:243
+#, kde-format
+msgctxt "delete history for this activity"
+msgid "For activity \"%1\""
+msgstr "Para la actividad «%1»"
+
+#: kcm.cpp:249
+#, kde-format
+msgid "Clear History…"
+msgstr "Borrar el historial..."
+
+#: kcm.cpp:253
+#, kde-format
+msgid "Clear History"
+msgstr "Borrar el historial"
+
+#: plugininstaller/AbstractJob.cpp:18
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Failed to run install script in terminal <message>%1</message>"
+msgstr ""
+"La ejecución del guion de instalación ha fallado en el terminal <message>%1</"
+"message>"
+
+#: plugininstaller/AbstractJob.cpp:29
+#, kde-format
+msgctxt "@info"
+msgid "Installation executed successfully, you may now close this window"
+msgstr ""
+"La instalación se ha ejecutado con éxito. Ya puede cerrar esta ventana."
+
+#: plugininstaller/AbstractJob.cpp:31
+#, kde-format
+msgctxt "@info"
+msgid "Uninstallation executed successfully, you may now close this window"
+msgstr ""
+"La desinstalación se ha ejecutado con éxito. Ya puede cerrar esta ventana."
+
+#: plugininstaller/main.cpp:31
+#, kde-format
+msgctxt "@info"
+msgid "KRunner plugin installation failed"
+msgstr "La instalación del complemento de KRunner ha fallado"
+
+#: plugininstaller/main.cpp:43
+#, kde-format
+msgctxt "@info:shell"
+msgid "Command to execute: install or uninstall."
+msgstr "Orden a ejecutar: instalar o desinstalar."
+
+#: plugininstaller/main.cpp:44
+#, kde-format
+msgctxt "@info:shell"
+msgid "Path to archive."
+msgstr "Ruta al archivo comprimido."
+
+#: plugininstaller/main.cpp:84
+#, kde-format
+msgctxt "@info"
+msgid "No PackageKit support"
+msgstr "No se puede usar Packagekit"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:23
+#: plugininstaller/ScriptConfirmationDialog.h:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirm Installation"
+msgstr "Confirmar instalación"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You are about to install a binary package. You should only install these "
+"from a trusted author/packager."
+msgstr ""
+"Está a punto de instalar un paquete binario. Solo debería instalar los que "
+"procedan de un autor o empaquetador de confianza."
+
+#: plugininstaller/PackageKitConfirmationDialog.h:33
+#: plugininstaller/ScriptConfirmationDialog.h:79
+#, kde-format
+msgctxt "@action:button"
+msgid "Accept Risk And Continue"
+msgstr "Aceptar el riesgo y continuar"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:37
+#, kde-format
+msgctxt "@action:button"
+msgid "View File"
+msgstr "Ver el archivo"
+
+#: plugininstaller/PackageKitJob.cpp:24
+#, kde-format
+msgctxt "@info"
+msgid "The mime type %1 is not supported by the packagekit backend"
+msgstr "El tipo MIME %1 no está permitido por el motor packagekit"
+
+#: plugininstaller/ScriptConfirmationDialog.h:32
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an uninstallation script. Please contact the "
+"author. You can try to uninstall the plugin manually.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Este complemento no proporciona un guion de desinstalación. Contacte con el "
+"autor. Puede intentar desinstalar el complemento de forma manual.<nl/>Si no "
+"se siente capaz o cómodo con ello, pulse <interface>Cancelar</interface> "
+"ahora."
+
+#: plugininstaller/ScriptConfirmationDialog.h:37
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an uninstallation script. Please contact the "
+"author. You can try to uninstall the plugin manually. Please have a look at "
+"the README for instructions from the author.<nl/>If you do not feel capable "
+"or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Este complemento no proporciona un guion de desinstalación. Contacte con el "
+"autor. Puede intentar desinstalar el complemento de forma manual. Consulte "
+"el archivo «README» para encontrar las posibles instrucciones del autor.<nl/"
+">Si no se siente capaz o cómodo con ello, pulse <interface>Cancelar</"
+"interface> ahora."
+
+#: plugininstaller/ScriptConfirmationDialog.h:43
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an installation script. Please contact the "
+"author. You can try to install the plugin manually.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Este complemento no proporciona un guion de instalación. Contacte con el "
+"autor. Puede intentar instalar el complemento de forma manual.<nl/>Si no se "
+"siente capaz o cómodo con ello, pulse <interface>Cancelar</interface> ahora."
+
+#: plugininstaller/ScriptConfirmationDialog.h:48
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an installation script. Please contact the "
+"author. You can try to install the plugin manually. Please have a look at "
+"the README for instructions from the author.<nl/>If you do not feel capable "
+"or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Este complemento no proporciona un guion de instalación. Contacte con el "
+"autor. Puede intentar instalar el complemento de forma manual. Consulte el "
+"archivo «README» para encontrar las posibles instrucciones del autor.<nl/>Si "
+"no se siente capaz o cómodo con ello, pulse <interface>Cancelar</interface> "
+"ahora."
+
+#: plugininstaller/ScriptConfirmationDialog.h:54
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin uses a script for installation which can pose a security risk. "
+"Please examine the entire plugin's contents before installing, or at least "
+"read the script's source code.<nl/>If you do not feel capable or comfortable "
+"with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Este complemento usa un guion de instalación que puede representar un riesgo "
+"para la seguridad. Por favor, examine el contenido completo del complemento "
+"antes de instalarlo o, al menos, lea el código fuente del guion.<nl/>Si no "
+"se siente capaz o cómodo con ello, pulse <interface>Cancelar</interface> "
+"ahora."
+
+#: plugininstaller/ScriptConfirmationDialog.h:60
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin uses a script for installation which can pose a security risk. "
+"Please examine the entire plugin's contents before installing, or at least "
+"read the README file and the script's source code.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Este complemento usa un guion de instalación que puede representar un riesgo "
+"para la seguridad. Por favor, examine el contenido completo del complemento "
+"antes de instalarlo o, al menos, lea el archivo «README» y el código fuente "
+"del guion.<nl/>Si no se siente capaz o cómodo con ello, pulse "
+"<interface>Cancelar</interface> ahora."
+
+#: plugininstaller/ScriptConfirmationDialog.h:75
+#, kde-format
+msgctxt "@action:button"
+msgid "Mark entry as uninstalled"
+msgstr "Marcar la entrada como desinstalada"
+
+#: plugininstaller/ScriptConfirmationDialog.h:77
+#, kde-format
+msgctxt "@action:button"
+msgid "Mark entry as installed"
+msgstr "Marcar la entrada como instalada"
+
+#: plugininstaller/ScriptConfirmationDialog.h:85
+#, kde-format
+msgctxt "@action:button"
+msgid "View Script"
+msgstr "Ver el guion"
+
+#: plugininstaller/ScriptConfirmationDialog.h:91
+#, kde-format
+msgctxt "@action:button"
+msgid "View Source Directory"
+msgstr "Ver el directorio de origen"
+
+#: plugininstaller/ScriptConfirmationDialog.h:102
+#, kde-format
+msgctxt "@action:button"
+msgid "View %1"
+msgstr "Ver %1"
+
+#: plugininstaller/ZypperRPMJob.cpp:30
+#, kde-format
+msgctxt "@info"
+msgid "Could not resolve package name of %1"
+msgstr "No se ha podido resolver el nombre del paquete de %1"
+
+#: plugininstaller/ZypperRPMJob.cpp:37
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Failed to run install command: <message>%1</message>"
+msgstr ""
+"La ejecución de la orden de instalación ha fallado: <message>%1</message>"

@@ -1,0 +1,317 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrej Mernik <andrejm@ubuntu.si>, 2014, 2015, 2016, 2018.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-13 00:19+0000\n"
+"PO-Revision-Date: 2021-07-14 09:07+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Lokalize 20.12.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrej Mernik,Matjaž Jeran"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "andrejm@ubuntu.si,matjaz.jeran@amis.net"
+
+#: kcm.cpp:47
+#, kde-format
+msgctxt "kcm name for About dialog"
+msgid "Configure Search Bar"
+msgstr "Nastavi iskalno vrstico"
+
+#: kcm.cpp:51
+#, kde-format
+msgid "Vishesh Handa"
+msgstr "Vishesh Handa"
+
+#: kcm.cpp:68
+#, kde-format
+msgid "Enable or disable plugins (used in KRunner and Application Launcher)"
+msgstr ""
+"Omogoči ali onemogoči vtičnike (uporablj KRunner in zaganjalnik aplikacij)"
+
+#: kcm.cpp:82
+#, kde-format
+msgid "Top"
+msgstr "Vrh"
+
+#: kcm.cpp:84
+#, kde-format
+msgid "Center"
+msgstr "Center"
+
+#: kcm.cpp:88
+#, kde-format
+msgid "Position on screen:"
+msgstr "Postavitev na zaslonu:"
+
+#: kcm.cpp:90
+#, kde-format
+msgid "Enable"
+msgstr "Omogoči"
+
+#: kcm.cpp:93
+#, kde-format
+msgid "History:"
+msgstr "Zgodovina:"
+
+#: kcm.cpp:95
+#, kde-format
+msgid "Retain previous search"
+msgstr "Ohrani prejšnje iskanje"
+
+#: kcm.cpp:98
+#, kde-format
+msgid "Activity aware (previous search and history)"
+msgstr "Zavedajoč se dejavnosti (prejšnje iskanje in zgodovina)"
+
+#: kcm.cpp:134
+#, kde-format
+msgid "Get New Plugins…"
+msgstr "Pridobi nove vtičnike…"
+
+#: kcm.cpp:140 kcm.cpp:171
+#, kde-format
+msgid "Available Plugins"
+msgstr "Razpoložljivi vtičniki"
+
+#: kcm.cpp:229
+#, kde-format
+msgctxt "delete history for all activities"
+msgid "For all activities"
+msgstr "Za vse dejavnosti"
+
+#: kcm.cpp:243
+#, kde-format
+msgctxt "delete history for this activity"
+msgid "For activity \"%1\""
+msgstr "Za dejavnost \"%1\""
+
+#: kcm.cpp:249
+#, kde-format
+msgid "Clear History…"
+msgstr "Počisti zgodovino…"
+
+#: kcm.cpp:253
+#, kde-format
+msgid "Clear History"
+msgstr "Počisti zgodovino"
+
+#: plugininstaller/AbstractJob.cpp:18
+#, kde-kuit-format
+msgctxt "@info:status"
+msgid "Failed to run install script in terminal <message>%1</message>"
+msgstr ""
+"Ni bilo mogoče zagnati namestitvenega skripta v terminalu <message>%1</"
+"message>"
+
+#: plugininstaller/AbstractJob.cpp:29
+#, kde-format
+msgctxt "@info"
+msgid "Installation executed successfully, you may now close this window"
+msgstr "Namestitev je bila uspešno izvedena, zdaj lahko zaprete to okno"
+
+#: plugininstaller/AbstractJob.cpp:31
+#, kde-format
+msgctxt "@info"
+msgid "Uninstallation executed successfully, you may now close this window"
+msgstr "Odstranitev je bila uspešno izvedena, zdaj lahko zaprete to okno"
+
+#: plugininstaller/main.cpp:31
+#, kde-format
+msgctxt "@info"
+msgid "KRunner plugin installation failed"
+msgstr "Namestitev vtičnika KRunner ni uspela"
+
+#: plugininstaller/main.cpp:43
+#, kde-format
+msgctxt "@info:shell"
+msgid "Command to execute: install or uninstall."
+msgstr "Ukaz za izvajanje: install ali uninstall."
+
+#: plugininstaller/main.cpp:44
+#, kde-format
+msgctxt "@info:shell"
+msgid "Path to archive."
+msgstr "Pot do arhiva."
+
+#: plugininstaller/main.cpp:84
+#, kde-format
+msgctxt "@info"
+msgid "No PackageKit support"
+msgstr "Ni podpore za PackageKit"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:23
+#: plugininstaller/ScriptConfirmationDialog.h:25
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirm Installation"
+msgstr "Potrdi namestitev"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You are about to install a binary package. You should only install these "
+"from a trusted author/packager."
+msgstr ""
+"Nameravate namestiti binarni paket. Nameščali naj bi le pakete od zaupanja "
+"vrednega avtorja/distributerja."
+
+#: plugininstaller/PackageKitConfirmationDialog.h:33
+#: plugininstaller/ScriptConfirmationDialog.h:79
+#, kde-format
+msgctxt "@action:button"
+msgid "Accept Risk And Continue"
+msgstr "Prevzemi tveganje in nadaljuj"
+
+#: plugininstaller/PackageKitConfirmationDialog.h:37
+#, kde-format
+msgctxt "@action:button"
+msgid "View File"
+msgstr "Poglej datoteko"
+
+#: plugininstaller/PackageKitJob.cpp:24
+#, kde-format
+msgctxt "@info"
+msgid "The mime type %1 is not supported by the packagekit backend"
+msgstr "Vrste mime %1 program packagekit ne podpira"
+
+#: plugininstaller/ScriptConfirmationDialog.h:32
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an uninstallation script. Please contact the "
+"author. You can try to uninstall the plugin manually.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Ta vtičnik ne vsebuje skripta za odstranitev. Obrnite se na avtorja. Vtičnik "
+"lahko poskusite odstraniti ročno.<nl/> Če se ne počutite sposobnega ali če "
+"vam to ustreza, kliknite <interface>Prekliči</interface>."
+
+#: plugininstaller/ScriptConfirmationDialog.h:37
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an uninstallation script. Please contact the "
+"author. You can try to uninstall the plugin manually. Please have a look at "
+"the README for instructions from the author.<nl/>If you do not feel capable "
+"or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Ta vtičnik ne vsebuje skripta za odstranitev. Obrnite se na avtorja. Vtičnik "
+"lahko poskusite odstraniti ročno. Prosim poglejte README za avtorjevimi "
+"navodili.<nl/>Če se ne počutite sposobnega ali če vam to ustreza, kliknite "
+"<interface>Prekliči</interface>."
+
+#: plugininstaller/ScriptConfirmationDialog.h:43
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an installation script. Please contact the "
+"author. You can try to install the plugin manually.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Ta vtičnik ne vsebuje skripta za namestitev. Obrnite se na avtorja. Vtičnik "
+"lahko poskusite namestiti ročno.<nl/> Če se ne počutite sposobnega ali če "
+"vam to ustreza, kliknite <interface>Prekliči</interface>."
+
+#: plugininstaller/ScriptConfirmationDialog.h:48
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin does not provide an installation script. Please contact the "
+"author. You can try to install the plugin manually. Please have a look at "
+"the README for instructions from the author.<nl/>If you do not feel capable "
+"or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Ta vtičnik ne vsebuje skripta za namestitev. Obrnite se na avtorja. Vtičnik "
+"lahko poskusite namestiti ročno. Prosim poglejte README za avtorjevimi "
+"navodili.<nl/>Če se ne počutite sposobnega ali če vam to ustreza, kliknite "
+"<interface>Prekliči</interface>."
+
+#: plugininstaller/ScriptConfirmationDialog.h:54
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin uses a script for installation which can pose a security risk. "
+"Please examine the entire plugin's contents before installing, or at least "
+"read the script's source code.<nl/>If you do not feel capable or comfortable "
+"with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Ta vtičnik za namestitev uporablja skript, ki lahko predstavlja varnostno "
+"tveganje. Pred namestitvijo vsaj preglejte celotno vsebino vtičnika ali "
+"preberite izvorno kodo skripta.<nl/>Če se ne počutite sposobne ali vam to ne "
+"ustreza, kliknite <interface>Prekliči</interface>."
+
+#: plugininstaller/ScriptConfirmationDialog.h:60
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"This plugin uses a script for installation which can pose a security risk. "
+"Please examine the entire plugin's contents before installing, or at least "
+"read the README file and the script's source code.<nl/>If you do not feel "
+"capable or comfortable with this, click <interface>Cancel</interface>  now."
+msgstr ""
+"Ta vtičnik za namestitev uporablja skript, ki lahko predstavlja varnostno "
+"tveganje. Pred namestitvijo vsaj preglejte celotno vsebino vtičnika ali vsaj "
+"preberite datoteko README in izvorno kodo skripta.<nl/>Če ne čutite sposobni "
+"za to ali vam ne ustreza, kliknite <interface>Prekliči</interface>."
+
+#: plugininstaller/ScriptConfirmationDialog.h:75
+#, kde-format
+msgctxt "@action:button"
+msgid "Mark entry as uninstalled"
+msgstr "Označi vnos kot nenameščen"
+
+#: plugininstaller/ScriptConfirmationDialog.h:77
+#, kde-format
+msgctxt "@action:button"
+msgid "Mark entry as installed"
+msgstr "Označi vnos kot nameščen"
+
+#: plugininstaller/ScriptConfirmationDialog.h:85
+#, kde-format
+msgctxt "@action:button"
+msgid "View Script"
+msgstr "Poglej skript"
+
+#: plugininstaller/ScriptConfirmationDialog.h:91
+#, kde-format
+msgctxt "@action:button"
+msgid "View Source Directory"
+msgstr "Poglej izvorni imenik"
+
+#: plugininstaller/ScriptConfirmationDialog.h:102
+#, kde-format
+msgctxt "@action:button"
+msgid "View %1"
+msgstr "Poglej %1"
+
+#: plugininstaller/ZypperRPMJob.cpp:30
+#, kde-format
+msgctxt "@info"
+msgid "Could not resolve package name of %1"
+msgstr "Imena paketa %1 ni bilo mogoče razrešiti"
+
+#: plugininstaller/ZypperRPMJob.cpp:37
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Failed to run install command: <message>%1</message>"
+msgstr "Ni bilo mogoče zagnati ukaza za namestitev: <message>%1</message>"

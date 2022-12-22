@@ -1,0 +1,81 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-05-27 08:12+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#: app/emojier.cpp:80 app/emojier.cpp:82
+#, kde-format
+msgid "Emoji Selector"
+msgstr "Izbirnik Emoji"
+
+#: app/emojier.cpp:84
+#, kde-format
+msgid "(C) 2019 Aleix Pol i Gonzalez"
+msgstr "(C) 2019 Aleix Pol i Gonzalez"
+
+#: app/emojier.cpp:86
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Matjaž Jeran"
+
+#: app/emojier.cpp:86
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "matjaz.jeran@amis.net"
+
+#: app/emojier.cpp:101
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Zamenjaj obstoječi pojavek"
+
+#: app/ui/CategoryPage.qml:46
+#, kde-format
+msgid "Search…"
+msgstr "Išči…"
+
+#: app/ui/CategoryPage.qml:69
+#, kde-format
+msgid "Clear History"
+msgstr "Počisti zgodovino"
+
+#: app/ui/emojier.qml:36
+#, kde-format
+msgid "%1 copied to the clipboard"
+msgstr "%1 prekopiran na odložišče"
+
+#: app/ui/emojier.qml:40 app/ui/emojier.qml:62
+#, kde-format
+msgid "Search"
+msgstr "Išči"
+
+#: app/ui/emojier.qml:51
+#, kde-format
+msgid "Recent"
+msgstr "Zadnji"
+
+#: app/ui/emojier.qml:73
+#, kde-format
+msgid "All"
+msgstr "Vsi"
+
+#: app/ui/emojier.qml:81
+#, kde-format
+msgid "Categories"
+msgstr "Kategorije"

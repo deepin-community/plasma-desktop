@@ -1,0 +1,544 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Kishore G <kishore96@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_tasks\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-19 01:43+0000\n"
+"PO-Revision-Date: 2021-08-08 13:02+0530\n"
+"Last-Translator: Kishore G <kishore96@gmail.com>\n"
+"Language-Team: Tamil <kde-i18n-doc@kde.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.07.90\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#: package/contents/config/config.qml:18
+#, kde-format
+msgid "Behavior"
+msgstr "நடத்தை"
+
+#: package/contents/ui/Badge.qml:36
+#, kde-format
+msgctxt "Invalid number of new messages, overlay, keep short"
+msgid "—"
+msgstr "—"
+
+#: package/contents/ui/Badge.qml:38
+#, kde-format
+msgctxt "Over 9999 new messages, overlay, keep short"
+msgid "9,999+"
+msgstr "9,999+"
+
+#: package/contents/ui/ConfigAppearance.qml:35
+#, kde-format
+msgid "General:"
+msgstr "பொது:"
+
+#: package/contents/ui/ConfigAppearance.qml:36
+#, kde-format
+msgid "Show tooltips"
+msgstr "கருவித் துப்புகளை காட்டு"
+
+#: package/contents/ui/ConfigAppearance.qml:45
+#, kde-format
+msgid "Highlight windows when hovering over task tooltips"
+msgstr ""
+"செயலிகளுக்கான கருவித்துப்புகளின் மீது சுட்டியை வைக்கும்போது சாளரங்களை முன்னிலைப்படுத்து"
+
+#: package/contents/ui/ConfigAppearance.qml:52
+#, kde-format
+msgid "Mark applications that play audio"
+msgstr "ஒலியை இயக்கும் செயலிகளை குறி"
+
+#: package/contents/ui/ConfigAppearance.qml:66
+#, kde-format
+msgid "Icon size:"
+msgstr "சின்னத்தின் அளவு:"
+
+#: package/contents/ui/ConfigAppearance.qml:78
+#, kde-format
+msgid "Small"
+msgstr "சிறியது"
+
+#: package/contents/ui/ConfigAppearance.qml:87
+#, kde-format
+msgid "Large"
+msgstr "பெரியது"
+
+#: package/contents/ui/ConfigAppearance.qml:98
+#, kde-format
+msgid "Maximum columns:"
+msgstr "அதிகபட்ச நெடுவரிசைகள்:"
+
+#: package/contents/ui/ConfigAppearance.qml:98
+#, kde-format
+msgid "Maximum rows:"
+msgstr "அதிகபட்ச வரிசைகள்:"
+
+#: package/contents/ui/ConfigAppearance.qml:104
+#, kde-format
+msgid "Always arrange tasks in rows of as many columns"
+msgstr "இத்தனை நெடுவரிசைகளை எப்போதும் பயன்படுத்து"
+
+#: package/contents/ui/ConfigAppearance.qml:104
+#, kde-format
+msgid "Always arrange tasks in columns of as many rows"
+msgstr "இத்தனை வரிசைகளை எப்போதும் பயன்படுத்து"
+
+#: package/contents/ui/ConfigBehavior.qml:45
+#, kde-format
+msgid "Group:"
+msgstr "தொகுத்தல்:"
+
+#: package/contents/ui/ConfigBehavior.qml:48
+#, kde-format
+msgid "Do not group"
+msgstr "தொகுக்காதே"
+
+#: package/contents/ui/ConfigBehavior.qml:48
+#, kde-format
+msgid "By program name"
+msgstr "செயலியின் பெயரை பொறுத்து"
+
+#: package/contents/ui/ConfigBehavior.qml:53
+#, kde-format
+msgid "Clicking grouped task:"
+msgstr "தொகுக்கப்பட்ட பணிகளை க்ளிக் செய்தல்:"
+
+#: package/contents/ui/ConfigBehavior.qml:60
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task cycles through tasks' "
+msgid "Cycles through tasks"
+msgstr "பணிகளுக்கிடையே தாவும்"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows tooltip window "
+"thumbnails' "
+msgid "Shows tooltip window thumbnails"
+msgstr "கருவித் துப்பில் சாளர சிறுபடங்களை காட்டும்"
+
+#: package/contents/ui/ConfigBehavior.qml:62
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows 'Present Windows' "
+"effect' "
+msgid "Shows 'Present Windows' effect"
+msgstr "'சாளரங்களை முன்வை' என்பதை இயக்கும்"
+
+#: package/contents/ui/ConfigBehavior.qml:63
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task shows textual list' "
+msgid "Shows textual list"
+msgstr "உரைமுறை பட்டியலை காட்டும்"
+
+#: package/contents/ui/ConfigBehavior.qml:71
+#, kde-format
+msgid ""
+"Tooltips are disabled, so the 'Present Windows' effect will be displayed "
+"instead."
+msgstr "கருவித்துப்புகள் முடக்கப்பட்டமையால், பதிலாக 'சாளரங்களை முன்வை' என்பது காட்டப்படும்."
+
+#: package/contents/ui/ConfigBehavior.qml:78
+#, kde-format
+msgid ""
+"Tooltips are disabled, and the 'Present Windows' effect is not enabled or "
+"otherwise available right now, so a textual list will be displayed instead"
+msgstr ""
+"கருவித்துப்புகள் முடக்கப்பட்டமையாலும், 'சாளரங்களை முன்வை' என்பதை இயக்க முடியாத‍தாலும், "
+"பதிலாக ஒரு உரைமுறை பட்டியல் காட்டப்படும்"
+
+#: package/contents/ui/ConfigBehavior.qml:85
+#, kde-format
+msgid ""
+"The 'Present Windows' effect is not enabled or otherwise available right "
+"now, so a textual list will be displayed instead."
+msgstr ""
+"'சாளரங்களை முன்வை' என்பதை இயக்க முடியாத‍தால், பதிலாக ஒரு கருவித்துப்பு காட்டப்படும்."
+
+#: package/contents/ui/ConfigBehavior.qml:95
+#, kde-format
+msgid "Combine into single button"
+msgstr "பலவற்றை ஒரே பட்டனாக தொகுத்து காட்டு"
+
+#: package/contents/ui/ConfigBehavior.qml:102
+#, kde-format
+msgid "Group only when the Task Manager is full"
+msgstr "பணி மேலாளரில் காலியிடம் இல்லாதபோது மட்டும் தொகு"
+
+#: package/contents/ui/ConfigBehavior.qml:113
+#, kde-format
+msgid "Sort:"
+msgstr "வரிசைப்படுத்துதல்:"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "Do not sort"
+msgstr "வரிசைப்படுத்தாதே"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "Manually"
+msgstr "கைமுறையாக"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "Alphabetically"
+msgstr "அகரவரிசையாக"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "By desktop"
+msgstr "பணிமேடை வாரியாக"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "By activity"
+msgstr "செயல்பாடு வாரியாக"
+
+#: package/contents/ui/ConfigBehavior.qml:122
+#, kde-format
+msgid "Keep launchers separate"
+msgstr "ஏவிகளை தொகுக்காதே"
+
+#: package/contents/ui/ConfigBehavior.qml:133
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Clicking active task:"
+msgstr "செயலில் உள்ள பணியை க்ளிக் செய்தல்:"
+
+#: package/contents/ui/ConfigBehavior.qml:134
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Minimizes the task"
+msgstr "பணியை ஒதுக்கும்"
+
+#: package/contents/ui/ConfigBehavior.qml:139
+#, kde-format
+msgid "Middle-clicking any task:"
+msgstr "ஏதாவதொரு பணியை க்ளிக் செய்தல்:"
+
+#: package/contents/ui/ConfigBehavior.qml:143
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task does nothing'"
+msgid "Does nothing"
+msgstr "ஒன்றும் செய்யாது"
+
+#: package/contents/ui/ConfigBehavior.qml:144
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task closes window or group'"
+msgid "Closes window or group"
+msgstr "தொகுப்பை அல்லது சாளரத்தை மூடும்"
+
+#: package/contents/ui/ConfigBehavior.qml:145
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task opens a new instance'"
+msgid "Opens a new instance"
+msgstr "புதியதை திறக்கும்"
+
+#: package/contents/ui/ConfigBehavior.qml:146
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task minimizes/restores window or "
+"group'"
+msgid "Minimizes/Restores window or group"
+msgstr "சாளரத்தை அல்லது தொகுப்பை ஒதுக்கும்/மீட்டெடுக்கும்"
+
+#: package/contents/ui/ConfigBehavior.qml:147
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task toggles grouping'"
+msgid "Toggles grouping"
+msgstr "தொகுத்தலை நிலைமாற்றும்"
+
+#: package/contents/ui/ConfigBehavior.qml:148
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task brings it to the current "
+"virtual desktop'"
+msgid "Brings it to the current virtual desktop"
+msgstr "தற்போதைய பணிமேடைக்கு கொண்டுவரும்"
+
+#: package/contents/ui/ConfigBehavior.qml:158
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Mouse wheel:"
+msgstr "சுட்டியின் சக்கரம்:"
+
+#: package/contents/ui/ConfigBehavior.qml:159
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Cycles through tasks"
+msgstr "பணிகளுக்கிடையே தாவும்"
+
+#: package/contents/ui/ConfigBehavior.qml:168
+#, kde-format
+msgid "Show only tasks:"
+msgstr "இதிலிருந்து மட்டும் பணிகளை காட்டு:"
+
+#: package/contents/ui/ConfigBehavior.qml:169
+#, kde-format
+msgid "From current screen"
+msgstr "தற்போதைய திரை"
+
+#: package/contents/ui/ConfigBehavior.qml:174
+#, kde-format
+msgid "From current desktop"
+msgstr "தற்போதைய பணிமேடை"
+
+#: package/contents/ui/ConfigBehavior.qml:179
+#, kde-format
+msgid "From current activity"
+msgstr "தற்போதைய செயல்பாடு"
+
+#: package/contents/ui/ConfigBehavior.qml:184
+#, kde-format
+msgid "That are minimized"
+msgstr "ஒதுக்கப்பட்டிருப்பவை"
+
+#: package/contents/ui/ConfigBehavior.qml:193
+#, kde-format
+msgid "When panel is hidden:"
+msgstr "பலகை மறைந்திருக்கும்போது:"
+
+#: package/contents/ui/ConfigBehavior.qml:194
+#, kde-format
+msgid "Unhide when a window wants attention"
+msgstr "சாளரம் ஒன்று கவனம் கோரும்போது காட்டு"
+
+#: package/contents/ui/ContextMenu.qml:92
+#, kde-format
+msgid "Places"
+msgstr "இடங்கள்"
+
+#: package/contents/ui/ContextMenu.qml:97
+#, kde-format
+msgid "Recent Files"
+msgstr "சமீப கோப்புகள்"
+
+#: package/contents/ui/ContextMenu.qml:102
+#, kde-format
+msgid "Actions"
+msgstr "செயல்கள்"
+
+#: package/contents/ui/ContextMenu.qml:160
+#, kde-format
+msgctxt "Play previous track"
+msgid "Previous Track"
+msgstr "முந்தைய பாடல்"
+
+#: package/contents/ui/ContextMenu.qml:174
+#, kde-format
+msgctxt "Pause playback"
+msgid "Pause"
+msgstr "பொறு"
+
+#: package/contents/ui/ContextMenu.qml:174
+#, kde-format
+msgctxt "Start playback"
+msgid "Play"
+msgstr "இயக்கு"
+
+#: package/contents/ui/ContextMenu.qml:192
+#, kde-format
+msgctxt "Play next track"
+msgid "Next Track"
+msgstr "அடுத்த பாடல்"
+
+#: package/contents/ui/ContextMenu.qml:203
+#, kde-format
+msgctxt "Stop playback"
+msgid "Stop"
+msgstr "நிறுத்து"
+
+#: package/contents/ui/ContextMenu.qml:223
+#, kde-format
+msgctxt "Quit media player app"
+msgid "Quit"
+msgstr "வெளியேறு"
+
+#: package/contents/ui/ContextMenu.qml:238
+#, kde-format
+msgctxt "Open or bring to the front window of media player app"
+msgid "Restore"
+msgstr "முன்னே கொண்டுவா"
+
+#: package/contents/ui/ContextMenu.qml:264
+#, kde-format
+msgid "Mute"
+msgstr "ஒலியை அடக்கு"
+
+#: package/contents/ui/ContextMenu.qml:278
+#, kde-format
+msgid "Start New Instance"
+msgstr "புதியதை திற"
+
+#: package/contents/ui/ContextMenu.qml:294
+#, kde-format
+msgid "Move to &Desktop"
+msgstr "&பணிமேடைக்கு நகர்த்து"
+
+#: package/contents/ui/ContextMenu.qml:318
+#, kde-format
+msgid "Move &To Current Desktop"
+msgstr "&தற்போதைய பணிமேடைக்கு நகர்த்து"
+
+#: package/contents/ui/ContextMenu.qml:327
+#, kde-format
+msgid "&All Desktops"
+msgstr "&அனைத்து பணிமேடைகள்"
+
+#: package/contents/ui/ContextMenu.qml:341
+#, kde-format
+msgctxt "1 = number of desktop, 2 = desktop name"
+msgid "&%1 %2"
+msgstr "&%1 %2"
+
+#: package/contents/ui/ContextMenu.qml:355
+#, kde-format
+msgid "&New Desktop"
+msgstr "புதி&ய பணிமேடை"
+
+#: package/contents/ui/ContextMenu.qml:374
+#, kde-format
+msgid "Show in &Activities"
+msgstr "இ&ச்செயல்பாடுகளில் காட்டு"
+
+#: package/contents/ui/ContextMenu.qml:398
+#, kde-format
+msgid "Add To Current Activity"
+msgstr "தற்போதைய செயல்பாட்டில் காட்டு"
+
+#: package/contents/ui/ContextMenu.qml:408
+#, kde-format
+msgid "All Activities"
+msgstr "அனைத்து செயல்பாடுகளிலும்"
+
+#: package/contents/ui/ContextMenu.qml:467
+#, kde-format
+msgid "More Actions"
+msgstr "கூடுதல் செயல்கள்"
+
+#: package/contents/ui/ContextMenu.qml:476
+#, kde-format
+msgid "&Move"
+msgstr "&நகர்த்து"
+
+#: package/contents/ui/ContextMenu.qml:485
+#, kde-format
+msgid "Re&size"
+msgstr "&அளவுமாற்று"
+
+#: package/contents/ui/ContextMenu.qml:499
+#, kde-format
+msgid "Ma&ximize"
+msgstr "அ&திகபட்ச பெரிதாக்கு"
+
+#: package/contents/ui/ContextMenu.qml:513
+#, kde-format
+msgid "Mi&nimize"
+msgstr "&ஒதுக்கு"
+
+#: package/contents/ui/ContextMenu.qml:523
+#, kde-format
+msgid "Keep &Above Others"
+msgstr "மற்றவற்றிற்கு &மேலே வை"
+
+#: package/contents/ui/ContextMenu.qml:533
+#, kde-format
+msgid "Keep &Below Others"
+msgstr "மற்றவற்றிற்கு &கீழே வை"
+
+#: package/contents/ui/ContextMenu.qml:545
+#, kde-format
+msgid "&Fullscreen"
+msgstr "மு&ழுத்திரை"
+
+#: package/contents/ui/ContextMenu.qml:557
+#, kde-format
+msgid "&Shade"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:573
+#, kde-format
+msgid "Allow this program to be grouped"
+msgstr "இச்செயலியை பணி மேலாளரில் தொகுக்க விடு"
+
+#: package/contents/ui/ContextMenu.qml:625
+#: package/contents/ui/ContextMenu.qml:640
+#, kde-format
+msgid "&Pin to Task Manager"
+msgstr "பணி மேலாளரில் தக்க&வை"
+
+#: package/contents/ui/ContextMenu.qml:695
+#, kde-format
+msgid "On All Activities"
+msgstr "அனைத்து செயல்பாடுகளிலும்"
+
+#: package/contents/ui/ContextMenu.qml:701
+#, kde-format
+msgid "On The Current Activity"
+msgstr "தற்போதைய செயல்பாட்டில்"
+
+#: package/contents/ui/ContextMenu.qml:725
+#, kde-format
+msgid "Unpin from Task Manager"
+msgstr "பணி மேலாளரில் தக்கவைக்க வேண்டாம்"
+
+#: package/contents/ui/ContextMenu.qml:741
+#, kde-format
+msgid "&Close"
+msgstr "&மூடு"
+
+#: package/contents/ui/ToolTipInstance.qml:411
+#, kde-format
+msgctxt "Comma-separated list of desktops"
+msgid "On %1"
+msgstr "%1 தனில்"
+
+#: package/contents/ui/ToolTipInstance.qml:414
+#, kde-format
+msgctxt "Comma-separated list of desktops"
+msgid "Pinned to all desktops"
+msgstr "அனைத்து பணிமேடைகளிலும் தக்கவைத்த‍து"
+
+#: package/contents/ui/ToolTipInstance.qml:425
+#, kde-format
+msgctxt "Which virtual desktop a window is currently on"
+msgid "Available on all activities"
+msgstr "அனைத்து செயல்பாடுகளிலும் உள்ளது"
+
+#: package/contents/ui/ToolTipInstance.qml:447
+#, kde-format
+msgctxt "Activities a window is currently on (apart from the current one)"
+msgid "Also available on %1"
+msgstr "%1-இலும் உள்ளது"
+
+#: package/contents/ui/ToolTipInstance.qml:451
+#, kde-format
+msgctxt "Which activities a window is currently on"
+msgid "Available on %1"
+msgstr "%1-இல் உள்ளது"
+
+#: plugin/backend.cpp:327
+#, kde-format
+msgctxt "Show all user Places"
+msgid "%1 more Place"
+msgid_plural "%1 more Places"
+msgstr[0] "இன்னும் %1 இடம்"
+msgstr[1] "இன்னும் %1 இடங்கள்"
+
+#: plugin/backend.cpp:400
+#, kde-format
+msgid "Forget Recent Files"
+msgstr "சமீப கோப்புகளை மறந்துவிடு"

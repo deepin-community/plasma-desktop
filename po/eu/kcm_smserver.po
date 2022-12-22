@@ -1,0 +1,197 @@
+# Translation for kcmsmserver.po to Euskara/Basque (eu).
+# Copyright (C) 2002-2014, Free Software Foundation, Inc.
+# Copyright (C) 2015-2021, This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>.
+#
+# Translators:
+# Marcos  <marcos@euskalgnu.org>, 2002, 2006.
+# Ion Gaztañaga <ion_g_m@hotmail.com>, 2004.
+# Asier Urio Larrea <asieriko@gmail.com>, 2008.
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2011, 2014, 2019, 2020, 2021.
+# Hizkuntza Politikarako Sailburuordetza <hizpol@ej-gv.es>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-01-25 18:46+0100\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
+"Language-Team: Basque <kde-i18n-eu@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Iñigo Salvador Azurmendi"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "xalba@euskalnet.net"
+
+#: kcmsmserver.cpp:51
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>Saio kudeatzailea</h1>Saio kudeatzailea hemen konfigura dezakezu. "
+"Aukeren tartean hauxek aurkituko dituzu: saiotik irtetea baieztatu behar "
+"duzun edo ez, saioa berezarri nahi duzun sartzen zaren hurrengo aldian edo "
+"konputagailua automatikoki itzaliko den saiotik ateratzean."
+
+#: kcmsmserver.cpp:62
+#, kde-format
+msgid "Desktop Session"
+msgstr "Mahaigaineko saioa"
+
+#: kcmsmserver.cpp:64
+#, kde-format
+msgid "Desktop Session Login and Logout"
+msgstr "Mahaigaineko saioa hastea eta ixtea"
+
+#: kcmsmserver.cpp:66
+#, kde-format
+msgid "Copyright © 2000–2020 Desktop Session team"
+msgstr "Copyright © 2000–2020 Mahaigaineko-saio taldea"
+
+#: kcmsmserver.cpp:68
+#, kde-format
+msgid "Oswald Buddenhagen"
+msgstr "Oswald Buddenhagen"
+
+#: kcmsmserver.cpp:69
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr "Huts egin du firmware ezarpenera berrabiatzeko eskaerak: %1"
+
+#: package/contents/ui/main.qml:26
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr ""
+"Ordenagailua berrabiatzen den hurrengo aldian, UEFI ezarpen pantailan "
+"sartuko da."
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr ""
+"Ordenagailua berrabiatzen den hurrengo aldian, firmware ezarpen pantailan "
+"sartuko da."
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Restart Now"
+msgstr "Berrabiarazi orain"
+
+#: package/contents/ui/main.qml:38
+#, kde-format
+msgid "General:"
+msgstr "Orokorra:"
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#: package/contents/ui/main.qml:39 smserversettings.kcfg:9
+#, kde-format
+msgid "Confirm logout"
+msgstr "Berretsi saio-ixtea"
+
+#. i18n: ectx: label, entry (offerShutdown), group (General)
+#: package/contents/ui/main.qml:48 smserversettings.kcfg:13
+#, kde-format
+msgid "Offer shutdown options"
+msgstr "Eskaini itzaltzeko aukerak"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Default leave option:"
+msgstr "Irteteko aukera lehenetsia:"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "End current session"
+msgstr "Amaitu uneko saioa"
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Restart computer"
+msgstr "Berrabiarazi ordenagailua"
+
+#: package/contents/ui/main.qml:86
+#, kde-format
+msgid "Turn off computer"
+msgstr "Itzali ordenagailua"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "When logging in:"
+msgstr "Saio-hastean:"
+
+#: package/contents/ui/main.qml:103
+#, kde-format
+msgid "Restore previous saved session"
+msgstr "Leheneratu gordetako aurreko saioa"
+
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgid "Restore manually saved session"
+msgstr "Leheneratu eskuz gordetako saioa"
+
+#: package/contents/ui/main.qml:123
+#, kde-format
+msgid "Start with an empty session"
+msgstr "Hasi saio huts batekin"
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Don't restore these applications:"
+msgstr "Ez lehengoratu aplikazio hauek:"
+
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid ""
+"Here you can enter a colon or comma separated list of applications that "
+"should not be saved in sessions, and therefore will not be started when "
+"restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+"Hemen, saioetan gordeko ez diren eta, beraz, saio bat leheneratzean "
+"abiaraziko ez diren aplikazio zerrenda bat (koma edo bi puntuen bidez "
+"bereizia) sar dezakezu. Adibidez, 'xterm:xconsole' edo 'xterm,konsole'."
+
+#: package/contents/ui/main.qml:156
+#, kde-format
+msgid "Enter firmware setup screen on next restart"
+msgstr "Hurrengoko berrabiatzean sartu firmwarea ezartzeko pantailara"
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#: smserversettings.kcfg:17
+#, kde-format
+msgid "Default leave option"
+msgstr "Irteteko aukera lehenetsia"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#: smserversettings.kcfg:26
+#, kde-format
+msgid "On login"
+msgstr "Saioa-hastean"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#: smserversettings.kcfg:30
+#, kde-format
+msgid "Applications to be excluded from session"
+msgstr "Saioetatik baztertu beharreko aplikazioak"

@@ -1,0 +1,192 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Kheyyam Gojayev <xxmn77@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-06-22 10:44+0400\n"
+"Last-Translator: Kheyyam Gojayev <xxmn77@gmail.com>\n"
+"Language-Team: Azerbaijani <kde-i18n-doc@kde.org>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 21.04.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Xəyyam Qocayev"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "xxmn77@gmail.com"
+
+#: landingpage.cpp:173
+#, kde-format
+msgid "Quick Settings"
+msgstr "Cəld ayarlar"
+
+#: landingpage.cpp:175
+#, kde-format
+msgid "Landing page with some basic settings."
+msgstr "Bəzi əsas ayarlara sahib açılış səhifəsi."
+
+#: landingpage.cpp:178
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#. i18n: ectx: label, entry (colorScheme), group (General)
+#: landingpage_kdeglobalssettings.kcfg:9
+#, kde-format
+msgid "Color scheme name"
+msgstr "Rəng sxeminin adı"
+
+#. i18n: ectx: label, entry (singleClick), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:15
+#, kde-format
+msgid "Single click to open files"
+msgstr "Faylları açmaq üçün tək klik"
+
+#. i18n: ectx: label, entry (lookAndFeelPackage), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:19
+#, kde-format
+msgid "Global Look and Feel package"
+msgstr "Qlobal Xarici Görünüş paketi"
+
+#. i18n: ectx: label, entry (defaultLightLookAndFeel), group (KDE)
+#. i18n: ectx: label, entry (defaultDarkLookAndFeel), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:23
+#: landingpage_kdeglobalssettings.kcfg:27
+#, kde-format
+msgid "Global Look and Feel package, alternate"
+msgstr "Qlobal Xarici Görünüş paketi, alternativ"
+
+#. i18n: ectx: label, entry (animationDurationFactor), group (KDE)
+#: landingpage_kdeglobalssettings.kcfg:31
+#, kde-format
+msgid "Animation speed"
+msgstr "Animasiya sürəti"
+
+#: package/contents/ui/FeedbackControls.qml:62
+#, kde-format
+msgid "Plasma"
+msgstr "Plasma"
+
+#: package/contents/ui/FeedbackControls.qml:67
+#, kde-format
+msgid ""
+"You can help KDE improve Plasma by contributing information on how you use "
+"it, so we can focus on things that matter to you.<nl/><nl/>Contributing this "
+"information is optional and entirely anonymous. We never collect your "
+"personal data, files you use, websites you visit, or information that could "
+"identify you."
+msgstr ""
+"KDE-ni necə istifadə etdiyiniz haqqında təcrübələrinizi bizimlə bölüşərək "
+"bizə daha vacib detallara diqqət yetirməmizə və Plasmanı sizin üçün daha da "
+"yaxşılaşdırmağımıza kömək etmiş olursunuz <nl/><nl/>Bu məlumatları paylaşmaq "
+"yalnız sizin arzunuzla ola bilər və anonimliyiniz tamamən qorunur. Şəxsi "
+"məlumatlarınızı, istifadə etdiyiniz faylları, ziyarət etdiyiniz veb "
+"səhifələrini və ya sizi tanıda biləcək bilgiləri əsla toplamırıq."
+
+#: package/contents/ui/FeedbackControls.qml:70
+#, kde-format
+msgid "No data will be sent."
+msgstr "Məlumat göndərilməyəcək."
+
+#: package/contents/ui/FeedbackControls.qml:72
+#, kde-format
+msgid "The following information will be sent:"
+msgstr "Aşağıdakı məlumatlar göndəriləcək:"
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid "Light Theme"
+msgstr "İşıqlı mövzu"
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid "Dark Theme"
+msgstr "Qaranlıq mövzu"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "Animation speed:"
+msgstr "Animasiya sürəti:"
+
+#: package/contents/ui/main.qml:100
+#, kde-format
+msgctxt "Animation speed"
+msgid "Slow"
+msgstr "Yavaş"
+
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgctxt "Animation speed"
+msgid "Instant"
+msgstr "Ani"
+
+#: package/contents/ui/main.qml:114
+#, kde-format
+msgid "Change Wallpaper…"
+msgstr "Divar Kağızını dəyişin…"
+
+#: package/contents/ui/main.qml:120
+#, kde-format
+msgid "More Appearance Settings…"
+msgstr "Daha çox xarici görünüş ayarları..."
+
+#: package/contents/ui/main.qml:143
+#, kde-format
+msgctxt ""
+"part of a sentence: 'Clicking files or folders [opens them/selects them]'"
+msgid "Clicking files or folders:"
+msgstr "Faylları və qovluqları açmaq üçün klikləmə:"
+
+#: package/contents/ui/main.qml:144
+#, kde-format
+msgctxt "part of a sentence: 'Clicking files or folders opens them'"
+msgid "Opens them"
+msgstr "Onları açın"
+
+#: package/contents/ui/main.qml:157
+#, kde-format
+msgctxt "part of a sentence: 'Clicking files or folders selects them'"
+msgid "Selects them"
+msgstr "Onları seçin"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Select by clicking on item's selection marker"
+msgstr "Elementin seçim işarəsini klikləyərək seçin"
+
+#: package/contents/ui/main.qml:172
+#, kde-format
+msgid "Open by double-clicking instead"
+msgstr "Əvəzinə cüt kliklə açın"
+
+#: package/contents/ui/main.qml:187
+#, kde-format
+msgid "Send User Feedback:"
+msgstr "İstifadəçi rəyi göndərin:"
+
+#: package/contents/ui/main.qml:194
+#, kde-format
+msgid "More Behavior Settings…"
+msgstr "Daha çox davranış ayarları…"
+
+#: package/contents/ui/main.qml:213
+#, kde-format
+msgid "Most Used Settings"
+msgstr "Çox istifadə olunan ayarlar"
+
+#: package/contents/ui/MostUsedIcon.qml:29
+#, kde-format
+msgid "Most used module number %1"
+msgstr "Çox istifadə olunan %1 saylı modul"

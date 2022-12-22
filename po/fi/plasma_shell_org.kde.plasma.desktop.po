@@ -1,0 +1,400 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Lasse Liehu <lasse.liehu@gmail.com>, 2013, 2014, 2015, 2016, 2017.
+# Tommi Nieminen <translator@legisign.org>, 2016, 2017, 2018, 2019, 2020, 2021.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-06-07 16:54+0300\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#: contents/activitymanager/ActivityItem.qml:212
+msgid "Currently being used"
+msgstr "Käytössä"
+
+#: contents/activitymanager/ActivityItem.qml:252
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Siirry tähän\n"
+"aktiviteettiin"
+
+#: contents/activitymanager/ActivityItem.qml:282
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Näytä myös\n"
+"tässä aktiviteetissa"
+
+#: contents/activitymanager/ActivityItem.qml:342
+msgid "Configure"
+msgstr "Asetukset"
+
+#: contents/activitymanager/ActivityItem.qml:359
+msgid "Stop activity"
+msgstr "Pysäytä aktiviteetti"
+
+#: contents/activitymanager/ActivityList.qml:143
+msgid "Stopped activities:"
+msgstr "Pysäytetyt aktiviteetit:"
+
+#: contents/activitymanager/ActivityManager.qml:127
+msgid "Create activity…"
+msgstr "Luo aktiviteetti…"
+
+#: contents/activitymanager/Heading.qml:61
+msgid "Activities"
+msgstr "Aktiviteetit"
+
+#: contents/activitymanager/Heading.qml:78
+#: contents/explorer/WidgetExplorer.qml:230
+msgid "Search…"
+msgstr "Etsi…"
+
+#: contents/activitymanager/StoppedActivityItem.qml:133
+msgid "Configure activity"
+msgstr "Muokkaa aktiviteetin asetuksia"
+
+#: contents/activitymanager/StoppedActivityItem.qml:148
+msgid "Delete"
+msgstr "Poista"
+
+#: contents/applet/AppletError.qml:52
+msgid "Sorry! There was an error loading %1."
+msgstr "Ladattaessa tapahtui valitettavasti virhe: %1."
+
+#: contents/applet/AppletError.qml:60
+msgid "Copy Error Details to Clipboard"
+msgstr "Kopioi virheen tiedot leikepöydälle"
+
+#: contents/configuration/AboutPlugin.qml:19
+#: contents/configuration/AppletConfiguration.qml:227
+msgid "About"
+msgstr "Tietoa"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "Lähetä sähköpostia: %1"
+
+#: contents/configuration/AboutPlugin.qml:94
+msgid "Copyright"
+msgstr "Tekijänoikeudet"
+
+#: contents/configuration/AboutPlugin.qml:114 contents/explorer/Tooltip.qml:93
+msgid "License:"
+msgstr "Lisenssi:"
+
+#: contents/configuration/AboutPlugin.qml:127
+msgid "Authors"
+msgstr "Tekijät"
+
+#: contents/configuration/AboutPlugin.qml:137
+msgid "Credits"
+msgstr "Kiitokset"
+
+#: contents/configuration/AboutPlugin.qml:148
+msgid "Translators"
+msgstr "Kääntäjät"
+
+#: contents/configuration/AppletConfiguration.qml:40
+msgid "Keyboard Shortcuts"
+msgstr "Pikanäppäimet"
+
+#: contents/configuration/AppletConfiguration.qml:275
+msgid "Apply Settings"
+msgstr "Käytä asetuksia"
+
+#: contents/configuration/AppletConfiguration.qml:276
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Nykyisen asetusosion asetukset ovat muuttuneet. Haluatko käyttää muutoksia "
+"vai hylätä ne?"
+
+#: contents/configuration/AppletConfiguration.qml:301
+msgid "OK"
+msgstr "OK"
+
+#: contents/configuration/AppletConfiguration.qml:309
+msgid "Apply"
+msgstr "Käytä"
+
+#: contents/configuration/AppletConfiguration.qml:315
+#: contents/explorer/AppletAlternatives.qml:175
+msgid "Cancel"
+msgstr "Peru"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:29
+msgid "Open configuration page"
+msgstr "Avaa asetussivu"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:19
+msgid "Left-Button"
+msgstr "Vasen painike"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:20
+msgid "Right-Button"
+msgstr "Oikea painike"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Middle-Button"
+msgstr "Keskipainike"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Back-Button"
+msgstr "Takaisin-painike"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Forward-Button"
+msgstr "Eteenpäin-painike"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Vertical-Scroll"
+msgstr "Pystyvieritys"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:26
+msgid "Horizontal-Scroll"
+msgstr "Vaakavieritys"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Shift"
+msgstr "Vaihto"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:29
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:73
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:153
+#: contents/configuration/MouseEventInputButton.qml:15
+msgid "Add Action"
+msgstr "Lisää toiminto"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:26
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:68
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "Järjestelmänvalvoja on rajoittanut asettelumuutoksia"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:83
+msgid "Layout:"
+msgstr "Asettelu:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:98
+msgid "Wallpaper Type:"
+msgstr "Taustan tyyppi:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:115
+msgid "Get New Plugins…"
+msgstr "Hae uusia liitännäisiä…"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:127
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "Asettelumuutoksia täytyy käyttää ennen muiden muutosten tekemistä"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:133
+msgid "Apply now"
+msgstr "Käytä nyt"
+
+#: contents/configuration/ConfigurationShortcuts.qml:16
+msgid "Shortcuts"
+msgstr "Pikanäppäimet"
+
+#: contents/configuration/ConfigurationShortcuts.qml:26
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "Tämä pikanäppäin aktivoi sovelman kuin sitä olisi napsautettu."
+
+#: contents/configuration/ContainmentConfiguration.qml:31
+msgid "Wallpaper"
+msgstr "Tausta"
+
+#: contents/configuration/ContainmentConfiguration.qml:36
+msgid "Mouse Actions"
+msgstr "Hiiren toiminnot"
+
+#: contents/configuration/MouseEventInputButton.qml:22
+msgid "Input Here"
+msgstr "Syötä tähän"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:16
+msgid "Screen Edge"
+msgstr "Näytön reuna"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr ""
+"Siirrä paneeli näytön reunalle napsauttamalla ja vetämällä painike sinne."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:34
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:168
+msgid "Remove Panel"
+msgstr "Poista paneeli"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:41
+msgid "Panel Alignment"
+msgstr "Paneelin sijainti"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Top"
+msgstr "Ylhäällä"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Left"
+msgstr "Vasemmalla"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+msgid "Center"
+msgstr "Keskellä"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Bottom"
+msgstr "Alhaalla"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Right"
+msgstr "Oikealla"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:83
+msgid "Visibility"
+msgstr "Näkyvyys"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:91
+msgid "Always Visible"
+msgstr "Aina näkyvissä"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:99
+msgid "Auto Hide"
+msgstr "Piilota automaattisesti"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:107
+msgid "Windows Can Cover"
+msgstr "Ikkunat voivat peittää"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:115
+msgid "Windows Go Below"
+msgstr "Ikkunat jäävät alle"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:124
+msgid "Opacity"
+msgstr "Peittävyys"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:134
+msgid "Adaptive"
+msgstr "Mukautuva"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+msgid "Opaque"
+msgstr "Peittävä"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:150
+msgid "Translucent"
+msgstr "Läpikuultava"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:159
+msgid "Maximize Panel"
+msgstr "Kasvata paneeli enimmäiskokoon"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:22
+msgid "Add Widgets…"
+msgstr "Lisää sovelmia…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:23
+msgid "Add Spacer"
+msgstr "Lisää erotin"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:24
+msgid "More Options…"
+msgstr "Lisää valintoja…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel width:"
+msgstr "Paneelin leveys:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel height:"
+msgstr "Paneelin korkeus:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:213
+msgid "Close"
+msgstr "Sulje"
+
+#: contents/explorer/AppletAlternatives.qml:72
+msgid "Alternative Widgets"
+msgstr "Vaihtoehtoiset sovelmat"
+
+#: contents/explorer/AppletAlternatives.qml:165
+msgid "Switch"
+msgstr "Vaihda"
+
+#: contents/explorer/AppletDelegate.qml:166
+msgid "Undo uninstall"
+msgstr "Kumoa asennuksen poisto"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Uninstall widget"
+msgstr "Poista sovelman asennus"
+
+#: contents/explorer/Tooltip.qml:102
+msgid "Author:"
+msgstr "Tekijä:"
+
+#: contents/explorer/Tooltip.qml:110
+msgid "Email:"
+msgstr "Sähköposti:"
+
+#: contents/explorer/Tooltip.qml:129
+msgid "Uninstall"
+msgstr "Poista asennus"
+
+#: contents/explorer/WidgetExplorer.qml:129
+#: contents/explorer/WidgetExplorer.qml:245
+msgid "All Widgets"
+msgstr "Kaikki sovelmat"
+
+#: contents/explorer/WidgetExplorer.qml:204
+msgid "Widgets"
+msgstr "Sovelmat"
+
+#: contents/explorer/WidgetExplorer.qml:212
+msgid "Get New Widgets…"
+msgstr "Hae uusia sovelmia…"
+
+#: contents/explorer/WidgetExplorer.qml:244
+msgid "Categories"
+msgstr "Luokat"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets matched the search terms"
+msgstr "Ei hakuehtoja vastaavia sovelmia"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets available"
+msgstr "Sovelmia ei ole saatavilla"

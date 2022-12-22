@@ -1,0 +1,198 @@
+# translation of kcmsmserver.po to Spanish
+# Copyright (C) 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+#
+# Jaime Robles <jaime@kde.org>, 2003, 2008.
+# Miguel Revilla Rodríguez <yo@miguelrevilla.com>, 2003, 2004.
+# Pablo de Vicente <p.devicente@wanadoo.es>, 2004.
+# Jaime Robles <jaime@robles.nu>, 2005.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2010, 2012, 2019, 2020, 2021.
+# Cristina Yenyxe González García <the.blue.valkyrie@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmsmserver\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-01-13 19:12+0100\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"com>\n"
+"First-Translator: Pablo de Vicente <pvicentea@nexo.es>\n"
+"X-Generator: Lokalize 20.12.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Eloy Cuadra"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ecuadra@eloihr.net"
+
+#: kcmsmserver.cpp:51
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>Gestor de sesiones</h1> Aquí puede configurar el gestor de sesiones, "
+"incluyendo opciones como si al cerrar sesión (terminar) se debe solicitar "
+"confirmación, si se debe restaurar la sesión previa al acceder a la cuenta y "
+"si, por omisión, el equipo debe apagarse automáticamente tras cerrar la "
+"sesión."
+
+#: kcmsmserver.cpp:62
+#, kde-format
+msgid "Desktop Session"
+msgstr "Sesión de escritorio"
+
+#: kcmsmserver.cpp:64
+#, kde-format
+msgid "Desktop Session Login and Logout"
+msgstr "Inicio y fin de sesión de escritorio"
+
+#: kcmsmserver.cpp:66
+#, kde-format
+msgid "Copyright © 2000–2020 Desktop Session team"
+msgstr "Copyright © 2000–2020 el equipo de Sesión de escritorio"
+
+#: kcmsmserver.cpp:68
+#, kde-format
+msgid "Oswald Buddenhagen"
+msgstr "Oswald Buddenhagen"
+
+#: kcmsmserver.cpp:69
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr ""
+"No se ha podido solicitar el reinicio para la configuración del firmware: %1"
+
+#: package/contents/ui/main.qml:26
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr ""
+"La próxima vez que reinicie el equipo, entrará en la pantalla de "
+"configuración de UEFI."
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr ""
+"La próxima vez que reinicie el equipo, entrará en la pantalla de "
+"configuración del firmware."
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Restart Now"
+msgstr "Reiniciar ahora"
+
+#: package/contents/ui/main.qml:38
+#, kde-format
+msgid "General:"
+msgstr "General:"
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#: package/contents/ui/main.qml:39 smserversettings.kcfg:9
+#, kde-format
+msgid "Confirm logout"
+msgstr "Confirmar terminar"
+
+#. i18n: ectx: label, entry (offerShutdown), group (General)
+#: package/contents/ui/main.qml:48 smserversettings.kcfg:13
+#, kde-format
+msgid "Offer shutdown options"
+msgstr "Ofrecer opciones de apagado"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Default leave option:"
+msgstr "Opción de salida por omisión:"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "End current session"
+msgstr "Terminar la sesión actual"
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Restart computer"
+msgstr "Reiniciar el equipo"
+
+#: package/contents/ui/main.qml:86
+#, kde-format
+msgid "Turn off computer"
+msgstr "Apagar el equipo"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "When logging in:"
+msgstr "Al iniciar sesión:"
+
+#: package/contents/ui/main.qml:103
+#, kde-format
+msgid "Restore previous saved session"
+msgstr "Restaurar la última sesión guardada"
+
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgid "Restore manually saved session"
+msgstr "Restaurar sesión guardada manualmente"
+
+#: package/contents/ui/main.qml:123
+#, kde-format
+msgid "Start with an empty session"
+msgstr "Comenzar con una sesión vacía"
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Don't restore these applications:"
+msgstr "No restaurar estas aplicaciones:"
+
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid ""
+"Here you can enter a colon or comma separated list of applications that "
+"should not be saved in sessions, and therefore will not be started when "
+"restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+"Puede añadir una lista de aplicaciones separadas por comas que no se "
+"guardarán en las sesiones y que no serán iniciadas cuando se restaure la "
+"sesión. Por ejemplo «xterm,xconsole»."
+
+#: package/contents/ui/main.qml:156
+#, kde-format
+msgid "Enter firmware setup screen on next restart"
+msgstr "Entrar en la configuración del firmware en el siguiente reinicio"
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#: smserversettings.kcfg:17
+#, kde-format
+msgid "Default leave option"
+msgstr "Opción de salida por omisión"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#: smserversettings.kcfg:26
+#, kde-format
+msgid "On login"
+msgstr "Al iniciar sesión"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#: smserversettings.kcfg:30
+#, kde-format
+msgid "Applications to be excluded from session"
+msgstr "Aplicaciones a excluir de la sesión"

@@ -1,0 +1,455 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Andrey Cherepanov <skull@kde.ru>, 2009.
+# Nick Shaforostoff <shafff@ukr.net>, 2009.
+# Alexander Potashev <aspotashev@gmail.com>, 2009, 2010, 2011, 2014, 2015, 2016, 2017, 2018, 2019, 2020.
+# Yuri Efremov <yur.arh@gmail.com>, 2011, 2012, 2013.
+# Julia Dronova <juliette.tux@gmail.com>, 2013.
+# Alexander Yavorsky <kekcuha@gmail.com>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-06-07 21:59+0300\n"
+"Last-Translator: Alexander Yavorsky <kekcuha@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 21.04.1\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: contents/activitymanager/ActivityItem.qml:212
+msgid "Currently being used"
+msgstr "Сейчас используется"
+
+#: contents/activitymanager/ActivityItem.qml:252
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Переместить в\n"
+"эту комнату"
+
+#: contents/activitymanager/ActivityItem.qml:282
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Показывать также\n"
+"в этой комнате"
+
+# BUGME: please change to "configure activity" --aspotashev
+#: contents/activitymanager/ActivityItem.qml:342
+msgid "Configure"
+msgstr "Настроить комнату"
+
+#: contents/activitymanager/ActivityItem.qml:359
+msgid "Stop activity"
+msgstr "Остановить комнату"
+
+#: contents/activitymanager/ActivityList.qml:143
+msgid "Stopped activities:"
+msgstr "Остановленные комнаты:"
+
+#: contents/activitymanager/ActivityManager.qml:127
+msgid "Create activity…"
+msgstr "Создать комнату..."
+
+#: contents/activitymanager/Heading.qml:61
+msgid "Activities"
+msgstr "Комнаты"
+
+#: contents/activitymanager/Heading.qml:78
+#: contents/explorer/WidgetExplorer.qml:230
+msgid "Search…"
+msgstr "Поиск"
+
+#: contents/activitymanager/StoppedActivityItem.qml:133
+msgid "Configure activity"
+msgstr "Настроить комнату"
+
+#: contents/activitymanager/StoppedActivityItem.qml:148
+msgid "Delete"
+msgstr "Удалить"
+
+#: contents/applet/AppletError.qml:52
+msgid "Sorry! There was an error loading %1."
+msgstr "Ошибка загрузки %1."
+
+#: contents/applet/AppletError.qml:60
+msgid "Copy Error Details to Clipboard"
+msgstr "Скопировать сведения об ошибке в буфер обмена"
+
+#: contents/configuration/AboutPlugin.qml:19
+#: contents/configuration/AppletConfiguration.qml:227
+msgid "About"
+msgstr "О виджете"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "Отправить письмо %1"
+
+#: contents/configuration/AboutPlugin.qml:94
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: contents/configuration/AboutPlugin.qml:114 contents/explorer/Tooltip.qml:93
+msgid "License:"
+msgstr "Лицензия: "
+
+#: contents/configuration/AboutPlugin.qml:127
+msgid "Authors"
+msgstr "Авторы"
+
+#: contents/configuration/AboutPlugin.qml:137
+msgid "Credits"
+msgstr "Благодарности"
+
+#: contents/configuration/AboutPlugin.qml:148
+msgid "Translators"
+msgstr "Переводчики"
+
+#: contents/configuration/AppletConfiguration.qml:40
+msgid "Keyboard Shortcuts"
+msgstr "Комбинации клавиш"
+
+#: contents/configuration/AppletConfiguration.qml:275
+msgid "Apply Settings"
+msgstr "Сохранение параметров"
+
+#: contents/configuration/AppletConfiguration.qml:276
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr "В текущем модуле имеются несохранённые изменения. Применить их?"
+
+#: contents/configuration/AppletConfiguration.qml:301
+msgid "OK"
+msgstr "ОК"
+
+#: contents/configuration/AppletConfiguration.qml:309
+msgid "Apply"
+msgstr "Применить"
+
+#: contents/configuration/AppletConfiguration.qml:315
+#: contents/explorer/AppletAlternatives.qml:175
+msgid "Cancel"
+msgstr "Отмена"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:29
+msgid "Open configuration page"
+msgstr "Открыть страницу конфигурации"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:19
+msgid "Left-Button"
+msgstr "Левая кнопка"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:20
+msgid "Right-Button"
+msgstr "Правая кнопка"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Middle-Button"
+msgstr "Средняя кнопка"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Back-Button"
+msgstr "Кнопка «назад»"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Forward-Button"
+msgstr "Кнопка «вперёд»"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Vertical-Scroll"
+msgstr "Вертикальная прокрутка"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:26
+msgid "Horizontal-Scroll"
+msgstr "Горизонтальная прокрутка"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:29
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:73
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:153
+#: contents/configuration/MouseEventInputButton.qml:15
+msgid "Add Action"
+msgstr "Добавить действие"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:26
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:68
+msgid "Layout changes have been restricted by the system administrator"
+msgstr ""
+"Возможность изменения типа комнаты была ограничена системным администратором"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:83
+msgid "Layout:"
+msgstr "Тип комнаты:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:98
+msgid "Wallpaper Type:"
+msgstr "Тип обоев:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:115
+msgid "Get New Plugins…"
+msgstr "Загрузить новые модули..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:127
+msgid "Layout changes must be applied before other changes can be made"
+msgstr ""
+"Изменение типа комнаты необходимо применить перед редактированием других "
+"параметров."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:133
+msgid "Apply now"
+msgstr "Применить"
+
+#: contents/configuration/ConfigurationShortcuts.qml:16
+msgid "Shortcuts"
+msgstr "Комбинации клавиш"
+
+#: contents/configuration/ConfigurationShortcuts.qml:26
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr ""
+"Эта комбинация клавиш активирует виджет таким же образом, как если бы вы "
+"нажали на него."
+
+#: contents/configuration/ContainmentConfiguration.qml:31
+msgid "Wallpaper"
+msgstr "Обои"
+
+#: contents/configuration/ContainmentConfiguration.qml:36
+msgid "Mouse Actions"
+msgstr "Действия мыши"
+
+#: contents/configuration/MouseEventInputButton.qml:22
+msgid "Input Here"
+msgstr "Нажимайте здесь"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:16
+msgid "Screen Edge"
+msgstr "Край экрана"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr ""
+"Нажмите и потяните за кнопку, чтобы перетащить панель к другому краю экрана."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:34
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:168
+msgid "Remove Panel"
+msgstr "Удалить панель"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:41
+msgid "Panel Alignment"
+msgstr "Выравнивание панели"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Top"
+msgstr "Сверху"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Left"
+msgstr "Слева"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+msgid "Center"
+msgstr "По центру"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Bottom"
+msgstr "Снизу"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Right"
+msgstr "Справа"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:83
+msgid "Visibility"
+msgstr "Видимость"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:91
+msgid "Always Visible"
+msgstr "Показывать всегда"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:99
+msgid "Auto Hide"
+msgstr "Автоматически скрывать"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:107
+msgid "Windows Can Cover"
+msgstr "Допускать перекрытие окнами"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:115
+msgid "Windows Go Below"
+msgstr "Панель перекрывает окна"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:124
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:134
+msgid "Adaptive"
+msgstr "Адаптивно"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+msgid "Opaque"
+msgstr "Непрозрачно"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:150
+msgid "Translucent"
+msgstr "Полупрозрачно"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:159
+msgid "Maximize Panel"
+msgstr "Растянуть панель"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:22
+msgid "Add Widgets…"
+msgstr "Добавить виджеты..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:23
+msgid "Add Spacer"
+msgstr "Добавить разделитель"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:24
+msgid "More Options…"
+msgstr "Дополнительные параметры..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel width:"
+msgstr "Ширина панели:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel height:"
+msgstr "Высота панели:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:213
+msgid "Close"
+msgstr "Закрыть"
+
+#: contents/explorer/AppletAlternatives.qml:72
+msgid "Alternative Widgets"
+msgstr "Варианты виджета"
+
+#: contents/explorer/AppletAlternatives.qml:165
+msgid "Switch"
+msgstr "Заменить"
+
+#: contents/explorer/AppletDelegate.qml:166
+msgid "Undo uninstall"
+msgstr "Отменить удаление"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Uninstall widget"
+msgstr "Удалить виджет"
+
+#: contents/explorer/Tooltip.qml:102
+msgid "Author:"
+msgstr "Автор: "
+
+#: contents/explorer/Tooltip.qml:110
+msgid "Email:"
+msgstr "Эл. почта:"
+
+#: contents/explorer/Tooltip.qml:129
+msgid "Uninstall"
+msgstr "Удалить"
+
+#: contents/explorer/WidgetExplorer.qml:129
+#: contents/explorer/WidgetExplorer.qml:245
+msgid "All Widgets"
+msgstr "Все виджеты"
+
+#: contents/explorer/WidgetExplorer.qml:204
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: contents/explorer/WidgetExplorer.qml:212
+msgid "Get New Widgets…"
+msgstr "Пополнить список виджетов..."
+
+#: contents/explorer/WidgetExplorer.qml:244
+msgid "Categories"
+msgstr "Категории"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets matched the search terms"
+msgstr "Не найдено ни одного виджета, удовлетворяющего критериям поиска"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets available"
+msgstr "Виджеты не найдены"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# BUGME: please say "Stop activity"; it's a tooltip, no need to save space --aspotashev
+
+
+
+
+
+
+
+
+
+
+
+
+
+# BUGME: please change to "OK" --aspotashev

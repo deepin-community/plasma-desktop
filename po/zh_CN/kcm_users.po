@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-09-02 00:19+0000\n"
+"PO-Revision-Date: 2021-11-08 12:07\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/plasma-desktop/kcm_users.pot\n"
+"X-Crowdin-File-ID: 24840\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE 中国,Coelacanthus,csslayer,Guo Yunhe,Tyson Tan"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"kde-china@kde.org,coelacanthus@kde.org,csslayer@kde.org,i@guoyunhe.me,"
+"tysontan@tysontan.com"
+
+#: package/contents/ui/ChangePassword.qml:26
+#: package/contents/ui/UserDetailsPage.qml:168
+#, kde-format
+msgid "Change Password"
+msgstr "修改密码"
+
+#: package/contents/ui/ChangePassword.qml:41
+#, kde-format
+msgid "Password"
+msgstr "密码"
+
+#: package/contents/ui/ChangePassword.qml:55
+#, kde-format
+msgid "Confirm password"
+msgstr "确认密码"
+
+#: package/contents/ui/ChangePassword.qml:68
+#: package/contents/ui/CreateUser.qml:66
+#, kde-format
+msgid "Passwords must match"
+msgstr "两次输入的密码必须一致。"
+
+#: package/contents/ui/ChangePassword.qml:73
+#, kde-format
+msgid "Set Password"
+msgstr "设置密码"
+
+#: package/contents/ui/ChangeWalletPassword.qml:17
+#, kde-format
+msgid "Change Wallet Password?"
+msgstr "更改钱包密码？"
+
+#: package/contents/ui/ChangeWalletPassword.qml:26
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Now that you have changed your login password, you may also want to change "
+"the password on your default KWallet to match it."
+msgstr ""
+"您刚刚修改了登录密码，您可能想要同时更改 K 钱包的密码，以避免每次登录都要手动"
+"输入两次密码。"
+
+#: package/contents/ui/ChangeWalletPassword.qml:31
+#, kde-format
+msgid "What is KWallet?"
+msgstr "K 钱包是什么？"
+
+#: package/contents/ui/ChangeWalletPassword.qml:41
+#, kde-format
+msgid ""
+"KWallet is a password manager that stores your passwords for wireless "
+"networks and other encrypted resources. It is locked with its own password "
+"which differs from your login password. If the two passwords match, it can "
+"be unlocked at login automatically so you don't have to enter the KWallet "
+"password yourself."
+msgstr ""
+"K 钱包时一个密码管理器，用于存储您的 WiFi 密码和其他加密资源。它使用独立的密"
+"码锁定，和您的登录密码不一定相同。如果两个密码相同，则在您登录时钱包会自动解"
+"锁，而无需再次输入 K 钱包密码。"
+
+#: package/contents/ui/ChangeWalletPassword.qml:57
+#, kde-format
+msgid "Change Wallet Password"
+msgstr "更改钱包密码"
+
+#: package/contents/ui/ChangeWalletPassword.qml:66
+#, kde-format
+msgid "Leave Unchanged"
+msgstr "保持不变"
+
+#: package/contents/ui/CreateUser.qml:16
+#, kde-format
+msgid "Create User"
+msgstr "创建用户"
+
+#: package/contents/ui/CreateUser.qml:30
+#, kde-format
+msgid "Name:"
+msgstr "名称："
+
+#: package/contents/ui/CreateUser.qml:35
+#: package/contents/ui/UserDetailsPage.qml:142
+#, kde-format
+msgid "Username:"
+msgstr "用户名："
+
+#: package/contents/ui/CreateUser.qml:45
+#: package/contents/ui/UserDetailsPage.qml:150
+#, kde-format
+msgid "Standard"
+msgstr "标准"
+
+#: package/contents/ui/CreateUser.qml:46
+#: package/contents/ui/UserDetailsPage.qml:151
+#, kde-format
+msgid "Administrator"
+msgstr "管理员"
+
+#: package/contents/ui/CreateUser.qml:49
+#: package/contents/ui/UserDetailsPage.qml:154
+#, kde-format
+msgid "Account type:"
+msgstr "账号类型："
+
+#: package/contents/ui/CreateUser.qml:54
+#, kde-format
+msgid "Password:"
+msgstr "密码："
+
+#: package/contents/ui/CreateUser.qml:59
+#, kde-format
+msgid "Confirm password:"
+msgstr "确认密码："
+
+#: package/contents/ui/CreateUser.qml:70
+#, kde-format
+msgid "Create"
+msgstr "创建"
+
+#: package/contents/ui/main.qml:22
+#, kde-format
+msgid "Manage Users"
+msgstr "管理用户"
+
+#: package/contents/ui/main.qml:98
+#, kde-format
+msgid "Add New User"
+msgstr "添加新用户"
+
+#: package/contents/ui/UserDetailsPage.qml:89
+#, kde-format
+msgid "Choose a picture"
+msgstr "选择图片"
+
+#: package/contents/ui/UserDetailsPage.qml:122
+#, kde-format
+msgid "Change avatar"
+msgstr "更改头像"
+
+#: package/contents/ui/UserDetailsPage.qml:134
+#, kde-format
+msgctxt "Example name"
+msgid "John Doe"
+msgstr "John Doe"
+
+#: package/contents/ui/UserDetailsPage.qml:163
+#, kde-format
+msgctxt "Example email address"
+msgid "john.doe@kde.org"
+msgstr "john.doe@kde.org"
+
+#: package/contents/ui/UserDetailsPage.qml:164
+#, kde-format
+msgid "Email address:"
+msgstr "电子邮件地址："
+
+#: package/contents/ui/UserDetailsPage.qml:188
+#, kde-format
+msgid "Delete files"
+msgstr "删除文件"
+
+#: package/contents/ui/UserDetailsPage.qml:197
+#, kde-format
+msgid "Keep files"
+msgstr "保留文件"
+
+#: package/contents/ui/UserDetailsPage.qml:206
+#, kde-format
+msgid "Delete User…"
+msgstr "删除用户…"
+
+#: package/contents/ui/UserDetailsPage.qml:216
+#, kde-format
+msgid "Change Avatar"
+msgstr "更换头像"
+
+#: package/contents/ui/UserDetailsPage.qml:259
+#, kde-format
+msgid "Choose File…"
+msgstr "选择文件…"
+
+#: package/contents/ui/UserDetailsPage.qml:364
+#, kde-format
+msgid "Feisty Flamingo"
+msgstr "火烈鸟"
+
+#: package/contents/ui/UserDetailsPage.qml:365
+#, kde-format
+msgid "Dragon's Fruit"
+msgstr "火龙果"
+
+#: package/contents/ui/UserDetailsPage.qml:366
+#, kde-format
+msgid "Sweet Potato"
+msgstr "番薯"
+
+#: package/contents/ui/UserDetailsPage.qml:367
+#, kde-format
+msgid "Ambient Amber"
+msgstr "琥珀"
+
+#: package/contents/ui/UserDetailsPage.qml:368
+#, kde-format
+msgid "Sparkle Sunbeam"
+msgstr "阳光"
+
+#: package/contents/ui/UserDetailsPage.qml:369
+#, kde-format
+msgid "Lemon-Lime"
+msgstr "柠檬绿"
+
+#: package/contents/ui/UserDetailsPage.qml:370
+#, kde-format
+msgid "Verdant Charm"
+msgstr "青葱"
+
+#: package/contents/ui/UserDetailsPage.qml:371
+#, kde-format
+msgid "Mellow Meadow"
+msgstr "草地"
+
+#: package/contents/ui/UserDetailsPage.qml:372
+#, kde-format
+msgid "Tepid Teal"
+msgstr "孔雀绿"
+
+#: package/contents/ui/UserDetailsPage.qml:373
+#, kde-format
+msgid "Plasma Blue"
+msgstr "Plasma 蓝"
+
+#: package/contents/ui/UserDetailsPage.qml:374
+#, kde-format
+msgid "Pon Purple"
+msgstr "暖紫"
+
+#: package/contents/ui/UserDetailsPage.qml:375
+#, kde-format
+msgid "Bajo Purple"
+msgstr "冷紫"
+
+#: package/contents/ui/UserDetailsPage.qml:376
+#, kde-format
+msgid "Burnt Charcoal"
+msgstr "焦炭"
+
+#: package/contents/ui/UserDetailsPage.qml:377
+#, kde-format
+msgid "Paper Perfection"
+msgstr "白纸"
+
+#: package/contents/ui/UserDetailsPage.qml:378
+#, kde-format
+msgid "Cafétera Brown"
+msgstr "咖啡"
+
+#: package/contents/ui/UserDetailsPage.qml:379
+#, kde-format
+msgid "Rich Hardwood"
+msgstr "木材"
+
+#: src/kcm.cpp:40
+#, kde-format
+msgid "Manage user accounts"
+msgstr "管理用户账户"
+
+#: src/kcm.cpp:41
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm.cpp:42
+#, kde-format
+msgid "Carson Black"
+msgstr "Carson Black"
+
+#: src/user.cpp:239
+#, kde-format
+msgid "Could not get permission to save user %1"
+msgstr "无法获取保存用户 %1 的权限"
+
+#: src/user.cpp:244
+#, kde-format
+msgid "There was an error while saving changes"
+msgstr "保存更改时出错"
+
+#: src/user.cpp:319 src/user.cpp:320
+#, kde-format
+msgid "Failed to resize image: opening temp file failed"
+msgstr "调整图像大小失败：无法打开临时文件"
+
+#: src/user.cpp:327 src/user.cpp:328
+#, kde-format
+msgid "Failed to resize image: writing to temp file failed"
+msgstr "调整图像大小失败：无法写入临时文件"
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Your Account"
+msgstr "您的账号"
+
+#: src/usermodel.cpp:138
+#, kde-format
+msgid "Other Accounts"
+msgstr "其他账号"

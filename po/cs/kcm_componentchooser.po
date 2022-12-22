@@ -1,0 +1,102 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Vít Pelčák <vit@pelcak.org>, 2011, 2015, 2016, 2017, 2019, 2020.
+# Tomáš Chvátal <tomas.chvatal@gmail.com>, 2012.
+# Vit Pelcak <vpelcak@suse.cz>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-06-10 17:47+0200\n"
+"Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Lukáš Tinkl"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "lukas@kde.org"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr "Výchozí webový prohlížeč"
+
+#: componentchooser.cpp:73 componentchooserterminal.cpp:74
+#, kde-format
+msgid "Other…"
+msgstr "Jiné…"
+
+#: componentchooserbrowser.cpp:18
+#, kde-format
+msgid "Select default browser"
+msgstr "Vyberte výchozí prohlížeč"
+
+#: componentchooseremail.cpp:19
+#, kde-format
+msgid "Select default e-mail client"
+msgstr "Vyberte výchozí poštovní klient"
+
+#: componentchooserfilemanager.cpp:14
+#, kde-format
+msgid "Select default file manager"
+msgstr "Vyberte výchozí správce souborů"
+
+#: componentchooserterminal.cpp:24
+#, kde-format
+msgid "Select default terminal emulator"
+msgstr "Vyberte výchozí emulátor terminálu"
+
+#: kcm_componentchooser.cpp:27
+#, kde-format
+msgctxt "@title"
+msgid "Default Applications"
+msgstr "Výchozí aplikace"
+
+#: kcm_componentchooser.cpp:32
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+#: kcm_componentchooser.cpp:33
+#, kde-format
+msgid "Méven Car"
+msgstr "Méven Car"
+
+#: kcm_componentchooser.cpp:34
+#, kde-format
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+#: package/contents/ui/main.qml:16
+#, kde-format
+msgid "Web browser:"
+msgstr "Webový prohlížeč:"
+
+#: package/contents/ui/main.qml:24
+#, kde-format
+msgid "File manager:"
+msgstr "Správce souborů:"
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Email client:"
+msgstr "Poštovní klient:"
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid "Terminal emulator:"
+msgstr "Emulátor terminálu:"

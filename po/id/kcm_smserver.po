@@ -1,0 +1,207 @@
+# Indonesian translations for kcmsmserver package.
+# Copyright (C) 2010 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kcmsmserver package.
+# Andhika Padmawan <andhika.padmawan@gmail.com>, 2010.
+# Wantoyo <wantoyek@gmail.com>, 2017, 2018, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmsmserver\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2019-12-22 11:51+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: kcmsmserver.cpp:51
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>Pengelola Sesi</h1> Kamu bisa mengkonfigurasi pengelola sesi di sini. "
+"Ini termasuk opsi seperti apakah perlu atau tidak keluar (logout) sesi harus "
+"dikonfirmasi, apakah sesi harus dikembalikan lagi ketika pe-login-an dan "
+"apakah komputer harus secara otomatis dimatikan setelah keluar sesi secara "
+"baku."
+
+#: kcmsmserver.cpp:62
+#, fuzzy, kde-format
+#| msgid "Restore &previous session"
+msgid "Desktop Session"
+msgstr "Kembalikan &sesi sebelumnya"
+
+#: kcmsmserver.cpp:64
+#, kde-format
+msgid "Desktop Session Login and Logout"
+msgstr ""
+
+#: kcmsmserver.cpp:66
+#, kde-format
+msgid "Copyright © 2000–2020 Desktop Session team"
+msgstr ""
+
+#: kcmsmserver.cpp:68
+#, kde-format
+msgid "Oswald Buddenhagen"
+msgstr ""
+
+#: kcmsmserver.cpp:69
+#, kde-format
+msgid "Carl Schwan"
+msgstr ""
+
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr "Gagal meminta penyalaan-ulang untuk pengesetan firmware: %1"
+
+#: package/contents/ui/main.qml:26
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr ""
+"Di kemudian nanti komputer dinyalakan-ulang, itu akan memasuki layar "
+"pengesetan UEFI."
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr ""
+"Di kemudian nanti komputer dinyalakan-ulang, itu akan memasuki layar "
+"pengesetan firmware."
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Restart Now"
+msgstr "Nyalakan Ulang Sekarang"
+
+#: package/contents/ui/main.qml:38
+#, fuzzy, kde-format
+#| msgid "General"
+msgid "General:"
+msgstr "Umum"
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#: package/contents/ui/main.qml:39 smserversettings.kcfg:9
+#, fuzzy, kde-format
+#| msgid "Conf&irm logout"
+msgid "Confirm logout"
+msgstr "Konf&irmasi logout"
+
+#. i18n: ectx: label, entry (offerShutdown), group (General)
+#: package/contents/ui/main.qml:48 smserversettings.kcfg:13
+#, fuzzy, kde-format
+#| msgid "O&ffer shutdown options"
+msgid "Offer shutdown options"
+msgstr "Ta&warkan opsi matikan"
+
+#: package/contents/ui/main.qml:65
+#, fuzzy, kde-format
+#| msgid "Default Leave Option"
+msgid "Default leave option:"
+msgstr "Opsi Baku Tinggalkan"
+
+#: package/contents/ui/main.qml:66
+#, fuzzy, kde-format
+#| msgid "&End current session"
+msgid "End current session"
+msgstr "&Akhiri sesi saat ini"
+
+#: package/contents/ui/main.qml:76
+#, fuzzy, kde-format
+#| msgid "&Restart computer"
+msgid "Restart computer"
+msgstr "&Nyalakan ulang komputer"
+
+#: package/contents/ui/main.qml:86
+#, fuzzy, kde-format
+#| msgid "&Turn off computer"
+msgid "Turn off computer"
+msgstr "&Padamkan komputer"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "When logging in:"
+msgstr ""
+
+#: package/contents/ui/main.qml:103
+#, fuzzy, kde-format
+#| msgid "Restore &manually saved session"
+msgid "Restore previous saved session"
+msgstr "Kembalikan sesi yang disimpan secara &manual"
+
+#: package/contents/ui/main.qml:113
+#, fuzzy, kde-format
+#| msgid "Restore &manually saved session"
+msgid "Restore manually saved session"
+msgstr "Kembalikan sesi yang disimpan secara &manual"
+
+#: package/contents/ui/main.qml:123
+#, fuzzy, kde-format
+#| msgid "Start with an empty &session"
+msgid "Start with an empty session"
+msgstr "Jalankan dengan &sesi kosong"
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Don't restore these applications:"
+msgstr ""
+
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid ""
+"Here you can enter a colon or comma separated list of applications that "
+"should not be saved in sessions, and therefore will not be started when "
+"restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+"Di sini kamu bisa memasukkan daftar aplikasi yang dipisahkan oleh titik dua "
+"atau koma yang tidak disimpan dalam sesi, sehingga tidak akan dijalankan "
+"ketika memulihkan sesi. Misalnya 'xterm:konsole' atau 'xterm,konsole'."
+
+#: package/contents/ui/main.qml:156
+#, fuzzy, kde-format
+#| msgid "Enter firmware setup on next restart"
+msgid "Enter firmware setup screen on next restart"
+msgstr "Memasuki pengesetan firmware saat menyalakan-ulang nanti"
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#: smserversettings.kcfg:17
+#, fuzzy, kde-format
+#| msgid "Default Leave Option"
+msgid "Default leave option"
+msgstr "Opsi Baku Tinggalkan"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#: smserversettings.kcfg:26
+#, fuzzy, kde-format
+#| msgid "On Login"
+msgid "On login"
+msgstr "Saat Login"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#: smserversettings.kcfg:30
+#, fuzzy, kde-format
+#| msgid "Applications to be e&xcluded from sessions:"
+msgid "Applications to be excluded from session"
+msgstr "Aplikasi yang tidak &disertakan dari sesi:"

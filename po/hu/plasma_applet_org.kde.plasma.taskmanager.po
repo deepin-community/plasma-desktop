@@ -1,0 +1,548 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Tamas Szanto <tszanto@interware.hu>, 2007.
+# Kristóf Kiszel <ulysses@kubuntu.org>, 2010, 2011, 2019, 2020, 2021.
+# Balázs Úr <urbalazs@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE 4.2\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-19 01:43+0000\n"
+"PO-Revision-Date: 2021-09-04 09:22+0200\n"
+"Last-Translator: Kristóf Kiszel <kiszel.kristof@gmail.com>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 21.07.70\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#: package/contents/config/config.qml:18
+#, kde-format
+msgid "Behavior"
+msgstr "Működés"
+
+#: package/contents/ui/Badge.qml:36
+#, kde-format
+msgctxt "Invalid number of new messages, overlay, keep short"
+msgid "—"
+msgstr "—"
+
+#: package/contents/ui/Badge.qml:38
+#, kde-format
+msgctxt "Over 9999 new messages, overlay, keep short"
+msgid "9,999+"
+msgstr "9,999+"
+
+#: package/contents/ui/ConfigAppearance.qml:35
+#, kde-format
+msgid "General:"
+msgstr "Általános:"
+
+#: package/contents/ui/ConfigAppearance.qml:36
+#, kde-format
+msgid "Show tooltips"
+msgstr "Tippek megjelenítése"
+
+#: package/contents/ui/ConfigAppearance.qml:45
+#, kde-format
+msgid "Highlight windows when hovering over task tooltips"
+msgstr "Ablakok kiemelése a feladat buboréksúgójára mutatáskor"
+
+#: package/contents/ui/ConfigAppearance.qml:52
+#, kde-format
+msgid "Mark applications that play audio"
+msgstr "Hangot lejátszó alkalmazások jelölése"
+
+#: package/contents/ui/ConfigAppearance.qml:66
+#, kde-format
+msgid "Icon size:"
+msgstr "Ikonméret:"
+
+#: package/contents/ui/ConfigAppearance.qml:78
+#, kde-format
+msgid "Small"
+msgstr "Kicsi"
+
+#: package/contents/ui/ConfigAppearance.qml:87
+#, kde-format
+msgid "Large"
+msgstr "Nagy"
+
+#: package/contents/ui/ConfigAppearance.qml:98
+#, kde-format
+msgid "Maximum columns:"
+msgstr "Az oszlopok max. száma:"
+
+#: package/contents/ui/ConfigAppearance.qml:98
+#, kde-format
+msgid "Maximum rows:"
+msgstr "A sorok max. száma:"
+
+#: package/contents/ui/ConfigAppearance.qml:104
+#, kde-format
+msgid "Always arrange tasks in rows of as many columns"
+msgstr "Legfeljebb annyi sorba rendezés, ahány oszlop van"
+
+#: package/contents/ui/ConfigAppearance.qml:104
+#, kde-format
+msgid "Always arrange tasks in columns of as many rows"
+msgstr "Legfeljebb annyi oszlopba rendezés, ahány sor van"
+
+#: package/contents/ui/ConfigBehavior.qml:45
+#, kde-format
+msgid "Group:"
+msgstr "Csoportosítás:"
+
+#: package/contents/ui/ConfigBehavior.qml:48
+#, kde-format
+msgid "Do not group"
+msgstr "Ne csoportosítsa"
+
+#: package/contents/ui/ConfigBehavior.qml:48
+#, kde-format
+msgid "By program name"
+msgstr "Programnév szerint"
+
+#: package/contents/ui/ConfigBehavior.qml:53
+#, kde-format
+msgid "Clicking grouped task:"
+msgstr "Csoportosított alkalmazásra kattintás:"
+
+#: package/contents/ui/ConfigBehavior.qml:60
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task cycles through tasks' "
+msgid "Cycles through tasks"
+msgstr "Váltás az alkalmazások között"
+
+#: package/contents/ui/ConfigBehavior.qml:61
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows tooltip window "
+"thumbnails' "
+msgid "Shows tooltip window thumbnails"
+msgstr "Előnézeti képek megjelenítése"
+
+#: package/contents/ui/ConfigBehavior.qml:62
+#, kde-format
+msgctxt ""
+"Completes the sentence 'Clicking grouped task shows 'Present Windows' "
+"effect' "
+msgid "Shows 'Present Windows' effect"
+msgstr "Az Ablakáttekintő effektus alkalmazása"
+
+#: package/contents/ui/ConfigBehavior.qml:63
+#, kde-format
+msgctxt "Completes the sentence 'Clicking grouped task shows textual list' "
+msgid "Shows textual list"
+msgstr "Szöveges lista megjelenítése"
+
+#: package/contents/ui/ConfigBehavior.qml:71
+#, kde-format
+msgid ""
+"Tooltips are disabled, so the 'Present Windows' effect will be displayed "
+"instead."
+msgstr ""
+"A tippek ki vannak kapcsolva, így az Ablakáttekintő effektus lesz "
+"megjelenítve inkább."
+
+#: package/contents/ui/ConfigBehavior.qml:78
+#, kde-format
+msgid ""
+"Tooltips are disabled, and the 'Present Windows' effect is not enabled or "
+"otherwise available right now, so a textual list will be displayed instead"
+msgstr ""
+"A tippek ki vannak kapcsolva, és az Ablakáttekintő sincs bekapcsolva, vagy "
+"más okból nem érhető el, így a szöveges lista jelenik meg helyette"
+
+#: package/contents/ui/ConfigBehavior.qml:85
+#, kde-format
+msgid ""
+"The 'Present Windows' effect is not enabled or otherwise available right "
+"now, so a textual list will be displayed instead."
+msgstr ""
+"Az Ablakáttekintő sincs bekapcsolva, vagy más okból nem érhető el, így a "
+"szöveges lista jelenik meg helyette."
+
+#: package/contents/ui/ConfigBehavior.qml:95
+#, kde-format
+msgid "Combine into single button"
+msgstr "Összevonás egy gombba"
+
+#: package/contents/ui/ConfigBehavior.qml:102
+#, kde-format
+msgid "Group only when the Task Manager is full"
+msgstr "Csak akkor, ha a feladatkezelő tele van"
+
+#: package/contents/ui/ConfigBehavior.qml:113
+#, kde-format
+msgid "Sort:"
+msgstr "Rendezés:"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "Do not sort"
+msgstr "Ne rendezze"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "Manually"
+msgstr "Kézzel"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "Alphabetically"
+msgstr "Betűrendben"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "By desktop"
+msgstr "Asztalonként"
+
+#: package/contents/ui/ConfigBehavior.qml:116
+#, kde-format
+msgid "By activity"
+msgstr "Aktivitásonként"
+
+#: package/contents/ui/ConfigBehavior.qml:122
+#, kde-format
+msgid "Keep launchers separate"
+msgstr "Indítóikonok különválasztása"
+
+#: package/contents/ui/ConfigBehavior.qml:133
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Clicking active task:"
+msgstr "Aktív alkalmazásra kattintás:"
+
+#: package/contents/ui/ConfigBehavior.qml:134
+#, kde-format
+msgctxt "Part of a sentence: 'Clicking active task minimizes the task'"
+msgid "Minimizes the task"
+msgstr "Alkalmazás minimalizálása"
+
+#: package/contents/ui/ConfigBehavior.qml:139
+#, kde-format
+msgid "Middle-clicking any task:"
+msgstr "Középső gombos katintás alkalmazáson:"
+
+#: package/contents/ui/ConfigBehavior.qml:143
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task does nothing'"
+msgid "Does nothing"
+msgstr "Ne tegyen semmit"
+
+#: package/contents/ui/ConfigBehavior.qml:144
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task closes window or group'"
+msgid "Closes window or group"
+msgstr "Ablak vagy csoport bezárása"
+
+#: package/contents/ui/ConfigBehavior.qml:145
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task opens a new instance'"
+msgid "Opens a new instance"
+msgstr "Új példány indítása"
+
+#: package/contents/ui/ConfigBehavior.qml:146
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task minimizes/restores window or "
+"group'"
+msgid "Minimizes/Restores window or group"
+msgstr "Ablak vagy csoport minimalizálása/visszaállítása"
+
+#: package/contents/ui/ConfigBehavior.qml:147
+#, kde-format
+msgctxt "Part of a sentence: 'Middle-clicking any task toggles grouping'"
+msgid "Toggles grouping"
+msgstr "Csoportosítás be/kikapcsolása"
+
+#: package/contents/ui/ConfigBehavior.qml:148
+#, kde-format
+msgctxt ""
+"Part of a sentence: 'Middle-clicking any task brings it to the current "
+"virtual desktop'"
+msgid "Brings it to the current virtual desktop"
+msgstr "A jelenlegi virtuális asztalra mozgatás"
+
+#: package/contents/ui/ConfigBehavior.qml:158
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Mouse wheel:"
+msgstr "Egérgörgő:"
+
+#: package/contents/ui/ConfigBehavior.qml:159
+#, kde-format
+msgctxt "Part of a sentence: 'Mouse wheel cycles through tasks'"
+msgid "Cycles through tasks"
+msgstr "Váltás az alkalmazások között"
+
+#: package/contents/ui/ConfigBehavior.qml:168
+#, kde-format
+msgid "Show only tasks:"
+msgstr "Megjelenítendő alkalmazások:"
+
+#: package/contents/ui/ConfigBehavior.qml:169
+#, kde-format
+msgid "From current screen"
+msgstr "A jelenlegi képernyőről"
+
+#: package/contents/ui/ConfigBehavior.qml:174
+#, kde-format
+msgid "From current desktop"
+msgstr "A jelenlegi asztalról"
+
+#: package/contents/ui/ConfigBehavior.qml:179
+#, kde-format
+msgid "From current activity"
+msgstr "A jelenlegi aktivitásról"
+
+#: package/contents/ui/ConfigBehavior.qml:184
+#, kde-format
+msgid "That are minimized"
+msgstr "Csak a minimalizáltak"
+
+#: package/contents/ui/ConfigBehavior.qml:193
+#, kde-format
+msgid "When panel is hidden:"
+msgstr "Amikor a panel rejtett:"
+
+#: package/contents/ui/ConfigBehavior.qml:194
+#, kde-format
+msgid "Unhide when a window wants attention"
+msgstr "Megjelenítés, ha az ablak beavatkozást igényel"
+
+#: package/contents/ui/ContextMenu.qml:92
+#, kde-format
+msgid "Places"
+msgstr "Helyek"
+
+#: package/contents/ui/ContextMenu.qml:97
+#, kde-format
+msgid "Recent Files"
+msgstr "Legutóbbi fájlok"
+
+#: package/contents/ui/ContextMenu.qml:102
+#, kde-format
+msgid "Actions"
+msgstr "Műveletek"
+
+#: package/contents/ui/ContextMenu.qml:160
+#, kde-format
+msgctxt "Play previous track"
+msgid "Previous Track"
+msgstr "Előző szám"
+
+#: package/contents/ui/ContextMenu.qml:174
+#, kde-format
+msgctxt "Pause playback"
+msgid "Pause"
+msgstr "Szünet"
+
+#: package/contents/ui/ContextMenu.qml:174
+#, kde-format
+msgctxt "Start playback"
+msgid "Play"
+msgstr "Lejátszás"
+
+#: package/contents/ui/ContextMenu.qml:192
+#, kde-format
+msgctxt "Play next track"
+msgid "Next Track"
+msgstr "Következő szám"
+
+#: package/contents/ui/ContextMenu.qml:203
+#, kde-format
+msgctxt "Stop playback"
+msgid "Stop"
+msgstr "Leállítás"
+
+#: package/contents/ui/ContextMenu.qml:223
+#, kde-format
+msgctxt "Quit media player app"
+msgid "Quit"
+msgstr "Kilépés"
+
+#: package/contents/ui/ContextMenu.qml:238
+#, kde-format
+msgctxt "Open or bring to the front window of media player app"
+msgid "Restore"
+msgstr "Visszaállítás"
+
+#: package/contents/ui/ContextMenu.qml:264
+#, kde-format
+msgid "Mute"
+msgstr "Némítás"
+
+#: package/contents/ui/ContextMenu.qml:278
+#, kde-format
+msgid "Start New Instance"
+msgstr "Új példány indítása"
+
+#: package/contents/ui/ContextMenu.qml:294
+#, kde-format
+msgid "Move to &Desktop"
+msgstr "Mozgatás másik &asztalra"
+
+#: package/contents/ui/ContextMenu.qml:318
+#, kde-format
+msgid "Move &To Current Desktop"
+msgstr "Mozgatás a &jelenlegi asztalra"
+
+#: package/contents/ui/ContextMenu.qml:327
+#, kde-format
+msgid "&All Desktops"
+msgstr "Az összes &asztalra"
+
+#: package/contents/ui/ContextMenu.qml:341
+#, kde-format
+msgctxt "1 = number of desktop, 2 = desktop name"
+msgid "&%1 %2"
+msgstr "&%1. %2"
+
+#: package/contents/ui/ContextMenu.qml:355
+#, kde-format
+msgid "&New Desktop"
+msgstr "Ú&j asztalra"
+
+#: package/contents/ui/ContextMenu.qml:374
+#, kde-format
+msgid "Show in &Activities"
+msgstr "Megjelenítés az &aktivitásokon"
+
+#: package/contents/ui/ContextMenu.qml:398
+#, kde-format
+msgid "Add To Current Activity"
+msgstr "Hozzáadás a jelenlegi aktivitáshoz"
+
+#: package/contents/ui/ContextMenu.qml:408
+#, kde-format
+msgid "All Activities"
+msgstr "Összes aktivitásra"
+
+#: package/contents/ui/ContextMenu.qml:467
+#, kde-format
+msgid "More Actions"
+msgstr "További műveletek"
+
+#: package/contents/ui/ContextMenu.qml:476
+#, kde-format
+msgid "&Move"
+msgstr "Mo&zgatás"
+
+#: package/contents/ui/ContextMenu.qml:485
+#, kde-format
+msgid "Re&size"
+msgstr "Átméretezé&s"
+
+#: package/contents/ui/ContextMenu.qml:499
+#, kde-format
+msgid "Ma&ximize"
+msgstr "Ma&ximalizálás"
+
+#: package/contents/ui/ContextMenu.qml:513
+#, kde-format
+msgid "Mi&nimize"
+msgstr "Mi&nimalizálás"
+
+#: package/contents/ui/ContextMenu.qml:523
+#, kde-format
+msgid "Keep &Above Others"
+msgstr "Az ablak a többi &fölé kerüljön"
+
+#: package/contents/ui/ContextMenu.qml:533
+#, kde-format
+msgid "Keep &Below Others"
+msgstr "Az ablak a többi a&lá kerüljön"
+
+#: package/contents/ui/ContextMenu.qml:545
+#, kde-format
+msgid "&Fullscreen"
+msgstr "&Teljes képernyő"
+
+#: package/contents/ui/ContextMenu.qml:557
+#, kde-format
+msgid "&Shade"
+msgstr "&Felgördítés"
+
+#: package/contents/ui/ContextMenu.qml:573
+#, kde-format
+msgid "Allow this program to be grouped"
+msgstr "A program legyen csoportosítható"
+
+#: package/contents/ui/ContextMenu.qml:625
+#: package/contents/ui/ContextMenu.qml:640
+#, kde-format
+msgid "&Pin to Task Manager"
+msgstr "&Rögzítés a panelen"
+
+#: package/contents/ui/ContextMenu.qml:695
+#, kde-format
+msgid "On All Activities"
+msgstr "Minden aktivitáson"
+
+#: package/contents/ui/ContextMenu.qml:701
+#, kde-format
+msgid "On The Current Activity"
+msgstr "A jelenlegi aktivitáson"
+
+#: package/contents/ui/ContextMenu.qml:725
+#, kde-format
+msgid "Unpin from Task Manager"
+msgstr "Levétel a panelről"
+
+#: package/contents/ui/ContextMenu.qml:741
+#, kde-format
+msgid "&Close"
+msgstr "&Bezárás"
+
+#: package/contents/ui/ToolTipInstance.qml:411
+#, kde-format
+msgctxt "Comma-separated list of desktops"
+msgid "On %1"
+msgstr "Ezen: %1"
+
+#: package/contents/ui/ToolTipInstance.qml:414
+#, kde-format
+msgctxt "Comma-separated list of desktops"
+msgid "Pinned to all desktops"
+msgstr "Összes asztalra rögzítve"
+
+#: package/contents/ui/ToolTipInstance.qml:425
+#, kde-format
+msgctxt "Which virtual desktop a window is currently on"
+msgid "Available on all activities"
+msgstr "Elérhető az összes aktivitáson"
+
+#: package/contents/ui/ToolTipInstance.qml:447
+#, kde-format
+msgctxt "Activities a window is currently on (apart from the current one)"
+msgid "Also available on %1"
+msgstr "Szintén elérhető ezen: %1"
+
+#: package/contents/ui/ToolTipInstance.qml:451
+#, kde-format
+msgctxt "Which activities a window is currently on"
+msgid "Available on %1"
+msgstr "Elérhető ezen: %1"
+
+#: plugin/backend.cpp:327
+#, kde-format
+msgctxt "Show all user Places"
+msgid "%1 more Place"
+msgid_plural "%1 more Places"
+msgstr[0] "%1 további hely"
+msgstr[1] "%1 további hely"
+
+#: plugin/backend.cpp:400
+#, kde-format
+msgid "Forget Recent Files"
+msgstr "Legutóbbi fájlok elfelejtése"

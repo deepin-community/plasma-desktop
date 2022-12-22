@@ -1,0 +1,193 @@
+# Thomas Diehl <thd@kde.org>, 2002, 2003, 2004.
+# Stephan Johach <hunsum@gmx.de>, 2005.
+# Thomas Reitelbach <tr@erdfunkstelle.de>, 2005, 2006, 2007, 2008, 2009.
+# Frederik Schwarzer <schwarzer@kde.org>, 2012.
+# Burkhard Lück <lueck@hube-lueck.de>, 2013, 2015, 2019, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmsmserver\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-03-06 14:29+0100\n"
+"Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Deutsches KDE-Übersetzerteam"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-i18n-de@kde.org"
+
+#: kcmsmserver.cpp:51
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>Sitzungsverwaltung</h1> Hier können Sie die Sitzungsverwaltung "
+"einrichten. Das schließt Auswahlmöglichkeiten ein wie die eventuelle "
+"Bestätigung der Abmeldung (Logout), die Wiederherstellung der vorherigen "
+"Sitzung oder das automatische Ausschalten des Rechners nach dem Beenden der "
+"Sitzung."
+
+#: kcmsmserver.cpp:62
+#, kde-format
+msgid "Desktop Session"
+msgstr "Arbeitsflächen-Sitzung"
+
+#: kcmsmserver.cpp:64
+#, kde-format
+msgid "Desktop Session Login and Logout"
+msgstr "An- und Abmelden einer Arbeitsflächen-Sitzung"
+
+#: kcmsmserver.cpp:66
+#, kde-format
+msgid "Copyright © 2000–2020 Desktop Session team"
+msgstr "Copyright © 2000–2020 Arbeitsflächen-Sitzungsteam"
+
+#: kcmsmserver.cpp:68
+#, kde-format
+msgid "Oswald Buddenhagen"
+msgstr "Oswald Buddenhagen"
+
+#: kcmsmserver.cpp:69
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr ""
+"Neustart zur Anzeige der Firmware-Einrichtung kann nicht ausgeführt werden: "
+"%1"
+
+#: package/contents/ui/main.qml:26
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr ""
+"Beim nächsten Neustart des Rechners wird der UEFI-Einrichtungsdialog "
+"angezeigt."
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr ""
+"Beim nächsten Neustart des Rechners wird der Firmware-Einrichtungsdialog "
+"angezeigt."
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Restart Now"
+msgstr "Jetzt neu starten"
+
+#: package/contents/ui/main.qml:38
+#, kde-format
+msgid "General:"
+msgstr "Allgemein:"
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#: package/contents/ui/main.qml:39 smserversettings.kcfg:9
+#, kde-format
+msgid "Confirm logout"
+msgstr "Abmeldung bestätigen"
+
+#. i18n: ectx: label, entry (offerShutdown), group (General)
+#: package/contents/ui/main.qml:48 smserversettings.kcfg:13
+#, kde-format
+msgid "Offer shutdown options"
+msgstr "Optionen für das Herunterfahren anbieten"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Default leave option:"
+msgstr "Standardeinstellung für das Abmelden:"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "End current session"
+msgstr "Aktuelle Sitzung beenden"
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Restart computer"
+msgstr "Rechner neu starten"
+
+#: package/contents/ui/main.qml:86
+#, kde-format
+msgid "Turn off computer"
+msgstr "Rechner ausschalten"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "When logging in:"
+msgstr "Bei der Anmeldung:"
+
+#: package/contents/ui/main.qml:103
+#, kde-format
+msgid "Restore previous saved session"
+msgstr "Vorherige gespeicherte Sitzung wiederherstellen"
+
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgid "Restore manually saved session"
+msgstr "Manuell gespeicherte Sitzung wiederherstellen"
+
+#: package/contents/ui/main.qml:123
+#, kde-format
+msgid "Start with an empty session"
+msgstr "Mit leerer Sitzung starten"
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Don't restore these applications:"
+msgstr "Diese Anwendungen nicht wiederherstellen:"
+
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid ""
+"Here you can enter a colon or comma separated list of applications that "
+"should not be saved in sessions, and therefore will not be started when "
+"restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+"Hier können Sie eine durch Doppelpunkte oder Kommata getrennte Liste von "
+"Programmen anlegen, die nicht in Sitzungen gespeichert und daher auch nicht "
+"beim nächsten KDE-Start neu aufgerufen werden sollen. Ein mögliches Beispiel "
+"wäre „xterm:konsole“ oder „xterm,xconsole“."
+
+#: package/contents/ui/main.qml:156
+#, kde-format
+msgid "Enter firmware setup screen on next restart"
+msgstr "Firmware-Einrichtungsdialog beim nächsten Neustart anzeigen"
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#: smserversettings.kcfg:17
+#, kde-format
+msgid "Default leave option"
+msgstr "Standardeinstellung für das Abmelden"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#: smserversettings.kcfg:26
+#, kde-format
+msgid "On login"
+msgstr "Bei der Anmeldung"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#: smserversettings.kcfg:30
+#, kde-format
+msgid "Applications to be excluded from session"
+msgstr "Von Sitzungen auszuschließende Programme:"

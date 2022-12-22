@@ -1,0 +1,198 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Volkan Gezer <volkangezer@gmail.com>, 2013, 2014, 2017, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-10-27 11:51+0200\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgid "General"
+msgstr "Genel"
+
+#: package/contents/ui/code/tools.js:42
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Yer İmlerinden Kaldır"
+
+#: package/contents/ui/code/tools.js:46
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Beğenilenlere Ekle"
+
+#: package/contents/ui/code/tools.js:70
+#, kde-format
+msgid "On All Activities"
+msgstr "Tüm Etkinliklerde"
+
+#: package/contents/ui/code/tools.js:120
+#, kde-format
+msgid "On the Current Activity"
+msgstr "Sadece Geçerli Etkinlikte"
+
+#: package/contents/ui/code/tools.js:134
+#, kde-format
+msgid "Show in Favorites"
+msgstr "Sık Kullanılanlarda Göster"
+
+#: package/contents/ui/ConfigGeneral.qml:30
+#, kde-format
+msgid "Icon:"
+msgstr "Simge:"
+
+#: package/contents/ui/ConfigGeneral.qml:65
+#, kde-format
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "Seç…"
+
+#: package/contents/ui/ConfigGeneral.qml:70
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Simgeyi Sil"
+
+#: package/contents/ui/ConfigGeneral.qml:83
+#, kde-format
+msgid "Always sort applications alphabetically"
+msgstr "Uygulamaları her zaman alfabetik olarak sırala"
+
+#: package/contents/ui/ConfigGeneral.qml:88
+#, kde-format
+msgid "Configure enabled search plugins"
+msgstr "Etkin arama eklentilerini yapılandır"
+
+#: package/contents/ui/ConfigGeneral.qml:98
+#, kde-format
+msgid "Show favorites:"
+msgstr "Sık kullanılanları göster:"
+
+#: package/contents/ui/ConfigGeneral.qml:99
+#, kde-format
+msgctxt "Part of a sentence: 'Show favorites in a grid'"
+msgid "In a grid"
+msgstr "bir ızgara olarak"
+
+#: package/contents/ui/ConfigGeneral.qml:107
+#, kde-format
+msgctxt "Part of a sentence: 'Show favorites in a list'"
+msgid "In a list"
+msgstr "bir liste olarak"
+
+#: package/contents/ui/ConfigGeneral.qml:115
+#, kde-format
+msgid "Show other applications:"
+msgstr "Diğer uygulamaları göster:"
+
+#: package/contents/ui/ConfigGeneral.qml:116
+#, kde-format
+msgctxt "Part of a sentence: 'Show other applications in a grid'"
+msgid "In a grid"
+msgstr "bir ızgara olarak"
+
+#: package/contents/ui/ConfigGeneral.qml:124
+#, kde-format
+msgctxt "Part of a sentence: 'Show other applications in a list'"
+msgid "In a list"
+msgstr "bir liste olarak"
+
+#: package/contents/ui/ConfigGeneral.qml:136
+#, kde-format
+msgid "Show buttons for:"
+msgstr "Şunlar için düğmeleri göster:"
+
+#: package/contents/ui/ConfigGeneral.qml:137
+#: package/contents/ui/LeaveButtons.qml:74
+#, kde-format
+msgid "Power"
+msgstr "Güç"
+
+#: package/contents/ui/ConfigGeneral.qml:146
+#, kde-format
+msgid "Session"
+msgstr "Oturum"
+
+#: package/contents/ui/ConfigGeneral.qml:155
+#, kde-format
+msgid "Power and session"
+msgstr "Güç ve oturum"
+
+#: package/contents/ui/ConfigGeneral.qml:164
+#, kde-format
+msgid "Show action button captions"
+msgstr "Eylem düğmesi başlıklarını göster"
+
+#: package/contents/ui/Footer.qml:109
+#, kde-format
+msgid "Applications"
+msgstr "Uygulamalar"
+
+#: package/contents/ui/Footer.qml:122
+#, kde-format
+msgid "Places"
+msgstr "Yerler"
+
+#: package/contents/ui/Header.qml:63
+#, kde-format
+msgid "Go to user settings"
+msgstr "Kullanıcı ayarlarına git"
+
+#: package/contents/ui/Header.qml:171
+#, kde-format
+msgid "Search…"
+msgstr "Ara…"
+
+#: package/contents/ui/Header.qml:248
+#, kde-format
+msgid "Keep Open"
+msgstr "Açık Tut"
+
+#: package/contents/ui/Kickoff.qml:156
+#, kde-format
+msgid "Edit Applications…"
+msgstr "Uygulamaları Düzenle…"
+
+#: package/contents/ui/KickoffGridView.qml:80
+#, kde-format
+msgid "Grid with %1 rows, %2 columns"
+msgstr "Izgara %1 satırlı, %2 sütunlu"
+
+#: package/contents/ui/LeaveButtons.qml:74
+#, kde-format
+msgid "Leave"
+msgstr "Çık"
+
+#: package/contents/ui/LeaveButtons.qml:74
+#, kde-format
+msgid "More"
+msgstr "Daha fazla"
+
+#: package/contents/ui/PlacesPage.qml:51
+#, kde-format
+msgctxt "category in Places sidebar"
+msgid "Computer"
+msgstr "Bilgisayar"
+
+#: package/contents/ui/PlacesPage.qml:52
+#, kde-format
+msgctxt "category in Places sidebar"
+msgid "History"
+msgstr "Geçmiş"
+
+#: package/contents/ui/PlacesPage.qml:53
+#, kde-format
+msgctxt "category in Places sidebar"
+msgid "Frequently Used"
+msgstr "Sıklıkla Kullanılan"

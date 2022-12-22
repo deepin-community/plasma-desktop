@@ -1,0 +1,80 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Xəyyam Qocayev <xxmn77@gmail.com>, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-05-28 19:34+0400\n"
+"Last-Translator: Kheyyam Gojayev <xxmn77@gmail.com>\n"
+"Language-Team: Azerbaijani <kde-i18n-doc@kde.org>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 21.04.1\n"
+
+#: app/emojier.cpp:80 app/emojier.cpp:82
+#, kde-format
+msgid "Emoji Selector"
+msgstr "Emoji seçici paneli"
+
+#: app/emojier.cpp:84
+#, kde-format
+msgid "(C) 2019 Aleix Pol i Gonzalez"
+msgstr "(C) 2019 Aleix Pol i Gonzalez"
+
+#: app/emojier.cpp:86
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Xəyyam Qocayev"
+
+#: app/emojier.cpp:86
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "xxmn77@gmail.com"
+
+#: app/emojier.cpp:101
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "Mövcud nümunəni dəyişmək"
+
+#: app/ui/CategoryPage.qml:46
+#, kde-format
+msgid "Search…"
+msgstr "Axtarış…"
+
+#: app/ui/CategoryPage.qml:69
+#, kde-format
+msgid "Clear History"
+msgstr "Tarixçəni silin"
+
+#: app/ui/emojier.qml:36
+#, kde-format
+msgid "%1 copied to the clipboard"
+msgstr "%1 bufer yaddaşına kopyalanıb"
+
+#: app/ui/emojier.qml:40 app/ui/emojier.qml:62
+#, kde-format
+msgid "Search"
+msgstr "Axtarış"
+
+#: app/ui/emojier.qml:51
+#, kde-format
+msgid "Recent"
+msgstr "Əvvəlki"
+
+#: app/ui/emojier.qml:73
+#, kde-format
+msgid "All"
+msgstr "Bütün"
+
+#: app/ui/emojier.qml:81
+#, kde-format
+msgid "Categories"
+msgstr "Kateqoriyalar"

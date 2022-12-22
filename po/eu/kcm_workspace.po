@@ -1,0 +1,179 @@
+# Translation for kcm_workspace.po to Euskara/Basque (eu).
+# Copyright (C) 2018, Free Software Foundation.
+# Copyright (C) 2019-2021, This file is copyright:
+# This file is distributed under the same license as plasma-desktop package.
+# KDE euskaratzeko proiektuko arduraduna <xalba@euskalnet.net>.
+#
+# Translators:
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2018, 2019, 2020, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-03-31 10:27+0200\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
+"Language-Team: Basque <kde-i18n-eu@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Iñigo Salvador Azurmendi"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "xalba@euskalnet.net"
+
+#: package/contents/ui/main.qml:24
+#, kde-format
+msgid "Visual behavior:"
+msgstr "Ikuste-jokabidea:"
+
+#. i18n: ectx: label, entry (delay), group (PlasmaToolTips)
+#: package/contents/ui/main.qml:25 workspaceoptions_plasmasettings.kcfg:9
+#, kde-format
+msgid "Display informational tooltips on mouse hover"
+msgstr "Bistaratu informatzeko argibideak sagua gainetik igarotzean"
+
+#. i18n: ectx: label, entry (osdEnabled), group (OSD)
+#: package/contents/ui/main.qml:43 workspaceoptions_plasmasettings.kcfg:15
+#, kde-format
+msgid "Display visual feedback for status changes"
+msgstr "Bistaratu egoera aldaketen ikuste-berrelikadura"
+
+#: package/contents/ui/main.qml:61
+#, kde-format
+msgid "Animation speed:"
+msgstr "Animazioaren abiadura:"
+
+#: package/contents/ui/main.qml:91
+#, kde-format
+msgctxt "Animation speed"
+msgid "Slow"
+msgstr "Motel"
+
+#: package/contents/ui/main.qml:97
+#, kde-format
+msgctxt "Animation speed"
+msgid "Instant"
+msgstr "Bat-bateko"
+
+#: package/contents/ui/main.qml:112
+#, kde-format
+msgctxt ""
+"part of a sentence: 'Clicking files or folders [opens them/selects them]'"
+msgid "Clicking files or folders:"
+msgstr "Fitxategiei edo karpetei klik egitean:"
+
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgctxt "part of a sentence: 'Clicking files or folders opens them'"
+msgid "Opens them"
+msgstr "Haiek irekitzen ditu"
+
+#: package/contents/ui/main.qml:126
+#, kde-format
+msgctxt "part of a sentence: 'Clicking files or folders selects them'"
+msgid "Selects them"
+msgstr "Haiek hautatzen ditu"
+
+#: package/contents/ui/main.qml:141
+#, kde-format
+msgid "Select by clicking on item's selection marker"
+msgstr "Hautatu elementuaren hautapen markatzailean klik eginez"
+
+#: package/contents/ui/main.qml:141
+#, kde-format
+msgid "Open by double-clicking instead"
+msgstr "Ireki, horren ordez, klik bikoitza eginez"
+
+#: package/contents/ui/main.qml:156
+#, kde-format
+msgid "Clicking in scrollbar track:"
+msgstr "Kiribiltzeko-barraren arrastoan klik egitea:"
+
+#: package/contents/ui/main.qml:157
+#, kde-format
+msgctxt ""
+"@radio part of a complete sentence: 'Clicking in scrollbar track scrolls one "
+"page up or down'"
+msgid "Scrolls one page up or down"
+msgstr "Orri bat gora edo behera kiribiltzen du"
+
+#: package/contents/ui/main.qml:170
+#, kde-format
+msgctxt ""
+"@radio part of a complete sentence: 'Clicking in scrollbar track scrolls to "
+"the clicked location'"
+msgid "Scrolls to the clicked location"
+msgstr "klik egindako kokalekura kiribiltzen du"
+
+#: package/contents/ui/main.qml:189
+#, kde-format
+msgid "Middle-click to scroll to clicked location"
+msgstr "Erdiko klik, klikatutako kokalekuraino kiribiltzeko"
+
+#: workspaceoptions.cpp:31
+#, kde-format
+msgid "General Behavior"
+msgstr "Jokabide orokorra"
+
+#: workspaceoptions.cpp:33
+#, kde-format
+msgid "System Settings module for configuring general workspace behavior."
+msgstr ""
+"Plasma langunearen jokabidea konfiguratzeko Sistemaren Ezarpenak modulua."
+
+#: workspaceoptions.cpp:36
+#, kde-format
+msgid "Furkan Tokac"
+msgstr "Furkan Tokac"
+
+#. i18n: ectx: label, entry (singleClick), group (KDE)
+#: workspaceoptions_kdeglobalssettings.kcfg:9
+#, kde-format
+msgid "Single click to open files"
+msgstr "Klik bakuna fitxategiak irekitzeko"
+
+#. i18n: ectx: label, entry (animationDurationFactor), group (KDE)
+#: workspaceoptions_kdeglobalssettings.kcfg:13
+#, kde-format
+msgid "Animation speed"
+msgstr "Animazioaren abiadura"
+
+#. i18n: ectx: label, entry (scrollbarLeftClickNavigatesByPage), group (KDE)
+#: workspaceoptions_kdeglobalssettings.kcfg:17
+#, kde-format
+msgid "Left-click in scrollbar track moves scrollbar by one page"
+msgstr ""
+"Ezker-klik kiribiltzeko-barraren bidean kiribiltzeko-barra orri bete "
+"mugitzen du"
+
+#. i18n: ectx: tooltip, entry (osdEnabled), group (OSD)
+#: workspaceoptions_plasmasettings.kcfg:16
+#, kde-format
+msgid ""
+"Show an on-screen display to indicate status changes such as brightness or "
+"volume"
+msgstr ""
+"Erakutsi pantailako adierazle bat distira edo bolumena bezalako egoera "
+"aldaketak adierazteko"
+
+#. i18n: ectx: label, entry (osdKbdLayoutChangedEnabled), group (OSD)
+#: workspaceoptions_plasmasettings.kcfg:20
+#, kde-format
+msgid "OSD on layout change"
+msgstr "OSDa antolaerak aldatzean"
+
+#. i18n: ectx: tooltip, entry (osdKbdLayoutChangedEnabled), group (OSD)
+#: workspaceoptions_plasmasettings.kcfg:21
+#, kde-format
+msgid "Show a popup on layout changes"
+msgstr "Erakutsi leiho gainerakor bat antolaerak aldatzean"

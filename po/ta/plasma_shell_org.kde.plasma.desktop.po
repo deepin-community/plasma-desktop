@@ -1,0 +1,397 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Kishore G <kishore96@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-10-20 01:43+0000\n"
+"PO-Revision-Date: 2021-09-28 21:35+0530\n"
+"Last-Translator: Kishore G <kishore96@gmail.com>\n"
+"Language-Team: Tamil <kde-i18n-doc@kde.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 21.08.1\n"
+
+#: contents/activitymanager/ActivityItem.qml:212
+msgid "Currently being used"
+msgstr "இப்போது பயன்படுத்தப்படுவது"
+
+#: contents/activitymanager/ActivityItem.qml:252
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"இந்த செயல்பாட்டிற்கு\n"
+"நகர்த்து"
+
+#: contents/activitymanager/ActivityItem.qml:282
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"இந்த செயல்பாட்டிலும்\n"
+"காட்டு"
+
+#: contents/activitymanager/ActivityItem.qml:342
+msgid "Configure"
+msgstr "அமை"
+
+#: contents/activitymanager/ActivityItem.qml:359
+msgid "Stop activity"
+msgstr "செயல்பாட்டை நிறுத்து"
+
+#: contents/activitymanager/ActivityList.qml:143
+msgid "Stopped activities:"
+msgstr "நிறுத்திய செயல்பாட்டுகள்:"
+
+#: contents/activitymanager/ActivityManager.qml:127
+msgid "Create activity…"
+msgstr "செயல்பாட்டை உருவாக்கு"
+
+#: contents/activitymanager/Heading.qml:61
+msgid "Activities"
+msgstr "செயல்பாடுகள்"
+
+#: contents/activitymanager/Heading.qml:78
+#: contents/explorer/WidgetExplorer.qml:230
+msgid "Search…"
+msgstr "தேடு..."
+
+#: contents/activitymanager/StoppedActivityItem.qml:133
+msgid "Configure activity"
+msgstr "செயல்பாட்டை அமை"
+
+#: contents/activitymanager/StoppedActivityItem.qml:148
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: contents/applet/AppletError.qml:52
+msgid "Sorry! There was an error loading %1."
+msgstr "மன்னிக்கவும்! %1 என்பதை ஏற்றுவதில் சிக்கல் ஏற்பட்டது."
+
+#: contents/applet/AppletError.qml:60
+msgid "Copy Error Details to Clipboard"
+msgstr "சிக்கலின் விவரங்களை பிடிப்புப்பலகைக்கு நகலெடு"
+
+#: contents/configuration/AboutPlugin.qml:19
+#: contents/configuration/AppletConfiguration.qml:227
+msgid "About"
+msgstr "பற்றி"
+
+#: contents/configuration/AboutPlugin.qml:45
+msgid "Send an email to %1"
+msgstr "%1 என்பவருக்கு மின்னஞ்சல் அனுப்பு"
+
+#: contents/configuration/AboutPlugin.qml:94
+msgid "Copyright"
+msgstr "பதிப்புரிமை"
+
+#: contents/configuration/AboutPlugin.qml:114 contents/explorer/Tooltip.qml:93
+msgid "License:"
+msgstr "உரிமம்:"
+
+#: contents/configuration/AboutPlugin.qml:127
+msgid "Authors"
+msgstr "இயற்றியவர்கள்"
+
+#: contents/configuration/AboutPlugin.qml:137
+msgid "Credits"
+msgstr "நன்றி"
+
+#: contents/configuration/AboutPlugin.qml:148
+msgid "Translators"
+msgstr "மொழிபெயர்ப்பாளர்கள்"
+
+#: contents/configuration/AppletConfiguration.qml:40
+msgid "Keyboard Shortcuts"
+msgstr "விசைப்பலகை சுருக்குவழிகள்"
+
+#: contents/configuration/AppletConfiguration.qml:275
+msgid "Apply Settings"
+msgstr "அமைப்புகளை செயல்படுத்து"
+
+#: contents/configuration/AppletConfiguration.qml:276
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"தற்போதைய கூறின் அமைப்புகள் மாறியுள்ளன. அவற்றை செயல்படுத்த வேண்டுமா, அல்லது கைவிட "
+"வேண்டுமா?"
+
+#: contents/configuration/AppletConfiguration.qml:301
+msgid "OK"
+msgstr "சரி"
+
+#: contents/configuration/AppletConfiguration.qml:309
+msgid "Apply"
+msgstr "செயல்படுத்து"
+
+#: contents/configuration/AppletConfiguration.qml:315
+#: contents/explorer/AppletAlternatives.qml:175
+msgid "Cancel"
+msgstr "ரத்து செய்"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:29
+msgid "Open configuration page"
+msgstr "விருப்பத்தேர்வு பக்கத்தை திற"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:19
+msgid "Left-Button"
+msgstr "இடது பட்டன்"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:20
+msgid "Right-Button"
+msgstr "வலது பட்டன்"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Middle-Button"
+msgstr "நடு பட்டன்"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Back-Button"
+msgstr "பின் பட்டன்"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Forward-Button"
+msgstr "முன் பட்டன்"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Vertical-Scroll"
+msgstr "செங்குத்து உருளல்"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:26
+msgid "Horizontal-Scroll"
+msgstr "கிடைமட்ட உருளல்"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Shift"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:29
+msgid "Ctrl"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Alt"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Meta"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:73
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:153
+#: contents/configuration/MouseEventInputButton.qml:15
+msgid "Add Action"
+msgstr "செயலை சேர்"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:26
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:68
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "தளவமைப்பு மாற்றங்களை கணினி நிர்வாகி தடைசெய்துள்ளார்"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:83
+msgid "Layout:"
+msgstr "தளவமைப்பு:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:98
+msgid "Wallpaper Type:"
+msgstr "பின்புல படத்தின் வகை:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:115
+msgid "Get New Plugins…"
+msgstr "புதிய செருகுநிரல்களை பதிவிறக்கு…"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:127
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "தளவமைப்பை மாற்றியதை செயல்படுத்திய பின்னரே மற்ற மாற்றங்களை நீங்கள் செய்யலாம்"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:133
+msgid "Apply now"
+msgstr "இப்போது செயல்படுத்து"
+
+#: contents/configuration/ConfigurationShortcuts.qml:16
+msgid "Shortcuts"
+msgstr "சுருக்குவழிகள்"
+
+#: contents/configuration/ConfigurationShortcuts.qml:26
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "நீங்கள் பிளாஸ்மாய்டை க்ளிக் செய்த‍து போலவே இச்சுருக்குவழி அதனை இயக்கும்."
+
+#: contents/configuration/ContainmentConfiguration.qml:31
+msgid "Wallpaper"
+msgstr "பின்புல படம்"
+
+#: contents/configuration/ContainmentConfiguration.qml:36
+msgid "Mouse Actions"
+msgstr "சுட்டி செயல்கள்"
+
+#: contents/configuration/MouseEventInputButton.qml:22
+msgid "Input Here"
+msgstr "இங்கு உள்ளிடவும்"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:16
+msgid "Screen Edge"
+msgstr "திரையின் ஓரம்"
+
+#: contents/configuration/panelconfiguration/EdgeHandle.qml:28
+msgid "Click and drag the button to a screen edge to move the panel there."
+msgstr "பலகையை வேறொரு ஓரத்திற்கு நகர்த்த இப்பட்டனை அழுத்தி இழுக்கவும்."
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:34
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:168
+msgid "Remove Panel"
+msgstr "பலகையை நீக்கு"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:41
+msgid "Panel Alignment"
+msgstr "பலகையின் சீரமைப்பு"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Top"
+msgstr "மேலே"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:51
+msgid "Left"
+msgstr "இடதுபுறமாக"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+msgid "Center"
+msgstr "நடுவில்"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Bottom"
+msgstr "கீழே"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:73
+msgid "Right"
+msgstr "வலதுபுறமாக"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:83
+msgid "Visibility"
+msgstr "காட்டப்படுவது"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:91
+msgid "Always Visible"
+msgstr "எப்போது காட்டப்படும்"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:99
+msgid "Auto Hide"
+msgstr "தானாக மறை"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:107
+msgid "Windows Can Cover"
+msgstr "சாளரங்கள் இதை மறைக்கலாம்"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:115
+msgid "Windows Go Below"
+msgstr "சாளரங்கள் இதற்கு அடியில் இருக்கலாம்"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:124
+msgid "Opacity"
+msgstr "ஒளிபுகாமை"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:134
+msgid "Adaptive"
+msgstr "மாறக்கூடியது"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+msgid "Opaque"
+msgstr "ஒளி புகாத‍து"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:150
+msgid "Translucent"
+msgstr "ஒளிபுகக்கூடியது"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:159
+msgid "Maximize Panel"
+msgstr "பலகையை அதிகபட்ச பெரிதாக்கு"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:22
+msgid "Add Widgets…"
+msgstr "பிளாஸ்மாய்டுகளை சேர்…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:23
+msgid "Add Spacer"
+msgstr "இடைவெளியை சேர்"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:24
+msgid "More Options…"
+msgstr "மேலும் விருப்பங்கள்…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel width:"
+msgstr "பலகையின் அகலம்:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:100
+msgid "Panel height:"
+msgstr "பலகையின் உயரம்:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:213
+msgid "Close"
+msgstr "மூடு"
+
+#: contents/explorer/AppletAlternatives.qml:72
+msgid "Alternative Widgets"
+msgstr "மாற்று பிளாஸ்மாய்டுகள்"
+
+#: contents/explorer/AppletAlternatives.qml:165
+msgid "Switch"
+msgstr "மாற்று"
+
+#: contents/explorer/AppletDelegate.qml:166
+msgid "Undo uninstall"
+msgstr "நிறுவல்நீக்கியதை செயல்நீக்கு"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Uninstall widget"
+msgstr "பிளாஸ்மாய்டை நிறுவல்நீக்கு"
+
+#: contents/explorer/Tooltip.qml:102
+msgid "Author:"
+msgstr "இயற்றியவர்:"
+
+#: contents/explorer/Tooltip.qml:110
+msgid "Email:"
+msgstr "மின்னஞ்சல்:"
+
+#: contents/explorer/Tooltip.qml:129
+msgid "Uninstall"
+msgstr "நிறுவல் நீக்கு"
+
+#: contents/explorer/WidgetExplorer.qml:129
+#: contents/explorer/WidgetExplorer.qml:245
+msgid "All Widgets"
+msgstr "அனைத்து பிளாஸ்மாய்டுகள்"
+
+#: contents/explorer/WidgetExplorer.qml:204
+msgid "Widgets"
+msgstr "பிளாஸ்மாய்டுகள்"
+
+#: contents/explorer/WidgetExplorer.qml:212
+msgid "Get New Widgets…"
+msgstr "புதிய பிளாஸ்மாய்டுகளை பெறு…"
+
+#: contents/explorer/WidgetExplorer.qml:244
+msgid "Categories"
+msgstr "வகைகள்"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets matched the search terms"
+msgstr "தேடலுக்கு எந்த பிளாஸ்மாய்டும் பொருந்தவில்லை"
+
+#: contents/explorer/WidgetExplorer.qml:339
+msgid "No widgets available"
+msgstr "பிளாஸ்மாய்டுகள் ஏதுமில்லை"

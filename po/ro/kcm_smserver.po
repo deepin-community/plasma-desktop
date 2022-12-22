@@ -1,0 +1,191 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# Sergiu Bivol <sergiu@cip.md>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-04-16 18:34+0100\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@cip.md"
+
+#: kcmsmserver.cpp:51
+#, kde-format
+msgid ""
+"<h1>Session Manager</h1> You can configure the session manager here. This "
+"includes options such as whether or not the session exit (logout) should be "
+"confirmed, whether the session should be restored again when logging in and "
+"whether the computer should be automatically shut down after session exit by "
+"default."
+msgstr ""
+"<h1>Administratorul de sesiune</h1> Aici puteți configura administratorul de "
+"sesiune. Acesta include opțiuni printre care dacă ieșirea din mediul KDE va "
+"fi sau nu confirmată, dacă sesiunea precedentă va fi refăcută la următoarea "
+"autentificare și dacă mașina să fie oprită automat după ce închideți "
+"sesiunea."
+
+#: kcmsmserver.cpp:62
+#, kde-format
+msgid "Desktop Session"
+msgstr "Sesiune de birou"
+
+#: kcmsmserver.cpp:64
+#, kde-format
+msgid "Desktop Session Login and Logout"
+msgstr "Autentificare și ieșire din sesiunea de birou"
+
+#: kcmsmserver.cpp:66
+#, kde-format
+msgid "Copyright © 2000–2020 Desktop Session team"
+msgstr "Drept de autor © 2000–2020 Echipa Sesiunii de Birou"
+
+#: kcmsmserver.cpp:68
+#, kde-format
+msgid "Oswald Buddenhagen"
+msgstr "Oswald Buddenhagen"
+
+#: kcmsmserver.cpp:69
+#, kde-format
+msgid "Carl Schwan"
+msgstr "Carl Schwan"
+
+#: package/contents/ui/main.qml:25
+#, kde-format
+msgid "Failed to request restart to firmware setup: %1"
+msgstr "Cererea de repornire în configurarea firmware a eșuat: %1"
+
+#: package/contents/ui/main.qml:26
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the UEFI setup screen."
+msgstr ""
+"La următoarea repornire a calculatorului, acesta va intra în ecranul de "
+"configurare UEFI."
+
+#: package/contents/ui/main.qml:27
+#, kde-format
+msgid ""
+"Next time the computer is restarted, it will enter the firmware setup screen."
+msgstr ""
+"La următoarea repornire a calculatorului, acesta va intra în ecranul de "
+"configurare a firmware-ului."
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Restart Now"
+msgstr "Repornește acum"
+
+#: package/contents/ui/main.qml:38
+#, kde-format
+msgid "General:"
+msgstr "Generale:"
+
+#. i18n: ectx: label, entry (confirmLogout), group (General)
+#: package/contents/ui/main.qml:39 smserversettings.kcfg:9
+#, kde-format
+msgid "Confirm logout"
+msgstr "Confirmă ieșirea"
+
+#. i18n: ectx: label, entry (offerShutdown), group (General)
+#: package/contents/ui/main.qml:48 smserversettings.kcfg:13
+#, kde-format
+msgid "Offer shutdown options"
+msgstr "Oferă opțiuni de oprire a sistemului"
+
+#: package/contents/ui/main.qml:65
+#, kde-format
+msgid "Default leave option:"
+msgstr "Opțiunea implicită de plecare:"
+
+#: package/contents/ui/main.qml:66
+#, kde-format
+msgid "End current session"
+msgstr "Termină sesiunea actuală"
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Restart computer"
+msgstr "Repornește calculatorul"
+
+#: package/contents/ui/main.qml:86
+#, kde-format
+msgid "Turn off computer"
+msgstr "Deconectează calculatorul"
+
+#: package/contents/ui/main.qml:102
+#, kde-format
+msgid "When logging in:"
+msgstr "La autentificare:"
+
+#: package/contents/ui/main.qml:103
+#, kde-format
+msgid "Restore previous saved session"
+msgstr "Restabilește sesiunea salvată precedentă"
+
+#: package/contents/ui/main.qml:113
+#, kde-format
+msgid "Restore manually saved session"
+msgstr "Restabilește sesiunea salvată manual"
+
+#: package/contents/ui/main.qml:123
+#, kde-format
+msgid "Start with an empty session"
+msgstr "Pornește cu o sesiune goală"
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "Don't restore these applications:"
+msgstr "Nu restabili aceste aplicații:"
+
+#: package/contents/ui/main.qml:142
+#, kde-format
+msgid ""
+"Here you can enter a colon or comma separated list of applications that "
+"should not be saved in sessions, and therefore will not be started when "
+"restoring a session. For example 'xterm:konsole' or 'xterm,konsole'."
+msgstr ""
+"Aici puteți introduce o listă de aplicații separate prin virgulă sau două "
+"puncte, care nu trebuiesc salvate în sesiuni și nu vor fi pornite la "
+"restabilirea sesiunii. De exemplu: „xterm:konsole” sau „xterm,konsole”."
+
+#: package/contents/ui/main.qml:156
+#, kde-format
+msgid "Enter firmware setup screen on next restart"
+msgstr "Intră în ecranul de configurare firmware la următoarea repornire"
+
+#. i18n: ectx: label, entry (shutdownType), group (General)
+#: smserversettings.kcfg:17
+#, kde-format
+msgid "Default leave option"
+msgstr "Opțiunea implicită de plecare"
+
+#. i18n: ectx: label, entry (loginMode), group (General)
+#: smserversettings.kcfg:26
+#, kde-format
+msgid "On login"
+msgstr "La autentificare"
+
+#. i18n: ectx: label, entry (excludeApps), group (General)
+#: smserversettings.kcfg:30
+#, kde-format
+msgid "Applications to be excluded from session"
+msgstr "Aplicații de exclus din sesiune"

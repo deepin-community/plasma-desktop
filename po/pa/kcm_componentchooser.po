@@ -1,0 +1,102 @@
+# translation of kcmcomponentchooser.po to Punjabi
+# Amanpreet Singh Alam <aalam@redhat.com>, 2004, 2005.
+# Amanpreet Singh Brar <amanpreetalam@yahoo.com>, 2005.
+# A S Alam <aalam@users.sf.net>, 2007, 2008, 2010, 2011, 2021.
+# Amanpreet Singh Alam <aalam@users.sf.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmcomponentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-26 00:19+0000\n"
+"PO-Revision-Date: 2021-01-23 14:54-0800\n"
+"Last-Translator: A S Alam <aalam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.08.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ਅਮਨਪਰੀਤ ਸਿੰਘ ਆਲਮ"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "alam.yellow@gmail.com"
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr "ਮੂਲ ਵੈੱਬ ਬਰਾਊਜ਼ਰ"
+
+#: componentchooser.cpp:73 componentchooserterminal.cpp:74
+#, fuzzy, kde-format
+#| msgid "Other..."
+msgid "Other…"
+msgstr "...ਹੋਰ"
+
+#: componentchooserbrowser.cpp:18
+#, kde-format
+msgid "Select default browser"
+msgstr "ਮੂਲ ਬਰਾਊਜ਼ਰ ਚੁਣੋ"
+
+#: componentchooseremail.cpp:19
+#, kde-format
+msgid "Select default e-mail client"
+msgstr "ਮੂਲ ਈ-ਮੇਲ ਕਲਾਈਂਟ ਚੁਣੋ"
+
+#: componentchooserfilemanager.cpp:14
+#, kde-format
+msgid "Select default file manager"
+msgstr "ਮੂਲ ਫਾਇਲ ਮੈਨੇਜਰ ਚੁਣੋ"
+
+#: componentchooserterminal.cpp:24
+#, kde-format
+msgid "Select default terminal emulator"
+msgstr "ਮੂਲ ਟਰਮੀਨਲ ਈਮੂਲੇਟਰ ਚੁਣੋ"
+
+#: kcm_componentchooser.cpp:27
+#, kde-format
+msgctxt "@title"
+msgid "Default Applications"
+msgstr "ਮੂਲ ਐਪਲੀਕੇਸ਼ਨਾਂ"
+
+#: kcm_componentchooser.cpp:32
+#, kde-format
+msgid "Joseph Wenninger"
+msgstr "ਜੋਸਫ ਵੀਨੀਗੀਰ"
+
+#: kcm_componentchooser.cpp:33
+#, kde-format
+msgid "Méven Car"
+msgstr "ਮੇਵਨ ਕਾਰ"
+
+#: kcm_componentchooser.cpp:34
+#, kde-format
+msgid "Tobias Fella"
+msgstr "ਟੋਬਿਸ ਫੇਲਾ"
+
+#: package/contents/ui/main.qml:16
+#, kde-format
+msgid "Web browser:"
+msgstr "ਵੈੱਬ ਬਰਾਊਜ਼ਰ:"
+
+#: package/contents/ui/main.qml:24
+#, kde-format
+msgid "File manager:"
+msgstr "ਫਾਇਲ ਮੈਨੇਜਰ:"
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "Email client:"
+msgstr "ਈ-ਮੇਲ ਕਲਾਇਟ:"
+
+#: package/contents/ui/main.qml:40
+#, kde-format
+msgid "Terminal emulator:"
+msgstr "ਟਰਮੀਨਲ ਈਮੂਲੇਟਰ:"
